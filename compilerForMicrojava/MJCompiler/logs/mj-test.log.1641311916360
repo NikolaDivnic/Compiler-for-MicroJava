@@ -1,0 +1,206 @@
+INFO  16:58:13,088 - Compiling source file: C:\pp\workspace\MJCompiler\test\program3.mj
+INFO  16:58:13,142 - #2 program
+INFO  16:58:13,142 - #3 MJProgram
+INFO  16:58:13,142 - #3 int
+INFO  16:58:13,143 - #3 x
+INFO  16:58:13,144 - #25 ;
+INFO  16:58:13,145 - #3 int
+INFO  16:58:13,145 - #3 y
+INFO  16:58:13,146 - #25 ;
+INFO  16:58:13,146 - #4 {
+INFO  16:58:13,146 - #16 void
+INFO  16:58:13,147 - #3 main
+INFO  16:58:13,148 - #12 (
+INFO  16:58:13,148 - #9 )
+INFO  16:58:13,149 - #3 int
+INFO  16:58:13,150 - #3 niz
+INFO  16:58:13,150 - #11 [
+INFO  16:58:13,150 - #10 ]
+INFO  16:58:13,150 - #25 ;
+INFO  16:58:13,150 - #3 char
+INFO  16:58:13,151 - #3 cniz
+INFO  16:58:13,151 - #11 [
+INFO  16:58:13,151 - #10 ]
+INFO  16:58:13,151 - #25 ;
+INFO  16:58:13,156 - #4 {
+INFO  16:58:13,156 - #3 y
+INFO  16:58:13,157 - #47 =
+INFO  16:58:13,157 - #32 10
+INFO  16:58:13,158 - #25 ;
+INFO  16:58:13,158 - #3 x
+INFO  16:58:13,159 - #47 =
+INFO  16:58:13,159 - #32 3
+INFO  16:58:13,159 - #25 ;
+INFO  16:58:13,159 - #14 print
+INFO  16:58:13,159 - #12 (
+INFO  16:58:13,159 - #3 x
+INFO  16:58:13,159 - #9 )
+INFO  16:58:13,160 - #25 ;
+INFO  16:58:13,161 - #14 print
+INFO  16:58:13,161 - #12 (
+INFO  16:58:13,161 - #3 y
+INFO  16:58:13,161 - #9 )
+INFO  16:58:13,161 - #25 ;
+INFO  16:58:13,161 - #5 }
+INFO  16:58:13,161 - #5 }
+INFO  16:58:13,169 - Program(
+  ProgName(
+   MJProgram
+  ) [ProgName]
+  DeclarationsList(
+    DeclarationsList(
+      NoDecl(
+      ) [NoDecl]
+      VarDeclaration(
+        VarDeclDecl(
+          Type(
+           int
+          ) [Type]
+          VarNotHaveBracket(
+           x
+          ) [VarNotHaveBracket]
+          NoVarDeclList(
+          ) [NoVarDeclList]
+        ) [VarDeclDecl]
+      ) [VarDeclaration]
+    ) [DeclarationsList]
+    VarDeclaration(
+      VarDeclDecl(
+        Type(
+         int
+        ) [Type]
+        VarNotHaveBracket(
+         y
+        ) [VarNotHaveBracket]
+        NoVarDeclList(
+        ) [NoVarDeclList]
+      ) [VarDeclDecl]
+    ) [VarDeclaration]
+  ) [DeclarationsList]
+  MethodDeclarationsList(
+    NoMethodDeclarations(
+    ) [NoMethodDeclarations]
+    MethodDeclaration(
+      MethodDeclarationsVoid(
+      ) [MethodDeclarationsVoid]
+      MethodName(
+       main
+      ) [MethodName]
+      MethodAfterTypeWithoutFormPars(
+      ) [MethodAfterTypeWithoutFormPars]
+      VarDeclarations(
+        VarDeclarations(
+          NoVarDecl(
+          ) [NoVarDecl]
+          VarDeclDecl(
+            Type(
+             int
+            ) [Type]
+            VarHaveBracket(
+             niz
+            ) [VarHaveBracket]
+            NoVarDeclList(
+            ) [NoVarDeclList]
+          ) [VarDeclDecl]
+        ) [VarDeclarations]
+        VarDeclDecl(
+          Type(
+           char
+          ) [Type]
+          VarHaveBracket(
+           cniz
+          ) [VarHaveBracket]
+          NoVarDeclList(
+          ) [NoVarDeclList]
+        ) [VarDeclDecl]
+      ) [VarDeclarations]
+      StatListDecl(
+        StatListDecl(
+          StatListDecl(
+            StatListDecl(
+              NoStatementList(
+              ) [NoStatementList]
+              SingleStatementNoLabel(
+                SingleStatementDesignator(
+                  AssignopExpr(
+                    CleanDesignator(
+                     y
+                    ) [CleanDesignator]
+                    AssignopDecl(
+                    ) [AssignopDecl]
+                    AddOperationTerm(
+                      OneTerm(
+                        TermStmtOnly(
+                          FactorNumConst(
+                           10
+                          ) [FactorNumConst]
+                        ) [TermStmtOnly]
+                      ) [OneTerm]
+                    ) [AddOperationTerm]
+                  ) [AssignopExpr]
+                ) [SingleStatementDesignator]
+              ) [SingleStatementNoLabel]
+            ) [StatListDecl]
+            SingleStatementNoLabel(
+              SingleStatementDesignator(
+                AssignopExpr(
+                  CleanDesignator(
+                   x
+                  ) [CleanDesignator]
+                  AssignopDecl(
+                  ) [AssignopDecl]
+                  AddOperationTerm(
+                    OneTerm(
+                      TermStmtOnly(
+                        FactorNumConst(
+                         3
+                        ) [FactorNumConst]
+                      ) [TermStmtOnly]
+                    ) [OneTerm]
+                  ) [AddOperationTerm]
+                ) [AssignopExpr]
+              ) [SingleStatementDesignator]
+            ) [SingleStatementNoLabel]
+          ) [StatListDecl]
+          SingleStatementNoLabel(
+            PrintStatement(
+              AddOperationTerm(
+                OneTerm(
+                  TermStmtOnly(
+                    FactorDesignatorNoParam(
+                      CleanDesignator(
+                       x
+                      ) [CleanDesignator]
+                    ) [FactorDesignatorNoParam]
+                  ) [TermStmtOnly]
+                ) [OneTerm]
+              ) [AddOperationTerm]
+              NoExprForPrint(
+              ) [NoExprForPrint]
+            ) [PrintStatement]
+          ) [SingleStatementNoLabel]
+        ) [StatListDecl]
+        SingleStatementNoLabel(
+          PrintStatement(
+            AddOperationTerm(
+              OneTerm(
+                TermStmtOnly(
+                  FactorDesignatorNoParam(
+                    CleanDesignator(
+                     y
+                    ) [CleanDesignator]
+                  ) [FactorDesignatorNoParam]
+                ) [TermStmtOnly]
+              ) [OneTerm]
+            ) [AddOperationTerm]
+            NoExprForPrint(
+            ) [NoExprForPrint]
+          ) [PrintStatement]
+        ) [SingleStatementNoLabel]
+      ) [StatListDecl]
+    ) [MethodDeclaration]
+  ) [MethodDeclarationsList]
+) [Program]
+INFO  16:58:13,170 - ===================================
+INFO  16:58:13,175 - ===================================
+INFO  16:58:13,179 - Parsiranje uspesno zavrseno!

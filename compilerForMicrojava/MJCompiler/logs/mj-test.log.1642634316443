@@ -1,0 +1,282 @@
+INFO  00:18:05,607 - Compiling source file: C:\pp\workspace\MJCompiler\test\program3.mj
+INFO  00:18:05,663 - #2 program
+INFO  00:18:05,663 - #3 MJProgram
+INFO  00:18:05,663 - #4 {
+INFO  00:18:05,664 - #16 void
+INFO  00:18:05,665 - #3 main
+INFO  00:18:05,666 - #12 (
+INFO  00:18:05,667 - #9 )
+INFO  00:18:05,667 - #3 int
+INFO  00:18:05,668 - #3 x
+INFO  00:18:05,669 - #36 ,
+INFO  00:18:05,669 - #3 niz
+INFO  00:18:05,669 - #11 [
+INFO  00:18:05,669 - #10 ]
+INFO  00:18:05,669 - #25 ;
+INFO  00:18:05,670 - #3 char
+INFO  00:18:05,671 - #3 c
+INFO  00:18:05,671 - #36 ,
+INFO  00:18:05,671 - #3 cniz
+INFO  00:18:05,671 - #11 [
+INFO  00:18:05,671 - #10 ]
+INFO  00:18:05,671 - #25 ;
+INFO  00:18:05,671 - #4 {
+INFO  00:18:05,671 - #3 niz
+INFO  00:18:05,677 - #47 =
+INFO  00:18:05,677 - #15 new
+INFO  00:18:05,678 - #3 int
+INFO  00:18:05,679 - #11 [
+INFO  00:18:05,679 - #32 3
+INFO  00:18:05,679 - #10 ]
+INFO  00:18:05,680 - #25 ;
+INFO  00:18:05,680 - #3 niz
+INFO  00:18:05,680 - #11 [
+INFO  00:18:05,680 - #32 0
+INFO  00:18:05,681 - #10 ]
+INFO  00:18:05,681 - #47 =
+INFO  00:18:05,681 - #32 11
+INFO  00:18:05,681 - #25 ;
+INFO  00:18:05,681 - #3 niz
+INFO  00:18:05,681 - #11 [
+INFO  00:18:05,681 - #32 1
+INFO  00:18:05,681 - #10 ]
+INFO  00:18:05,681 - #47 =
+INFO  00:18:05,682 - #32 12
+INFO  00:18:05,682 - #25 ;
+INFO  00:18:05,682 - #3 niz
+INFO  00:18:05,682 - #11 [
+INFO  00:18:05,682 - #32 2
+INFO  00:18:05,682 - #10 ]
+INFO  00:18:05,682 - #47 =
+INFO  00:18:05,682 - #32 13
+INFO  00:18:05,682 - #25 ;
+INFO  00:18:05,683 - #14 print
+INFO  00:18:05,683 - #12 (
+INFO  00:18:05,683 - #3 niz
+INFO  00:18:05,683 - #36 ,
+INFO  00:18:05,683 - #32 1
+INFO  00:18:05,683 - #9 )
+INFO  00:18:05,684 - #25 ;
+INFO  00:18:05,684 - #5 }
+INFO  00:18:05,685 - #5 }
+INFO  00:18:05,693 - Program(
+  ProgName(
+   MJProgram
+  ) [ProgName]
+  NoDecl(
+  ) [NoDecl]
+  MethodDeclarationsList(
+    NoMethodDeclarations(
+    ) [NoMethodDeclarations]
+    MethodDeclaration(
+      MethodDeclarationsVoid(
+      ) [MethodDeclarationsVoid]
+      MethodName(
+       main
+      ) [MethodName]
+      MethodAfterTypeWithoutFormPars(
+      ) [MethodAfterTypeWithoutFormPars]
+      VarDeclarations(
+        VarDeclarations(
+          NoVarDecl(
+          ) [NoVarDecl]
+          VarDeclDecl(
+            Type(
+             int
+            ) [Type]
+            VarNotHaveBracket(
+             x
+            ) [VarNotHaveBracket]
+            VarDeclListDecl(
+              VarDeclListSingle(
+                VarHaveBracket(
+                 niz
+                ) [VarHaveBracket]
+              ) [VarDeclListSingle]
+              NoVarDeclList(
+              ) [NoVarDeclList]
+            ) [VarDeclListDecl]
+          ) [VarDeclDecl]
+        ) [VarDeclarations]
+        VarDeclDecl(
+          Type(
+           char
+          ) [Type]
+          VarNotHaveBracket(
+           c
+          ) [VarNotHaveBracket]
+          VarDeclListDecl(
+            VarDeclListSingle(
+              VarHaveBracket(
+               cniz
+              ) [VarHaveBracket]
+            ) [VarDeclListSingle]
+            NoVarDeclList(
+            ) [NoVarDeclList]
+          ) [VarDeclListDecl]
+        ) [VarDeclDecl]
+      ) [VarDeclarations]
+      StatListDecl(
+        StatListDecl(
+          StatListDecl(
+            StatListDecl(
+              StatListDecl(
+                NoStatementList(
+                ) [NoStatementList]
+                SingleStatementNoLabel(
+                  SingleStatementDesignator(
+                    AssignopExpr(
+                      CleanDesignator(
+                       niz
+                      ) [CleanDesignator]
+                      AssignopDecl(
+                      ) [AssignopDecl]
+                      AddOperationTerm(
+                        OneTerm(
+                          TermStmtOnly(
+                            FactorNewExpr(
+                              NewExpr(
+                              ) [NewExpr]
+                              Type(
+                               int
+                              ) [Type]
+                              AddOperationTerm(
+                                OneTerm(
+                                  TermStmtOnly(
+                                    FactorNumConst(
+                                     3
+                                    ) [FactorNumConst]
+                                  ) [TermStmtOnly]
+                                ) [OneTerm]
+                              ) [AddOperationTerm]
+                            ) [FactorNewExpr]
+                          ) [TermStmtOnly]
+                        ) [OneTerm]
+                      ) [AddOperationTerm]
+                    ) [AssignopExpr]
+                  ) [SingleStatementDesignator]
+                ) [SingleStatementNoLabel]
+              ) [StatListDecl]
+              SingleStatementNoLabel(
+                SingleStatementDesignator(
+                  AssignopExpr(
+                    ArrayElementAccessDesignator(
+                      CleanDesignator(
+                       niz
+                      ) [CleanDesignator]
+                      AddOperationTerm(
+                        OneTerm(
+                          TermStmtOnly(
+                            FactorNumConst(
+                             0
+                            ) [FactorNumConst]
+                          ) [TermStmtOnly]
+                        ) [OneTerm]
+                      ) [AddOperationTerm]
+                    ) [ArrayElementAccessDesignator]
+                    AssignopDecl(
+                    ) [AssignopDecl]
+                    AddOperationTerm(
+                      OneTerm(
+                        TermStmtOnly(
+                          FactorNumConst(
+                           11
+                          ) [FactorNumConst]
+                        ) [TermStmtOnly]
+                      ) [OneTerm]
+                    ) [AddOperationTerm]
+                  ) [AssignopExpr]
+                ) [SingleStatementDesignator]
+              ) [SingleStatementNoLabel]
+            ) [StatListDecl]
+            SingleStatementNoLabel(
+              SingleStatementDesignator(
+                AssignopExpr(
+                  ArrayElementAccessDesignator(
+                    CleanDesignator(
+                     niz
+                    ) [CleanDesignator]
+                    AddOperationTerm(
+                      OneTerm(
+                        TermStmtOnly(
+                          FactorNumConst(
+                           1
+                          ) [FactorNumConst]
+                        ) [TermStmtOnly]
+                      ) [OneTerm]
+                    ) [AddOperationTerm]
+                  ) [ArrayElementAccessDesignator]
+                  AssignopDecl(
+                  ) [AssignopDecl]
+                  AddOperationTerm(
+                    OneTerm(
+                      TermStmtOnly(
+                        FactorNumConst(
+                         12
+                        ) [FactorNumConst]
+                      ) [TermStmtOnly]
+                    ) [OneTerm]
+                  ) [AddOperationTerm]
+                ) [AssignopExpr]
+              ) [SingleStatementDesignator]
+            ) [SingleStatementNoLabel]
+          ) [StatListDecl]
+          SingleStatementNoLabel(
+            SingleStatementDesignator(
+              AssignopExpr(
+                ArrayElementAccessDesignator(
+                  CleanDesignator(
+                   niz
+                  ) [CleanDesignator]
+                  AddOperationTerm(
+                    OneTerm(
+                      TermStmtOnly(
+                        FactorNumConst(
+                         2
+                        ) [FactorNumConst]
+                      ) [TermStmtOnly]
+                    ) [OneTerm]
+                  ) [AddOperationTerm]
+                ) [ArrayElementAccessDesignator]
+                AssignopDecl(
+                ) [AssignopDecl]
+                AddOperationTerm(
+                  OneTerm(
+                    TermStmtOnly(
+                      FactorNumConst(
+                       13
+                      ) [FactorNumConst]
+                    ) [TermStmtOnly]
+                  ) [OneTerm]
+                ) [AddOperationTerm]
+              ) [AssignopExpr]
+            ) [SingleStatementDesignator]
+          ) [SingleStatementNoLabel]
+        ) [StatListDecl]
+        SingleStatementNoLabel(
+          PrintStatement(
+            AddOperationTerm(
+              OneTerm(
+                TermStmtOnly(
+                  FactorDesignatorNoParam(
+                    CleanDesignator(
+                     niz
+                    ) [CleanDesignator]
+                  ) [FactorDesignatorNoParam]
+                ) [TermStmtOnly]
+              ) [OneTerm]
+            ) [AddOperationTerm]
+            HaveExpr(
+              PrintWidth(
+               1
+              ) [PrintWidth]
+            ) [HaveExpr]
+          ) [PrintStatement]
+        ) [SingleStatementNoLabel]
+      ) [StatListDecl]
+    ) [MethodDeclaration]
+  ) [MethodDeclarationsList]
+) [Program]
+INFO  00:18:05,694 - ===================================
+INFO  00:18:05,698 - ===================================
+INFO  00:18:05,703 - Parsiranje uspesno zavrseno!

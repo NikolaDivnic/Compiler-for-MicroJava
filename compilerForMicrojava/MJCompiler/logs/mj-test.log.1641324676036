@@ -1,0 +1,167 @@
+INFO  20:29:29,130 - Compiling source file: C:\pp\workspace\MJCompiler\test\program3.mj
+INFO  20:29:29,167 - #2 program
+INFO  20:29:29,168 - #3 MJProgram
+INFO  20:29:29,168 - #3 int
+INFO  20:29:29,168 - #3 x
+INFO  20:29:29,169 - #36 ,
+INFO  20:29:29,169 - #3 y
+INFO  20:29:29,169 - #25 ;
+INFO  20:29:29,170 - #4 {
+INFO  20:29:29,170 - #16 void
+INFO  20:29:29,171 - #3 main
+INFO  20:29:29,171 - #12 (
+INFO  20:29:29,172 - #9 )
+INFO  20:29:29,173 - #3 int
+INFO  20:29:29,173 - #3 niz
+INFO  20:29:29,173 - #11 [
+INFO  20:29:29,173 - #10 ]
+INFO  20:29:29,173 - #25 ;
+INFO  20:29:29,173 - #4 {
+INFO  20:29:29,173 - #3 x
+INFO  20:29:29,174 - #47 =
+INFO  20:29:29,174 - #32 3
+INFO  20:29:29,175 - #25 ;
+INFO  20:29:29,175 - #26 goto
+INFO  20:29:29,176 - #3 labela1
+INFO  20:29:29,176 - #25 ;
+INFO  20:29:29,177 - #14 print
+INFO  20:29:29,177 - #12 (
+INFO  20:29:29,177 - #32 11
+INFO  20:29:29,177 - #9 )
+INFO  20:29:29,177 - #25 ;
+INFO  20:29:29,177 - #3 labela1
+INFO  20:29:29,178 - #17 :
+INFO  20:29:29,178 - #14 print
+INFO  20:29:29,178 - #12 (
+INFO  20:29:29,178 - #32 7
+INFO  20:29:29,178 - #9 )
+INFO  20:29:29,178 - #25 ;
+INFO  20:29:29,178 - #5 }
+INFO  20:29:29,178 - #5 }
+INFO  20:29:29,184 - Program(
+  ProgName(
+   MJProgram
+  ) [ProgName]
+  DeclarationsList(
+    NoDecl(
+    ) [NoDecl]
+    VarDeclaration(
+      VarDeclDecl(
+        Type(
+         int
+        ) [Type]
+        VarNotHaveBracket(
+         x
+        ) [VarNotHaveBracket]
+        VarDeclListDecl(
+          VarDeclListSingle(
+            VarNotHaveBracket(
+             y
+            ) [VarNotHaveBracket]
+          ) [VarDeclListSingle]
+          NoVarDeclList(
+          ) [NoVarDeclList]
+        ) [VarDeclListDecl]
+      ) [VarDeclDecl]
+    ) [VarDeclaration]
+  ) [DeclarationsList]
+  MethodDeclarationsList(
+    NoMethodDeclarations(
+    ) [NoMethodDeclarations]
+    MethodDeclaration(
+      MethodDeclarationsVoid(
+      ) [MethodDeclarationsVoid]
+      MethodName(
+       main
+      ) [MethodName]
+      MethodAfterTypeWithoutFormPars(
+      ) [MethodAfterTypeWithoutFormPars]
+      VarDeclarations(
+        NoVarDecl(
+        ) [NoVarDecl]
+        VarDeclDecl(
+          Type(
+           int
+          ) [Type]
+          VarHaveBracket(
+           niz
+          ) [VarHaveBracket]
+          NoVarDeclList(
+          ) [NoVarDeclList]
+        ) [VarDeclDecl]
+      ) [VarDeclarations]
+      StatListDecl(
+        StatListDecl(
+          StatListDecl(
+            StatListDecl(
+              NoStatementList(
+              ) [NoStatementList]
+              SingleStatementNoLabel(
+                SingleStatementDesignator(
+                  AssignopExpr(
+                    CleanDesignator(
+                     x
+                    ) [CleanDesignator]
+                    AssignopDecl(
+                    ) [AssignopDecl]
+                    AddOperationTerm(
+                      OneTerm(
+                        TermStmtOnly(
+                          FactorNumConst(
+                           3
+                          ) [FactorNumConst]
+                        ) [TermStmtOnly]
+                      ) [OneTerm]
+                    ) [AddOperationTerm]
+                  ) [AssignopExpr]
+                ) [SingleStatementDesignator]
+              ) [SingleStatementNoLabel]
+            ) [StatListDecl]
+            SingleStatementNoLabel(
+              GoToStatement(
+                Label(
+                 labela1
+                ) [Label]
+              ) [GoToStatement]
+            ) [SingleStatementNoLabel]
+          ) [StatListDecl]
+          SingleStatementNoLabel(
+            PrintStatement(
+              AddOperationTerm(
+                OneTerm(
+                  TermStmtOnly(
+                    FactorNumConst(
+                     11
+                    ) [FactorNumConst]
+                  ) [TermStmtOnly]
+                ) [OneTerm]
+              ) [AddOperationTerm]
+              NoExprForPrint(
+              ) [NoExprForPrint]
+            ) [PrintStatement]
+          ) [SingleStatementNoLabel]
+        ) [StatListDecl]
+        StatementWithLabel(
+          Label(
+           labela1
+          ) [Label]
+          PrintStatement(
+            AddOperationTerm(
+              OneTerm(
+                TermStmtOnly(
+                  FactorNumConst(
+                   7
+                  ) [FactorNumConst]
+                ) [TermStmtOnly]
+              ) [OneTerm]
+            ) [AddOperationTerm]
+            NoExprForPrint(
+            ) [NoExprForPrint]
+          ) [PrintStatement]
+        ) [StatementWithLabel]
+      ) [StatListDecl]
+    ) [MethodDeclaration]
+  ) [MethodDeclarationsList]
+) [Program]
+INFO  20:29:29,185 - ===================================
+INFO  20:29:29,189 - ===================================

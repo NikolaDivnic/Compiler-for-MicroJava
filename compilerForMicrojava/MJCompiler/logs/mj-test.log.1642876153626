@@ -1,0 +1,881 @@
+INFO  19:21:40,264 - Compiling source file: C:\ppdomaci\workspace\MJCompiler\test\test301_A.mj
+INFO  19:21:40,320 - #2 program
+INFO  19:21:40,320 - #3 test301
+INFO  19:21:40,320 - #6 const
+INFO  19:21:40,321 - #3 int
+INFO  19:21:40,322 - #3 nula
+INFO  19:21:40,322 - #47 =
+INFO  19:21:40,322 - #32 0
+INFO  19:21:40,322 - #25 ;
+INFO  19:21:40,323 - #6 const
+INFO  19:21:40,324 - #3 int
+INFO  19:21:40,324 - #3 jedan
+INFO  19:21:40,324 - #47 =
+INFO  19:21:40,324 - #32 1
+INFO  19:21:40,324 - #25 ;
+INFO  19:21:40,324 - #6 const
+INFO  19:21:40,325 - #3 int
+INFO  19:21:40,325 - #3 pet
+INFO  19:21:40,325 - #47 =
+INFO  19:21:40,325 - #32 5
+INFO  19:21:40,325 - #25 ;
+INFO  19:21:40,325 - #3 int
+INFO  19:21:40,326 - #3 niz
+INFO  19:21:40,326 - #11 [
+INFO  19:21:40,326 - #10 ]
+INFO  19:21:40,326 - #25 ;
+INFO  19:21:40,327 - #3 char
+INFO  19:21:40,327 - #3 nizch
+INFO  19:21:40,327 - #11 [
+INFO  19:21:40,327 - #10 ]
+INFO  19:21:40,327 - #25 ;
+INFO  19:21:40,328 - #4 {
+INFO  19:21:40,328 - #16 void
+INFO  19:21:40,328 - #3 main
+INFO  19:21:40,329 - #12 (
+INFO  19:21:40,329 - #9 )
+INFO  19:21:40,330 - #3 int
+INFO  19:21:40,330 - #3 bodovi
+INFO  19:21:40,331 - #25 ;
+INFO  19:21:40,331 - #4 {
+INFO  19:21:40,331 - #3 bodovi
+INFO  19:21:40,332 - #47 =
+INFO  19:21:40,332 - #32 0
+INFO  19:21:40,333 - #25 ;
+INFO  19:21:40,334 - #3 bodovi
+INFO  19:21:40,334 - #46 ++
+INFO  19:21:40,334 - #25 ;
+INFO  19:21:40,335 - #3 bodovi
+INFO  19:21:40,335 - #47 =
+INFO  19:21:40,335 - #3 bodovi
+INFO  19:21:40,335 - #31 +
+INFO  19:21:40,335 - #3 jedan
+INFO  19:21:40,337 - #25 ;
+INFO  19:21:40,337 - #3 bodovi
+INFO  19:21:40,337 - #47 =
+INFO  19:21:40,337 - #3 bodovi
+INFO  19:21:40,337 - #28 *
+INFO  19:21:40,337 - #3 pet
+INFO  19:21:40,338 - #25 ;
+INFO  19:21:40,338 - #3 bodovi
+INFO  19:21:40,339 - #37 --
+INFO  19:21:40,339 - #25 ;
+INFO  19:21:40,339 - #14 print
+INFO  19:21:40,339 - #12 (
+INFO  19:21:40,339 - #3 bodovi
+INFO  19:21:40,339 - #9 )
+INFO  19:21:40,340 - #25 ;
+INFO  19:21:40,340 - #3 niz
+INFO  19:21:40,340 - #47 =
+INFO  19:21:40,340 - #15 new
+INFO  19:21:40,340 - #3 int
+INFO  19:21:40,341 - #11 [
+INFO  19:21:40,341 - #32 3
+INFO  19:21:40,341 - #10 ]
+INFO  19:21:40,341 - #25 ;
+INFO  19:21:40,341 - #3 niz
+INFO  19:21:40,341 - #11 [
+INFO  19:21:40,342 - #3 nula
+INFO  19:21:40,342 - #10 ]
+INFO  19:21:40,342 - #47 =
+INFO  19:21:40,342 - #3 jedan
+INFO  19:21:40,342 - #25 ;
+INFO  19:21:40,342 - #3 niz
+INFO  19:21:40,342 - #11 [
+INFO  19:21:40,342 - #32 1
+INFO  19:21:40,342 - #10 ]
+INFO  19:21:40,342 - #47 =
+INFO  19:21:40,342 - #32 2
+INFO  19:21:40,343 - #25 ;
+INFO  19:21:40,343 - #3 niz
+INFO  19:21:40,343 - #11 [
+INFO  19:21:40,343 - #3 niz
+INFO  19:21:40,343 - #11 [
+INFO  19:21:40,343 - #3 jedan
+INFO  19:21:40,343 - #10 ]
+INFO  19:21:40,343 - #10 ]
+INFO  19:21:40,343 - #47 =
+INFO  19:21:40,344 - #3 niz
+INFO  19:21:40,344 - #11 [
+INFO  19:21:40,344 - #3 niz
+INFO  19:21:40,344 - #11 [
+INFO  19:21:40,344 - #32 0
+INFO  19:21:40,344 - #10 ]
+INFO  19:21:40,344 - #10 ]
+INFO  19:21:40,344 - #28 *
+INFO  19:21:40,345 - #32 3
+INFO  19:21:40,345 - #25 ;
+INFO  19:21:40,345 - #3 bodovi
+INFO  19:21:40,345 - #47 =
+INFO  19:21:40,345 - #3 niz
+INFO  19:21:40,345 - #11 [
+INFO  19:21:40,345 - #32 2
+INFO  19:21:40,345 - #10 ]
+INFO  19:21:40,345 - #29 /
+INFO  19:21:40,346 - #3 niz
+INFO  19:21:40,346 - #11 [
+INFO  19:21:40,346 - #32 0
+INFO  19:21:40,346 - #10 ]
+INFO  19:21:40,347 - #25 ;
+INFO  19:21:40,347 - #14 print
+INFO  19:21:40,347 - #12 (
+INFO  19:21:40,347 - #3 bodovi
+INFO  19:21:40,347 - #9 )
+INFO  19:21:40,347 - #25 ;
+INFO  19:21:40,347 - #14 print
+INFO  19:21:40,347 - #12 (
+INFO  19:21:40,347 - #3 niz
+INFO  19:21:40,347 - #11 [
+INFO  19:21:40,348 - #32 2
+INFO  19:21:40,348 - #10 ]
+INFO  19:21:40,348 - #9 )
+INFO  19:21:40,348 - #25 ;
+INFO  19:21:40,348 - #3 nizch
+INFO  19:21:40,348 - #47 =
+INFO  19:21:40,348 - #15 new
+INFO  19:21:40,348 - #3 char
+INFO  19:21:40,348 - #11 [
+INFO  19:21:40,349 - #32 3
+INFO  19:21:40,349 - #10 ]
+INFO  19:21:40,349 - #25 ;
+INFO  19:21:40,349 - #3 nizch
+INFO  19:21:40,349 - #11 [
+INFO  19:21:40,349 - #32 0
+INFO  19:21:40,349 - #10 ]
+INFO  19:21:40,349 - #47 =
+INFO  19:21:40,350 - #33 a
+INFO  19:21:40,350 - #25 ;
+INFO  19:21:40,350 - #3 nizch
+INFO  19:21:40,350 - #11 [
+INFO  19:21:40,350 - #3 jedan
+INFO  19:21:40,350 - #10 ]
+INFO  19:21:40,350 - #47 =
+INFO  19:21:40,350 - #33 b
+INFO  19:21:40,350 - #25 ;
+INFO  19:21:40,350 - #3 nizch
+INFO  19:21:40,351 - #11 [
+INFO  19:21:40,351 - #3 pet
+INFO  19:21:40,351 - #27 -
+INFO  19:21:40,351 - #32 3
+INFO  19:21:40,352 - #10 ]
+INFO  19:21:40,352 - #47 =
+INFO  19:21:40,352 - #33 c
+INFO  19:21:40,352 - #25 ;
+INFO  19:21:40,352 - #5 }
+INFO  19:21:40,352 - #5 }
+INFO  19:21:40,361 - Program(
+  ProgName(
+   test301
+  ) [ProgName]
+  DeclarationsList(
+    DeclarationsList(
+      DeclarationsList(
+        DeclarationsList(
+          DeclarationsList(
+            NoDecl(
+            ) [NoDecl]
+            ConstDeclaration(
+              ConstDeclDecl(
+                Type(
+                 int
+                ) [Type]
+               nula
+                NumConstDecl(
+                 0
+                ) [NumConstDecl]
+                NoConstDeclList(
+                ) [NoConstDeclList]
+              ) [ConstDeclDecl]
+            ) [ConstDeclaration]
+          ) [DeclarationsList]
+          ConstDeclaration(
+            ConstDeclDecl(
+              Type(
+               int
+              ) [Type]
+             jedan
+              NumConstDecl(
+               1
+              ) [NumConstDecl]
+              NoConstDeclList(
+              ) [NoConstDeclList]
+            ) [ConstDeclDecl]
+          ) [ConstDeclaration]
+        ) [DeclarationsList]
+        ConstDeclaration(
+          ConstDeclDecl(
+            Type(
+             int
+            ) [Type]
+           pet
+            NumConstDecl(
+             5
+            ) [NumConstDecl]
+            NoConstDeclList(
+            ) [NoConstDeclList]
+          ) [ConstDeclDecl]
+        ) [ConstDeclaration]
+      ) [DeclarationsList]
+      VarDeclaration(
+        VarDeclDecl(
+          Type(
+           int
+          ) [Type]
+          VarHaveBracket(
+           niz
+          ) [VarHaveBracket]
+          NoVarDeclList(
+          ) [NoVarDeclList]
+        ) [VarDeclDecl]
+      ) [VarDeclaration]
+    ) [DeclarationsList]
+    VarDeclaration(
+      VarDeclDecl(
+        Type(
+         char
+        ) [Type]
+        VarHaveBracket(
+         nizch
+        ) [VarHaveBracket]
+        NoVarDeclList(
+        ) [NoVarDeclList]
+      ) [VarDeclDecl]
+    ) [VarDeclaration]
+  ) [DeclarationsList]
+  MethodDeclarationsList(
+    NoMethodDeclarations(
+    ) [NoMethodDeclarations]
+    MethodDeclaration(
+      MethodDeclarationsVoid(
+      ) [MethodDeclarationsVoid]
+      MethodName(
+       main
+      ) [MethodName]
+      MethodAfterTypeWithoutFormPars(
+      ) [MethodAfterTypeWithoutFormPars]
+      VarDeclarations(
+        NoVarDecl(
+        ) [NoVarDecl]
+        VarDeclDecl(
+          Type(
+           int
+          ) [Type]
+          VarNotHaveBracket(
+           bodovi
+          ) [VarNotHaveBracket]
+          NoVarDeclList(
+          ) [NoVarDeclList]
+        ) [VarDeclDecl]
+      ) [VarDeclarations]
+      StatListDecl(
+        StatListDecl(
+          StatListDecl(
+            StatListDecl(
+              StatListDecl(
+                StatListDecl(
+                  StatListDecl(
+                    StatListDecl(
+                      StatListDecl(
+                        StatListDecl(
+                          StatListDecl(
+                            StatListDecl(
+                              StatListDecl(
+                                StatListDecl(
+                                  StatListDecl(
+                                    StatListDecl(
+                                      StatListDecl(
+                                        NoStatementList(
+                                        ) [NoStatementList]
+                                        SingleStatementNoLabel(
+                                          SingleStatementDesignator(
+                                            AssignopExpr(
+                                              CleanDesignator(
+                                               bodovi
+                                              ) [CleanDesignator]
+                                              AssignopDecl(
+                                              ) [AssignopDecl]
+                                              AddOperationTerm(
+                                                OneTerm(
+                                                  TermStmtOnly(
+                                                    FactorNumConst(
+                                                     0
+                                                    ) [FactorNumConst]
+                                                  ) [TermStmtOnly]
+                                                ) [OneTerm]
+                                              ) [AddOperationTerm]
+                                            ) [AssignopExpr]
+                                          ) [SingleStatementDesignator]
+                                        ) [SingleStatementNoLabel]
+                                      ) [StatListDecl]
+                                      SingleStatementNoLabel(
+                                        SingleStatementDesignator(
+                                          DesignatorStatIncrement(
+                                            CleanDesignator(
+                                             bodovi
+                                            ) [CleanDesignator]
+                                          ) [DesignatorStatIncrement]
+                                        ) [SingleStatementDesignator]
+                                      ) [SingleStatementNoLabel]
+                                    ) [StatListDecl]
+                                    SingleStatementNoLabel(
+                                      SingleStatementDesignator(
+                                        AssignopExpr(
+                                          CleanDesignator(
+                                           bodovi
+                                          ) [CleanDesignator]
+                                          AssignopDecl(
+                                          ) [AssignopDecl]
+                                          AddOperationTerm(
+                                            TermList(
+                                              OneTerm(
+                                                TermStmtOnly(
+                                                  FactorDesignatorNoParam(
+                                                    CleanDesignator(
+                                                     bodovi
+                                                    ) [CleanDesignator]
+                                                  ) [FactorDesignatorNoParam]
+                                                ) [TermStmtOnly]
+                                              ) [OneTerm]
+                                              AddopPlus(
+                                              ) [AddopPlus]
+                                              TermStmtOnly(
+                                                FactorDesignatorNoParam(
+                                                  CleanDesignator(
+                                                   jedan
+                                                  ) [CleanDesignator]
+                                                ) [FactorDesignatorNoParam]
+                                              ) [TermStmtOnly]
+                                            ) [TermList]
+                                          ) [AddOperationTerm]
+                                        ) [AssignopExpr]
+                                      ) [SingleStatementDesignator]
+                                    ) [SingleStatementNoLabel]
+                                  ) [StatListDecl]
+                                  SingleStatementNoLabel(
+                                    SingleStatementDesignator(
+                                      AssignopExpr(
+                                        CleanDesignator(
+                                         bodovi
+                                        ) [CleanDesignator]
+                                        AssignopDecl(
+                                        ) [AssignopDecl]
+                                        AddOperationTerm(
+                                          OneTerm(
+                                            TermStmt(
+                                              TermStmtOnly(
+                                                FactorDesignatorNoParam(
+                                                  CleanDesignator(
+                                                   bodovi
+                                                  ) [CleanDesignator]
+                                                ) [FactorDesignatorNoParam]
+                                              ) [TermStmtOnly]
+                                              MulopMultiply(
+                                              ) [MulopMultiply]
+                                              FactorDesignatorNoParam(
+                                                CleanDesignator(
+                                                 pet
+                                                ) [CleanDesignator]
+                                              ) [FactorDesignatorNoParam]
+                                            ) [TermStmt]
+                                          ) [OneTerm]
+                                        ) [AddOperationTerm]
+                                      ) [AssignopExpr]
+                                    ) [SingleStatementDesignator]
+                                  ) [SingleStatementNoLabel]
+                                ) [StatListDecl]
+                                SingleStatementNoLabel(
+                                  SingleStatementDesignator(
+                                    DesignatorStatDecrement(
+                                      CleanDesignator(
+                                       bodovi
+                                      ) [CleanDesignator]
+                                    ) [DesignatorStatDecrement]
+                                  ) [SingleStatementDesignator]
+                                ) [SingleStatementNoLabel]
+                              ) [StatListDecl]
+                              SingleStatementNoLabel(
+                                PrintStatement(
+                                  AddOperationTerm(
+                                    OneTerm(
+                                      TermStmtOnly(
+                                        FactorDesignatorNoParam(
+                                          CleanDesignator(
+                                           bodovi
+                                          ) [CleanDesignator]
+                                        ) [FactorDesignatorNoParam]
+                                      ) [TermStmtOnly]
+                                    ) [OneTerm]
+                                  ) [AddOperationTerm]
+                                  NoExprForPrint(
+                                  ) [NoExprForPrint]
+                                ) [PrintStatement]
+                              ) [SingleStatementNoLabel]
+                            ) [StatListDecl]
+                            SingleStatementNoLabel(
+                              SingleStatementDesignator(
+                                AssignopExpr(
+                                  CleanDesignator(
+                                   niz
+                                  ) [CleanDesignator]
+                                  AssignopDecl(
+                                  ) [AssignopDecl]
+                                  AddOperationTerm(
+                                    OneTerm(
+                                      TermStmtOnly(
+                                        FactorNewExpr(
+                                          NewExpr(
+                                          ) [NewExpr]
+                                          Type(
+                                           int
+                                          ) [Type]
+                                          AddOperationTerm(
+                                            OneTerm(
+                                              TermStmtOnly(
+                                                FactorNumConst(
+                                                 3
+                                                ) [FactorNumConst]
+                                              ) [TermStmtOnly]
+                                            ) [OneTerm]
+                                          ) [AddOperationTerm]
+                                        ) [FactorNewExpr]
+                                      ) [TermStmtOnly]
+                                    ) [OneTerm]
+                                  ) [AddOperationTerm]
+                                ) [AssignopExpr]
+                              ) [SingleStatementDesignator]
+                            ) [SingleStatementNoLabel]
+                          ) [StatListDecl]
+                          SingleStatementNoLabel(
+                            SingleStatementDesignator(
+                              AssignopExpr(
+                                ArrayElementAccessDesignator(
+                                  DesNameDecl(
+                                   niz
+                                  ) [DesNameDecl]
+                                  AddOperationTerm(
+                                    OneTerm(
+                                      TermStmtOnly(
+                                        FactorDesignatorNoParam(
+                                          CleanDesignator(
+                                           nula
+                                          ) [CleanDesignator]
+                                        ) [FactorDesignatorNoParam]
+                                      ) [TermStmtOnly]
+                                    ) [OneTerm]
+                                  ) [AddOperationTerm]
+                                ) [ArrayElementAccessDesignator]
+                                AssignopDecl(
+                                ) [AssignopDecl]
+                                AddOperationTerm(
+                                  OneTerm(
+                                    TermStmtOnly(
+                                      FactorDesignatorNoParam(
+                                        CleanDesignator(
+                                         jedan
+                                        ) [CleanDesignator]
+                                      ) [FactorDesignatorNoParam]
+                                    ) [TermStmtOnly]
+                                  ) [OneTerm]
+                                ) [AddOperationTerm]
+                              ) [AssignopExpr]
+                            ) [SingleStatementDesignator]
+                          ) [SingleStatementNoLabel]
+                        ) [StatListDecl]
+                        SingleStatementNoLabel(
+                          SingleStatementDesignator(
+                            AssignopExpr(
+                              ArrayElementAccessDesignator(
+                                DesNameDecl(
+                                 niz
+                                ) [DesNameDecl]
+                                AddOperationTerm(
+                                  OneTerm(
+                                    TermStmtOnly(
+                                      FactorNumConst(
+                                       1
+                                      ) [FactorNumConst]
+                                    ) [TermStmtOnly]
+                                  ) [OneTerm]
+                                ) [AddOperationTerm]
+                              ) [ArrayElementAccessDesignator]
+                              AssignopDecl(
+                              ) [AssignopDecl]
+                              AddOperationTerm(
+                                OneTerm(
+                                  TermStmtOnly(
+                                    FactorNumConst(
+                                     2
+                                    ) [FactorNumConst]
+                                  ) [TermStmtOnly]
+                                ) [OneTerm]
+                              ) [AddOperationTerm]
+                            ) [AssignopExpr]
+                          ) [SingleStatementDesignator]
+                        ) [SingleStatementNoLabel]
+                      ) [StatListDecl]
+                      SingleStatementNoLabel(
+                        SingleStatementDesignator(
+                          AssignopExpr(
+                            ArrayElementAccessDesignator(
+                              DesNameDecl(
+                               niz
+                              ) [DesNameDecl]
+                              AddOperationTerm(
+                                OneTerm(
+                                  TermStmtOnly(
+                                    FactorDesignatorNoParam(
+                                      ArrayElementAccessDesignator(
+                                        DesNameDecl(
+                                         niz
+                                        ) [DesNameDecl]
+                                        AddOperationTerm(
+                                          OneTerm(
+                                            TermStmtOnly(
+                                              FactorDesignatorNoParam(
+                                                CleanDesignator(
+                                                 jedan
+                                                ) [CleanDesignator]
+                                              ) [FactorDesignatorNoParam]
+                                            ) [TermStmtOnly]
+                                          ) [OneTerm]
+                                        ) [AddOperationTerm]
+                                      ) [ArrayElementAccessDesignator]
+                                    ) [FactorDesignatorNoParam]
+                                  ) [TermStmtOnly]
+                                ) [OneTerm]
+                              ) [AddOperationTerm]
+                            ) [ArrayElementAccessDesignator]
+                            AssignopDecl(
+                            ) [AssignopDecl]
+                            AddOperationTerm(
+                              OneTerm(
+                                TermStmt(
+                                  TermStmtOnly(
+                                    FactorDesignatorNoParam(
+                                      ArrayElementAccessDesignator(
+                                        DesNameDecl(
+                                         niz
+                                        ) [DesNameDecl]
+                                        AddOperationTerm(
+                                          OneTerm(
+                                            TermStmtOnly(
+                                              FactorDesignatorNoParam(
+                                                ArrayElementAccessDesignator(
+                                                  DesNameDecl(
+                                                   niz
+                                                  ) [DesNameDecl]
+                                                  AddOperationTerm(
+                                                    OneTerm(
+                                                      TermStmtOnly(
+                                                        FactorNumConst(
+                                                         0
+                                                        ) [FactorNumConst]
+                                                      ) [TermStmtOnly]
+                                                    ) [OneTerm]
+                                                  ) [AddOperationTerm]
+                                                ) [ArrayElementAccessDesignator]
+                                              ) [FactorDesignatorNoParam]
+                                            ) [TermStmtOnly]
+                                          ) [OneTerm]
+                                        ) [AddOperationTerm]
+                                      ) [ArrayElementAccessDesignator]
+                                    ) [FactorDesignatorNoParam]
+                                  ) [TermStmtOnly]
+                                  MulopMultiply(
+                                  ) [MulopMultiply]
+                                  FactorNumConst(
+                                   3
+                                  ) [FactorNumConst]
+                                ) [TermStmt]
+                              ) [OneTerm]
+                            ) [AddOperationTerm]
+                          ) [AssignopExpr]
+                        ) [SingleStatementDesignator]
+                      ) [SingleStatementNoLabel]
+                    ) [StatListDecl]
+                    SingleStatementNoLabel(
+                      SingleStatementDesignator(
+                        AssignopExpr(
+                          CleanDesignator(
+                           bodovi
+                          ) [CleanDesignator]
+                          AssignopDecl(
+                          ) [AssignopDecl]
+                          AddOperationTerm(
+                            OneTerm(
+                              TermStmt(
+                                TermStmtOnly(
+                                  FactorDesignatorNoParam(
+                                    ArrayElementAccessDesignator(
+                                      DesNameDecl(
+                                       niz
+                                      ) [DesNameDecl]
+                                      AddOperationTerm(
+                                        OneTerm(
+                                          TermStmtOnly(
+                                            FactorNumConst(
+                                             2
+                                            ) [FactorNumConst]
+                                          ) [TermStmtOnly]
+                                        ) [OneTerm]
+                                      ) [AddOperationTerm]
+                                    ) [ArrayElementAccessDesignator]
+                                  ) [FactorDesignatorNoParam]
+                                ) [TermStmtOnly]
+                                MulopDevide(
+                                ) [MulopDevide]
+                                FactorDesignatorNoParam(
+                                  ArrayElementAccessDesignator(
+                                    DesNameDecl(
+                                     niz
+                                    ) [DesNameDecl]
+                                    AddOperationTerm(
+                                      OneTerm(
+                                        TermStmtOnly(
+                                          FactorNumConst(
+                                           0
+                                          ) [FactorNumConst]
+                                        ) [TermStmtOnly]
+                                      ) [OneTerm]
+                                    ) [AddOperationTerm]
+                                  ) [ArrayElementAccessDesignator]
+                                ) [FactorDesignatorNoParam]
+                              ) [TermStmt]
+                            ) [OneTerm]
+                          ) [AddOperationTerm]
+                        ) [AssignopExpr]
+                      ) [SingleStatementDesignator]
+                    ) [SingleStatementNoLabel]
+                  ) [StatListDecl]
+                  SingleStatementNoLabel(
+                    PrintStatement(
+                      AddOperationTerm(
+                        OneTerm(
+                          TermStmtOnly(
+                            FactorDesignatorNoParam(
+                              CleanDesignator(
+                               bodovi
+                              ) [CleanDesignator]
+                            ) [FactorDesignatorNoParam]
+                          ) [TermStmtOnly]
+                        ) [OneTerm]
+                      ) [AddOperationTerm]
+                      NoExprForPrint(
+                      ) [NoExprForPrint]
+                    ) [PrintStatement]
+                  ) [SingleStatementNoLabel]
+                ) [StatListDecl]
+                SingleStatementNoLabel(
+                  PrintStatement(
+                    AddOperationTerm(
+                      OneTerm(
+                        TermStmtOnly(
+                          FactorDesignatorNoParam(
+                            ArrayElementAccessDesignator(
+                              DesNameDecl(
+                               niz
+                              ) [DesNameDecl]
+                              AddOperationTerm(
+                                OneTerm(
+                                  TermStmtOnly(
+                                    FactorNumConst(
+                                     2
+                                    ) [FactorNumConst]
+                                  ) [TermStmtOnly]
+                                ) [OneTerm]
+                              ) [AddOperationTerm]
+                            ) [ArrayElementAccessDesignator]
+                          ) [FactorDesignatorNoParam]
+                        ) [TermStmtOnly]
+                      ) [OneTerm]
+                    ) [AddOperationTerm]
+                    NoExprForPrint(
+                    ) [NoExprForPrint]
+                  ) [PrintStatement]
+                ) [SingleStatementNoLabel]
+              ) [StatListDecl]
+              SingleStatementNoLabel(
+                SingleStatementDesignator(
+                  AssignopExpr(
+                    CleanDesignator(
+                     nizch
+                    ) [CleanDesignator]
+                    AssignopDecl(
+                    ) [AssignopDecl]
+                    AddOperationTerm(
+                      OneTerm(
+                        TermStmtOnly(
+                          FactorNewExpr(
+                            NewExpr(
+                            ) [NewExpr]
+                            Type(
+                             char
+                            ) [Type]
+                            AddOperationTerm(
+                              OneTerm(
+                                TermStmtOnly(
+                                  FactorNumConst(
+                                   3
+                                  ) [FactorNumConst]
+                                ) [TermStmtOnly]
+                              ) [OneTerm]
+                            ) [AddOperationTerm]
+                          ) [FactorNewExpr]
+                        ) [TermStmtOnly]
+                      ) [OneTerm]
+                    ) [AddOperationTerm]
+                  ) [AssignopExpr]
+                ) [SingleStatementDesignator]
+              ) [SingleStatementNoLabel]
+            ) [StatListDecl]
+            SingleStatementNoLabel(
+              SingleStatementDesignator(
+                AssignopExpr(
+                  ArrayElementAccessDesignator(
+                    DesNameDecl(
+                     nizch
+                    ) [DesNameDecl]
+                    AddOperationTerm(
+                      OneTerm(
+                        TermStmtOnly(
+                          FactorNumConst(
+                           0
+                          ) [FactorNumConst]
+                        ) [TermStmtOnly]
+                      ) [OneTerm]
+                    ) [AddOperationTerm]
+                  ) [ArrayElementAccessDesignator]
+                  AssignopDecl(
+                  ) [AssignopDecl]
+                  AddOperationTerm(
+                    OneTerm(
+                      TermStmtOnly(
+                        FactorCharConst(
+                         a
+                        ) [FactorCharConst]
+                      ) [TermStmtOnly]
+                    ) [OneTerm]
+                  ) [AddOperationTerm]
+                ) [AssignopExpr]
+              ) [SingleStatementDesignator]
+            ) [SingleStatementNoLabel]
+          ) [StatListDecl]
+          SingleStatementNoLabel(
+            SingleStatementDesignator(
+              AssignopExpr(
+                ArrayElementAccessDesignator(
+                  DesNameDecl(
+                   nizch
+                  ) [DesNameDecl]
+                  AddOperationTerm(
+                    OneTerm(
+                      TermStmtOnly(
+                        FactorDesignatorNoParam(
+                          CleanDesignator(
+                           jedan
+                          ) [CleanDesignator]
+                        ) [FactorDesignatorNoParam]
+                      ) [TermStmtOnly]
+                    ) [OneTerm]
+                  ) [AddOperationTerm]
+                ) [ArrayElementAccessDesignator]
+                AssignopDecl(
+                ) [AssignopDecl]
+                AddOperationTerm(
+                  OneTerm(
+                    TermStmtOnly(
+                      FactorCharConst(
+                       b
+                      ) [FactorCharConst]
+                    ) [TermStmtOnly]
+                  ) [OneTerm]
+                ) [AddOperationTerm]
+              ) [AssignopExpr]
+            ) [SingleStatementDesignator]
+          ) [SingleStatementNoLabel]
+        ) [StatListDecl]
+        SingleStatementNoLabel(
+          SingleStatementDesignator(
+            AssignopExpr(
+              ArrayElementAccessDesignator(
+                DesNameDecl(
+                 nizch
+                ) [DesNameDecl]
+                AddOperationTerm(
+                  TermList(
+                    OneTerm(
+                      TermStmtOnly(
+                        FactorDesignatorNoParam(
+                          CleanDesignator(
+                           pet
+                          ) [CleanDesignator]
+                        ) [FactorDesignatorNoParam]
+                      ) [TermStmtOnly]
+                    ) [OneTerm]
+                    AddopMinus(
+                    ) [AddopMinus]
+                    TermStmtOnly(
+                      FactorNumConst(
+                       3
+                      ) [FactorNumConst]
+                    ) [TermStmtOnly]
+                  ) [TermList]
+                ) [AddOperationTerm]
+              ) [ArrayElementAccessDesignator]
+              AssignopDecl(
+              ) [AssignopDecl]
+              AddOperationTerm(
+                OneTerm(
+                  TermStmtOnly(
+                    FactorCharConst(
+                     c
+                    ) [FactorCharConst]
+                  ) [TermStmtOnly]
+                ) [OneTerm]
+              ) [AddOperationTerm]
+            ) [AssignopExpr]
+          ) [SingleStatementDesignator]
+        ) [SingleStatementNoLabel]
+      ) [StatListDecl]
+    ) [MethodDeclaration]
+  ) [MethodDeclarationsList]
+) [Program]
+INFO  19:21:40,364 - ===================================
+INFO  19:21:40,368 - Pristup elementu niza: DesNameDecl(
+ niz
+) [DesNameDecl] na liniji 25
+INFO  19:21:40,369 - Pristup elementu niza: DesNameDecl(
+ niz
+) [DesNameDecl] na liniji 26
+INFO  19:21:40,369 - Pristup elementu niza: DesNameDecl(
+ niz
+) [DesNameDecl] na liniji 27
+INFO  19:21:40,369 - Pristup elementu niza: DesNameDecl(
+ niz
+) [DesNameDecl] na liniji 27
+INFO  19:21:40,369 - Pristup elementu niza: DesNameDecl(
+ niz
+) [DesNameDecl] na liniji 27
+INFO  19:21:40,369 - Pristup elementu niza: DesNameDecl(
+ niz
+) [DesNameDecl] na liniji 27
+INFO  19:21:40,369 - Pristup elementu niza: DesNameDecl(
+ niz
+) [DesNameDecl] na liniji 28
+INFO  19:21:40,369 - Pristup elementu niza: DesNameDecl(
+ niz
+) [DesNameDecl] na liniji 28
+INFO  19:21:40,369 - Pristup elementu niza: DesNameDecl(
+ niz
+) [DesNameDecl] na liniji 30
+INFO  19:21:40,370 - Pristup elementu niza: DesNameDecl(
+ nizch
+) [DesNameDecl] na liniji 34
+INFO  19:21:40,370 - Pristup elementu niza: DesNameDecl(
+ nizch
+) [DesNameDecl] na liniji 35
+INFO  19:21:40,370 - Pristup elementu niza: DesNameDecl(
+ nizch
+) [DesNameDecl] na liniji 36
+INFO  19:21:40,370 - ===================================
+INFO  19:21:40,377 - Parsiranje uspesno zavrseno!

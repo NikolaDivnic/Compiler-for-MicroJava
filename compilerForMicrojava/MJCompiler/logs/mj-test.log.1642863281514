@@ -1,0 +1,197 @@
+INFO  15:51:02,101 - Compiling source file: C:\ppdomaci\workspace\MJCompiler\test\test301_A.mj
+INFO  15:51:02,159 - #2 program
+INFO  15:51:02,159 - #3 test301
+INFO  15:51:02,159 - #6 const
+INFO  15:51:02,160 - #3 int
+INFO  15:51:02,160 - #3 jedan
+INFO  15:51:02,161 - #47 =
+INFO  15:51:02,161 - #32 1
+INFO  15:51:02,161 - #25 ;
+INFO  15:51:02,162 - #4 {
+INFO  15:51:02,162 - #16 void
+INFO  15:51:02,163 - #3 main
+INFO  15:51:02,164 - #12 (
+INFO  15:51:02,165 - #9 )
+INFO  15:51:02,166 - #3 int
+INFO  15:51:02,167 - #3 bodovi
+INFO  15:51:02,167 - #25 ;
+INFO  15:51:02,168 - #3 int
+INFO  15:51:02,169 - #3 b
+INFO  15:51:02,169 - #25 ;
+INFO  15:51:02,169 - #4 {
+INFO  15:51:02,169 - #3 b
+INFO  15:51:02,171 - #47 =
+INFO  15:51:02,176 - #32 1
+INFO  15:51:02,178 - #25 ;
+INFO  15:51:02,178 - #3 bodovi
+INFO  15:51:02,179 - #47 =
+INFO  15:51:02,179 - #32 2
+INFO  15:51:02,179 - #25 ;
+INFO  15:51:02,179 - #3 bodovi
+INFO  15:51:02,179 - #47 =
+INFO  15:51:02,179 - #3 jedan
+INFO  15:51:02,179 - #25 ;
+INFO  15:51:02,180 - #14 print
+INFO  15:51:02,180 - #12 (
+INFO  15:51:02,180 - #3 bodovi
+INFO  15:51:02,180 - #9 )
+INFO  15:51:02,181 - #25 ;
+INFO  15:51:02,181 - #5 }
+INFO  15:51:02,181 - #5 }
+INFO  15:51:02,189 - Program(
+  ProgName(
+   test301
+  ) [ProgName]
+  DeclarationsList(
+    NoDecl(
+    ) [NoDecl]
+    ConstDeclaration(
+      ConstDeclDecl(
+        Type(
+         int
+        ) [Type]
+        ConstNameDecl(
+         jedan
+        ) [ConstNameDecl]
+        NumConstDecl(
+         1
+        ) [NumConstDecl]
+        NoConstDeclList(
+        ) [NoConstDeclList]
+      ) [ConstDeclDecl]
+    ) [ConstDeclaration]
+  ) [DeclarationsList]
+  MethodDeclarationsList(
+    NoMethodDeclarations(
+    ) [NoMethodDeclarations]
+    MethodDeclaration(
+      MethodDeclarationsVoid(
+      ) [MethodDeclarationsVoid]
+      MethodName(
+       main
+      ) [MethodName]
+      MethodAfterTypeWithoutFormPars(
+      ) [MethodAfterTypeWithoutFormPars]
+      VarDeclarations(
+        VarDeclarations(
+          NoVarDecl(
+          ) [NoVarDecl]
+          VarDeclDecl(
+            Type(
+             int
+            ) [Type]
+            VarNotHaveBracket(
+             bodovi
+            ) [VarNotHaveBracket]
+            NoVarDeclList(
+            ) [NoVarDeclList]
+          ) [VarDeclDecl]
+        ) [VarDeclarations]
+        VarDeclDecl(
+          Type(
+           int
+          ) [Type]
+          VarNotHaveBracket(
+           b
+          ) [VarNotHaveBracket]
+          NoVarDeclList(
+          ) [NoVarDeclList]
+        ) [VarDeclDecl]
+      ) [VarDeclarations]
+      StatListDecl(
+        StatListDecl(
+          StatListDecl(
+            StatListDecl(
+              NoStatementList(
+              ) [NoStatementList]
+              SingleStatementNoLabel(
+                SingleStatementDesignator(
+                  AssignopExpr(
+                    CleanDesignator(
+                     b
+                    ) [CleanDesignator]
+                    AssignopDecl(
+                    ) [AssignopDecl]
+                    AddOperationTerm(
+                      OneTerm(
+                        TermStmtOnly(
+                          FactorNumConst(
+                           1
+                          ) [FactorNumConst]
+                        ) [TermStmtOnly]
+                      ) [OneTerm]
+                    ) [AddOperationTerm]
+                  ) [AssignopExpr]
+                ) [SingleStatementDesignator]
+              ) [SingleStatementNoLabel]
+            ) [StatListDecl]
+            SingleStatementNoLabel(
+              SingleStatementDesignator(
+                AssignopExpr(
+                  CleanDesignator(
+                   bodovi
+                  ) [CleanDesignator]
+                  AssignopDecl(
+                  ) [AssignopDecl]
+                  AddOperationTerm(
+                    OneTerm(
+                      TermStmtOnly(
+                        FactorNumConst(
+                         2
+                        ) [FactorNumConst]
+                      ) [TermStmtOnly]
+                    ) [OneTerm]
+                  ) [AddOperationTerm]
+                ) [AssignopExpr]
+              ) [SingleStatementDesignator]
+            ) [SingleStatementNoLabel]
+          ) [StatListDecl]
+          SingleStatementNoLabel(
+            SingleStatementDesignator(
+              AssignopExpr(
+                CleanDesignator(
+                 bodovi
+                ) [CleanDesignator]
+                AssignopDecl(
+                ) [AssignopDecl]
+                AddOperationTerm(
+                  OneTerm(
+                    TermStmtOnly(
+                      FactorDesignatorNoParam(
+                        CleanDesignator(
+                         jedan
+                        ) [CleanDesignator]
+                      ) [FactorDesignatorNoParam]
+                    ) [TermStmtOnly]
+                  ) [OneTerm]
+                ) [AddOperationTerm]
+              ) [AssignopExpr]
+            ) [SingleStatementDesignator]
+          ) [SingleStatementNoLabel]
+        ) [StatListDecl]
+        SingleStatementNoLabel(
+          PrintStatement(
+            AddOperationTerm(
+              OneTerm(
+                TermStmtOnly(
+                  FactorDesignatorNoParam(
+                    CleanDesignator(
+                     bodovi
+                    ) [CleanDesignator]
+                  ) [FactorDesignatorNoParam]
+                ) [TermStmtOnly]
+              ) [OneTerm]
+            ) [AddOperationTerm]
+            NoExprForPrint(
+            ) [NoExprForPrint]
+          ) [PrintStatement]
+        ) [SingleStatementNoLabel]
+      ) [StatListDecl]
+    ) [MethodDeclaration]
+  ) [MethodDeclarationsList]
+) [Program]
+INFO  15:51:02,190 - ===================================
+ERROR 15:51:02,194 - Neodgovarajuce ime promenljive no.obj  na liniji 16
+ERROR 15:51:02,195 - Nisu istog tipa  na liniji 16
+INFO  15:51:02,195 - ===================================
+ERROR 15:51:02,196 - Parsiranje NIJE uspesno zavrseno!

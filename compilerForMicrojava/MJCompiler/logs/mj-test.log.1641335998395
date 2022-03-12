@@ -1,0 +1,99 @@
+INFO  23:38:58,304 - Compiling source file: C:\pp\workspace\MJCompiler\test\program3.mj
+INFO  23:38:58,369 - #2 program
+INFO  23:38:58,369 - #3 MJProgram
+INFO  23:38:58,369 - #4 {
+INFO  23:38:58,371 - #16 void
+INFO  23:38:58,372 - #3 main
+INFO  23:38:58,373 - #12 (
+INFO  23:38:58,374 - #9 )
+INFO  23:38:58,375 - #4 {
+INFO  23:38:58,376 - #14 print
+INFO  23:38:58,377 - #12 (
+INFO  23:38:58,378 - #32 1
+INFO  23:38:58,378 - #9 )
+INFO  23:38:58,379 - #25 ;
+INFO  23:38:58,379 - #3 labela1
+INFO  23:38:58,380 - #17 :
+INFO  23:38:58,380 - #14 print
+INFO  23:38:58,381 - #12 (
+INFO  23:38:58,381 - #32 6
+INFO  23:38:58,381 - #9 )
+INFO  23:38:58,381 - #25 ;
+INFO  23:38:58,381 - #26 goto
+INFO  23:38:58,382 - #3 labela1
+INFO  23:38:58,387 - #25 ;
+INFO  23:38:58,387 - #5 }
+INFO  23:38:58,387 - #5 }
+INFO  23:38:58,396 - Program(
+  ProgName(
+   MJProgram
+  ) [ProgName]
+  NoDecl(
+  ) [NoDecl]
+  MethodDeclarationsList(
+    NoMethodDeclarations(
+    ) [NoMethodDeclarations]
+    MethodDeclaration(
+      MethodDeclarationsVoid(
+      ) [MethodDeclarationsVoid]
+      MethodName(
+       main
+      ) [MethodName]
+      MethodAfterTypeWithoutFormPars(
+      ) [MethodAfterTypeWithoutFormPars]
+      NoVarDecl(
+      ) [NoVarDecl]
+      StatListDecl(
+        StatListDecl(
+          StatListDecl(
+            NoStatementList(
+            ) [NoStatementList]
+            SingleStatementNoLabel(
+              PrintStatement(
+                AddOperationTerm(
+                  OneTerm(
+                    TermStmtOnly(
+                      FactorNumConst(
+                       1
+                      ) [FactorNumConst]
+                    ) [TermStmtOnly]
+                  ) [OneTerm]
+                ) [AddOperationTerm]
+                NoExprForPrint(
+                ) [NoExprForPrint]
+              ) [PrintStatement]
+            ) [SingleStatementNoLabel]
+          ) [StatListDecl]
+          StatementWithLabel(
+            Label(
+             labela1
+            ) [Label]
+            PrintStatement(
+              AddOperationTerm(
+                OneTerm(
+                  TermStmtOnly(
+                    FactorNumConst(
+                     6
+                    ) [FactorNumConst]
+                  ) [TermStmtOnly]
+                ) [OneTerm]
+              ) [AddOperationTerm]
+              NoExprForPrint(
+              ) [NoExprForPrint]
+            ) [PrintStatement]
+          ) [StatementWithLabel]
+        ) [StatListDecl]
+        SingleStatementNoLabel(
+          GoToStatement(
+            Label(
+             labela1
+            ) [Label]
+          ) [GoToStatement]
+        ) [SingleStatementNoLabel]
+      ) [StatListDecl]
+    ) [MethodDeclaration]
+  ) [MethodDeclarationsList]
+) [Program]
+INFO  23:38:58,396 - ===================================
+INFO  23:38:58,400 - ===================================
+INFO  23:38:58,406 - Parsiranje uspesno zavrseno!

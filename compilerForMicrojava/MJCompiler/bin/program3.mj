@@ -1,0 +1,20 @@
+program MJProgram
+{
+	void main()int x, niz[]; char c , cniz[]; {
+		
+	//	x = 3;
+	 //	print(x);
+		
+		niz = new int[3];
+		niz[0] = 11;
+		niz[1] = 12;
+		
+		niz[2] = 13;
+		
+		print(niz, 1);
+		//print(niz);
+		//print(x);
+		
+	
+	}
+}

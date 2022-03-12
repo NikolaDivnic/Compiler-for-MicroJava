@@ -1,0 +1,271 @@
+// Test301
+
+program test301
+	
+	
+	const bool fleg1 = true;
+	const bool fleg2 = false;
+	const bool fleg3 = 0;
+	const bool fleg4 = 1;
+	const bool fleg5 = 2;
+	const bool fleg6 = 'a';
+	const boolean fleg6 = false;
+	
+	const int broj1 = true;
+	const int broj2 = false;
+	const int broj3 = 0;
+	const int broj4 = 1;
+	const int broj5 = 2;
+	const int broj7 = 'a';
+	const int broj4 =  4;
+	const int fleg2 =  1;
+	
+	const char char1 = true;
+	const char char2 = false;
+	const char char3 = 0;
+	const char char4 = 1;
+	const char char5 = 2;
+	const char char7 = 'a';
+	const char char8 =  4;
+	const char char9 = 'b';
+	const char broj4 =  4;
+	const char fleg1 =  1;
+	const int char7 =  1;
+	const bool char9 = false;
+	
+	bool f1,f2,f3,f4;
+	bool fniz1[],fniz2[],fniz3[],fniz4[];
+	bool fg1, fg2[];
+	bool fg3, fg4[], fg5;
+	bool f1;
+	bool fniz1[];
+	
+	int i1,i2,i3,i4;
+	int iniz1[],iniz2[],iniz3[],iniz4[];
+	int ig1, ig2[];
+	int ig3, ig4[], ig5;
+	int i1;
+	int iniz1[];
+	int f1;
+	int fniz1[];
+	
+	char c1,c2,c3,c4;
+	char cniz1[],cniz2[],cniz3[],cniz4[];
+	char cg1, cg2[];
+	char cg3, cg4[], cg5;
+	char c1;
+	char cniz1[];
+	char f1;
+	char fniz1[];
+	char i1;
+	
+	
+{
+	int main()	
+
+	{
+		
+	}
+	char main()	
+		
+	{
+		
+	}
+	
+	bool main()	
+		
+	{
+		
+	}
+	
+	void main()	
+		
+	{
+		print(1);
+	}
+	
+	void f_void()	
+		
+	{
+		
+	}
+	
+	void f_void2()	
+		
+	{
+		return 1;
+	}
+	
+	void f_void2()	
+		
+	{
+		return;
+	}
+	void f_void3()	
+		
+	{
+		return;
+	}
+	int f_int()	
+		
+	{
+		return 0;
+	}
+	
+	int f_int2()	
+		
+	{
+		return ;
+	}
+	
+	int f_int3()	
+		
+	{
+	
+	}
+	int f_int()	
+		
+	{
+		return 0;
+	}
+	int f_int4()	
+		
+	{
+		return 'a';
+	}
+	int f_int5()	
+		
+	{
+		return false;
+	}
+	
+	char f_char()	
+		
+	{
+		return 0;
+	}
+	
+	char f_char2()	
+		
+	{
+		return 'a';
+	}
+	
+	char f_char3()	
+		
+	{
+		return false;
+	}
+	char f_char4()	
+		
+	{
+		return;
+	}
+	
+	char f_char5()	
+		
+	{
+		
+	}
+	char f_char2()	
+		
+	{
+		return 'b';
+	}
+	char f_param(int a, int b, char c, char d, bool e, bool f, int niz[], char niz2[] , bool niz3[] , int g)	
+		
+	{
+		return 'a';
+	}
+	
+	char f_param1(int a, int b, char c, char d, bool e, bool f, int niz[], char niz2[] , bool niz3[] , int g)	
+		int i; int j, z, p[];  char nizc[];
+	{
+		return 'a';
+	}
+	
+	char f_param2(int a, int b, char c, char d, bool e, bool f, int niz[], char niz2[] , bool niz3[] , int g)	
+		int i; int j, z, p[];  char nizc[];
+	{
+		return 'a';
+	}
+	
+	char f_param3(int a, int c, char c, char a,int d, bool d, bool f, int niz[], char niz2[] , bool niz3[] , int g,char niz[])	
+		int i; int j, z, p[];  char nizc[];
+	{
+		return 'a';
+	}
+	
+	char f_param4(int a, int b, char c, char d, bool e, bool f, int niz[], char niz2[] , bool niz3[] , int g)	
+		int a; int j, z, p[];  char niz[];
+	{
+		return 'a';
+	}
+	
+	
+	
+	char f_char_designator(int int_param, char char_param,bool bool_array[], bool b )	
+		int i; int j, z, p[]; char c, cniz[];
+	{
+	
+		nedeklarisana = 0;
+		int_param = 0;
+		int_param = new bool;
+		bool_array = new bool;
+		bool_array = new bool[4];
+		bool_array = new bool['a'];
+		bool_array = new bool[true];
+		bool_array = new int[4];
+		int_param = 'a';
+		{i = 5; j=0 ; z = 2;}
+		p[0]= 1;
+		i = j+2+p[0];
+		i = (j+z+i) + 4 + p[0];
+		i = (j+z+'a') + 4 + p[0];
+		i = (j+z+i) + 'a' + p[0];
+		i = (j+z+i) + 4 + p[0] + 'a';
+		i = ('a'+z+i) + 4 + p[0];
+		i = 'a' +(j+z+i) + 4 + p[0];
+		i = 'a';
+		
+		p['a'] = 0;
+		p[0] = 'a';
+		
+		i++;
+		i--;
+		p[0]++;
+		p[0]--;
+		p['a']--;
+		p['a']++;
+		c++;
+		c--;
+		cniz[0]--;
+		cniz[0]++;
+		cniz['a']--;
+		cniz['a']++;
+		cniz[0] = 'a';
+	
+		bool_array[0] = false;
+		bool_array[0] = false + true + false;
+		read(i);
+		read(p[0]);
+		read(bool_array[0]);
+		read(c);
+		
+		print('a',2);
+		print(false,2);
+		print(2,2);
+		print(c,1);
+		print(i, 2);
+		print(bool_array[0] ,3);
+		print(p[0], 5);
+		print((j+z+i) + 4 + p[0] , 4);
+		
+		
+		print(bool_array,2);
+		return 'b';
+	}
+	
+}
+
+

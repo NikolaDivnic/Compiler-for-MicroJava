@@ -1,0 +1,405 @@
+
+
+package rs.ac.bg.etf.pp1;
+
+import java_cup.runtime.*;
+import org.apache.log4j.*;
+import rs.ac.bg.etf.pp1.ast.*;
+
+parser code {:
+
+	boolean errorDetected;
+
+	Logger log = Logger.getLogger(getClass());
+   
+   
+    // slede redefinisani metodi za prijavu gresaka radi izmene teksta poruke
+     
+    public void report_fatal_error(String message, Object info) throws java.lang.Exception {
+      done_parsing();
+      report_error(message, info);
+    }
+  
+    public void syntax_error(Symbol cur_token) {
+        report_error("\nSintaksna greska", cur_token);
+    }
+  
+    public void unrecovered_syntax_error(Symbol cur_token) throws java.lang.Exception {
+        report_fatal_error("Fatalna greska, parsiranje se ne moze nastaviti", cur_token);
+    }
+
+    public void report_error(String message, Object info) {
+    	errorDetected = true;
+    	StringBuilder msg = new StringBuilder(message); 
+    	if (info instanceof Symbol)
+            msg.append (" na liniji ").append(((Symbol)info).left);
+        log.error(msg.toString());
+    }
+
+
+:}
+
+init with {:
+	errorDetected = false;
+:}
+
+scan with {:
+	Symbol s = this.getScanner().next_token();
+	if (s != null && s.value != null) 
+		log.info(s.toString() + " " + s.value.toString());
+	return s;
+:}
+
+
+
+terminal PROGRAM;
+terminal String IDENT;
+terminal BRACES_BEGIN;
+terminal BRACES_END;
+terminal CONST;
+terminal CLASS;   
+terminal EXTENDS;
+terminal PARENTHESES_END;
+terminal BRACKET_END;
+terminal BRACKET_BEGIN;
+//terminal CONSTRUCTOR;
+terminal PARENTHESES_BEGIN;
+terminal READ;
+terminal PRINT;
+terminal NEW;    
+terminal VOID; 
+terminal COLON; 
+terminal IF;
+terminal ELSE; 
+terminal DO;
+terminal WHILE;
+terminal BREAK; 
+terminal CONTINUE;
+terminal RETURN;
+terminal SEMI;
+terminal GOTO;
+terminal MINUS;  
+terminal MULTIPLY;
+terminal DIVIDE;
+terminal MODULO;
+terminal PLUS;
+terminal Integer NUM_CONST;
+terminal Character CHAR_CONST;
+terminal Integer BOOL_CONST;
+terminal DOT;
+terminal COMMA;
+terminal DECREMENT;
+terminal LARGER_EQUAL;     
+terminal EQUALS;
+terminal NOT_EQUAL;
+terminal LARGER_THAN;
+terminal LESS_THAN;
+terminal LESS_EQUAL;
+terminal OR;
+terminal AND;
+terminal INCREMENT;
+terminal ASSIGN;
+terminal SUPER;
+terminal ENUM;
+terminal THIS;
+terminal RECORD;
+//terminal HASH;
+nonterminal Declarations; 
+nonterminal Decl; 
+nonterminal rs.etf.pp1.symboltable.concepts.Obj ConstDecl; 
+nonterminal VarDecl; 
+nonterminal ClassDeclaration; 
+nonterminal ClassBody; 
+nonterminal RecordDecl; 
+
+nonterminal AfterVarDecl; 
+nonterminal ClassSomething; 
+nonterminal ConstructorDecl; 
+nonterminal Method; 
+nonterminal MethodDeclarations;
+nonterminal ClassMethods;
+nonterminal ConstrName;
+nonterminal MethodAfterType;
+nonterminal FormPars;
+nonterminal VarDeclarationsList;
+nonterminal Statements;
+nonterminal StatementListDecl;
+nonterminal rs.etf.pp1.symboltable.concepts.Obj Statement;
+nonterminal rs.etf.pp1.symboltable.concepts.Obj Label;
+nonterminal rs.etf.pp1.symboltable.concepts.Obj SingleStatement;
+nonterminal DesignatorStatement;
+nonterminal Condition;
+nonterminal PrintExpr;
+nonterminal rs.etf.pp1.symboltable.concepts.Obj Designator;	
+nonterminal rs.etf.pp1.symboltable.concepts.Obj Expr;	
+nonterminal rs.etf.pp1.symboltable.concepts.Obj Term;
+nonterminal rs.etf.pp1.symboltable.concepts.Obj ExprAfterTerm;
+nonterminal rs.etf.pp1.symboltable.concepts.Obj Factor;
+nonterminal Mulop;
+nonterminal Addop;  
+nonterminal AfterFactorDesignator;  
+nonterminal FactorNewAfterType;  
+nonterminal ActPars;  
+nonterminal CondFact;
+nonterminal ConditionAfterCondTerm;
+nonterminal Relop;
+nonterminal CondTerm;
+nonterminal ConditionAfterSingle;
+nonterminal CondTermAfter;
+nonterminal CondTermAfterSingle;
+nonterminal Assignop;
+nonterminal rs.etf.pp1.symboltable.concepts.Obj DesignatorName;
+
+nonterminal FormParsList;
+nonterminal FormParamFirstPart;
+nonterminal FormParsListSingle;
+nonterminal VarDeclList;
+nonterminal VarDeclListSingle;
+nonterminal ConstDeclList;
+nonterminal ConstDeclListSingle;
+nonterminal rs.etf.pp1.symboltable.concepts.Struct ConstDeclAfterAssign;
+nonterminal Program;
+nonterminal ProgName;
+nonterminal VarDSingleBracket;
+nonterminal rs.etf.pp1.symboltable.concepts.Struct Type; 
+nonterminal MethodDecl; 
+nonterminal rs.etf.pp1.symboltable.concepts.Obj MethodName; 
+nonterminal MethodTypeChose; 
+nonterminal ParanthesesBegin;
+nonterminal ParanthesesEnd;
+nonterminal Neg;
+nonterminal PrintWidth;
+nonterminal NewExpr;
+nonterminal rs.etf.pp1.symboltable.concepts.Obj DesName;
+nonterminal Wrepper;
+precedence left ELSE;
+	
+	
+Program ::= (Program) PROGRAM ProgName Declarations BRACES_BEGIN MethodDeclarations BRACES_END
+;
+
+ProgName ::= (ProgName) IDENT
+;
+
+
+Declarations ::= (DeclarationsList) Declarations Decl
+			|
+			(NoDecl)
+			; 	
+
+Decl ::=(ConstDeclaration) ConstDecl
+		| (VarDeclaration) VarDecl
+		| (ClassDeclarations) CLASS ClassDeclaration BRACES_BEGIN ClassBody BRACES_END
+		;
+// dodati recorddecl
+
+
+ClassDeclaration ::=(RootClass) IDENT:className
+				| (ChildClass) IDENT:className EXTENDS Type
+				
+				;
+
+ClassBody ::= (ClassTelo) VarDecl ClassBody 	
+			| (AfterVarDeclarations) AfterVarDecl
+			;
+
+AfterVarDecl ::=  (HaveSomethingInClass) BRACES_BEGIN ClassMethods BRACES_END 
+				| (NoClassDekl)
+				;
+
+ClassMethods ::= (ClassWithConstructor)  MethodDeclarations 
+				
+				;
+MethodDeclarations ::= (MethodDeclarationsList) MethodDeclarations MethodDecl
+					| (NoMethodDeclarations)
+					;
+					
+Type ::= (Type) IDENT:typeName
+		;
+
+
+MethodDecl ::= (MethodDeclaration) MethodTypeChose MethodName PARENTHESES_BEGIN MethodAfterType
+				 PARENTHESES_END VarDeclarationsList BRACES_BEGIN StatementListDecl BRACES_END
+				;
+MethodTypeChose ::= (MethodDeclarationsType) Type
+					|(MethodDeclarationsVoid) VOID
+					;
+MethodName ::= (MethodName) IDENT:methodName;		
+MethodAfterType ::= (MethodAfterTypeWithFormPars) FormPars 
+				| (MethodAfterTypeWithoutFormPars) 
+				;
+
+VarDeclarationsList ::= (VarDeclarations) VarDeclarationsList VarDecl
+				| (NoVarDecl) /*epsilon*/
+				;
+		
+Statements ::= (StatementListDeclaration) BRACES_BEGIN StatementListDecl BRACES_END;
+
+StatementListDecl ::= (StatListDecl) StatementListDecl Statement
+				| (NoStatementList)
+				;
+	
+Label ::= (Label) IDENT:label
+		;
+		
+Statement ::= (StatementWithLabel) Label COLON SingleStatement
+			| (SingleStatementNoLabel) SingleStatement
+			|  (StatementLis) Statements;
+			
+			
+
+SingleStatement ::= (SingleStatementDesignator) DesignatorStatement SEMI
+				| (IfThenStatement) IF PARENTHESES_BEGIN Condition PARENTHESES_END Statement 
+				| (IfThenElseStatement) IF PARENTHESES_BEGIN Condition PARENTHESES_END Statement ELSE Statement
+				| (DoWhileStatement) DO Statement WHILE PARENTHESES_BEGIN Condition PARENTHESES_END SEMI 
+				| (BreakStatement) BREAK SEMI
+				| (ContinueStatement) CONTINUE SEMI
+				| (ReturnStatementNoExpr) RETURN SEMI 
+				| (ReturnStatementExpr) RETURN Expr SEMI 
+				| (ReadStatement) READ PARENTHESES_BEGIN Designator PARENTHESES_END SEMI
+				| (PrintStatement) PRINT PARENTHESES_BEGIN Expr PrintExpr PARENTHESES_END SEMI
+				| (GoToStatement) GOTO Label SEMI
+				;
+				
+PrintExpr ::= (HaveExpr) COMMA PrintWidth 
+			| (NoExprForPrint) 
+			;
+
+
+PrintWidth ::= (PrintWidth) NUM_CONST;
+
+Expr ::=  (NegativeTerm) Neg ExprAfterTerm
+	| (AddOperationTerm) ExprAfterTerm
+	;
+	
+Neg ::= (Neg) MINUS;
+ExprAfterTerm ::= (TermList) ExprAfterTerm Addop Term
+						| (OneTerm) Term
+						;
+						
+						
+						
+
+Term ::= (TermStmt) Term Mulop Factor
+		 |
+		 (TermStmtOnly) Factor
+		 ;
+		  		
+Mulop ::= (MulopMultiply) MULTIPLY
+		| (MulopDevide) DIVIDE
+		| (MulopModulo) MODULO;		
+		
+		
+
+
+Addop ::= (AddopPlus) PLUS
+		| (AddopMinus) MINUS
+		;
+
+Factor ::= (FactorDesignatorNoParam) Designator
+		
+		| (FactorDesignatorParam) Designator PARENTHESES_BEGIN AfterFactorDesignator PARENTHESES_END
+		| (FactorNumConst) NUM_CONST
+		| (FactorCharConst) CHAR_CONST
+		| (FactorBoolConst)  BOOL_CONST
+		| (FactorNewNoExpr) NewExpr Type
+		| (FactorNewExpr) NewExpr Type BRACKET_BEGIN Expr BRACKET_END
+		| (FactorExpr) ParanthesesBegin Expr ParanthesesEnd
+		; 
+		
+NewExpr ::= (NewExpr) NEW;
+ParanthesesBegin ::= (ParanthesesBegin) PARENTHESES_BEGIN;
+
+ParanthesesEnd ::= (ParanthesesEnd) PARENTHESES_END;
+
+ActPars ::=  (AfterParsWithList) Expr 
+			| (WithAfterParsExprList) ActPars  COMMA Expr
+			;	
+
+					
+
+	
+AfterFactorDesignator ::= (AfterFactorDesigWithActPars) ActPars
+						| (NoAfterFactorDesigActPars) ;
+
+			
+Relop ::=  (RelopEquals) EQUALS
+		| (RelopNotEqual) NOT_EQUAL
+		| (RelopLargerThan) LARGER_THAN
+		| (RelopLargerEqual) LARGER_EQUAL
+		| (RelopLessThan) LESS_THAN
+		| (RelopLessEqual) LESS_EQUAL
+		;	
+					
+Condition ::= (ConditionDecl) CondTerm ConditionAfterCondTerm; 
+
+ConditionAfterCondTerm	::=  (ConditionAfterList) ConditionAfterCondTerm ConditionAfterSingle
+						| (NoConditionAfter);		
+ConditionAfterSingle ::= (ConditionAfterSingleDecl) OR CondTerm ;
+CondFact ::= (CondFactWithRelop) Expr Relop Expr
+			| (CondFactWithoutRelop) Expr;	
+
+
+CondTerm ::= (CondTermDecl) CondFact CondTermAfter;
+
+CondTermAfter ::= (CondTermAfterList) CondTermAfter CondTermAfterSingle
+				| (NoCondTermAfter);
+
+CondTermAfterSingle ::= (CondTermAfterSingleDecl) AND CondFact ;
+
+DesignatorStatement ::= (AssignopExpr) Designator Wrepper Assignop Expr 
+					| (DesigStatementActPars) Designator PARENTHESES_BEGIN ActPars PARENTHESES_END
+					| (DesigStatementActParsNoBr) Designator PARENTHESES_BEGIN PARENTHESES_END
+					| (DesignatorStatIncrement) Designator INCREMENT
+					| (DesignatorStatDecrement) Designator DECREMENT;
+					
+Assignop ::= (AssignopDecl) ASSIGN;
+Wrepper ::= (WrepperDecl);
+Designator ::= (CleanDesignator) IDENT:identification
+            | (ArrayElementAccessDesignator) DesName BRACKET_BEGIN Expr:expression BRACKET_END
+			;
+
+DesName ::= (DesNameDecl) IDENT;
+
+FormPars ::= (FormParsDecl) Type FormParamFirstPart FormParsList; 
+
+
+FormParamFirstPart ::= (FormParamBrackes) IDENT BRACKET_BEGIN BRACKET_END 
+					| (FormParamNoBrackes) IDENT
+					;
+FormParsList ::= (FormParsListDecl) FormParsList FormParsListSingle
+				| (NoFormParsList)
+				;			
+					
+FormParsListSingle ::= (FormParsListSingle) COMMA Type FormParamFirstPart
+					;					
+
+	
+VarDecl ::= (VarDeclDecl) Type VarDSingleBracket VarDeclList SEMI;
+		
+VarDeclList ::= (VarDeclListDecl) VarDeclListSingle VarDeclList
+				| (NoVarDeclList) 
+				;	
+				
+VarDeclListSingle ::= (VarDeclListSingle) COMMA  VarDSingleBracket
+					;	
+VarDSingleBracket ::= (VarHaveBracket) IDENT BRACKET_BEGIN BRACKET_END
+					| (VarNotHaveBracket) IDENT ;
+					
+
+
+
+ConstDecl ::= (ConstDeclDecl) CONST Type IDENT ASSIGN ConstDeclAfterAssign ConstDeclList SEMI;
+
+ConstDeclAfterAssign ::= (NumConstDecl) NUM_CONST 
+						| (CharConstDecl) CHAR_CONST 
+						| (BoolConstDecl) BOOL_CONST 
+						;
+						
+ConstDeclList ::= (ConstDeclListDecl) ConstDeclList ConstDeclListSingle
+				| (NoConstDeclList)
+				;
+				
+ConstDeclListSingle ::= (ConstDeclListSingleDecl) COMMA IDENT ASSIGN ConstDeclAfterAssign;
+
+				

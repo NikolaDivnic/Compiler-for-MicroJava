@@ -1,0 +1,80 @@
+INFO  18:46:13,713 - Compiling source file: C:\pp\workspace\MJCompiler\test\program3.mj
+INFO  18:46:13,762 - #2 program
+INFO  18:46:13,762 - #3 MJProgram
+INFO  18:46:13,763 - #4 {
+INFO  18:46:13,763 - #16 void
+INFO  18:46:13,764 - #3 main
+INFO  18:46:13,765 - #12 (
+INFO  18:46:13,765 - #9 )
+INFO  18:46:13,766 - #4 {
+INFO  18:46:13,766 - #26 goto
+INFO  18:46:13,767 - #3 labela1
+INFO  18:46:13,767 - #25 ;
+INFO  18:46:13,768 - #3 labela1
+INFO  18:46:13,769 - #17 :
+INFO  18:46:13,769 - #14 print
+INFO  18:46:13,769 - #12 (
+INFO  18:46:13,769 - #32 6
+INFO  18:46:13,769 - #9 )
+INFO  18:46:13,771 - #25 ;
+INFO  18:46:13,771 - #5 }
+INFO  18:46:13,771 - #5 }
+INFO  18:46:13,778 - Program(
+  ProgName(
+   MJProgram
+  ) [ProgName]
+  NoDecl(
+  ) [NoDecl]
+  MethodDeclarationsList(
+    NoMethodDeclarations(
+    ) [NoMethodDeclarations]
+    MethodDeclaration(
+      MethodDeclarationsVoid(
+      ) [MethodDeclarationsVoid]
+      MethodName(
+       main
+      ) [MethodName]
+      MethodAfterTypeWithoutFormPars(
+      ) [MethodAfterTypeWithoutFormPars]
+      NoVarDecl(
+      ) [NoVarDecl]
+      StatListDecl(
+        StatListDecl(
+          NoStatementList(
+          ) [NoStatementList]
+          SingleStatementNoLabel(
+            GoToStatement(
+              Label(
+               labela1
+              ) [Label]
+            ) [GoToStatement]
+          ) [SingleStatementNoLabel]
+        ) [StatListDecl]
+        StatementWithLabel(
+          Label(
+           labela1
+          ) [Label]
+          PrintStatement(
+            AddOperationTerm(
+              OneTerm(
+                TermStmtOnly(
+                  FactorNumConst(
+                   6
+                  ) [FactorNumConst]
+                ) [TermStmtOnly]
+              ) [OneTerm]
+            ) [AddOperationTerm]
+            NoExprForPrint(
+            ) [NoExprForPrint]
+          ) [PrintStatement]
+        ) [StatementWithLabel]
+      ) [StatListDecl]
+    ) [MethodDeclaration]
+  ) [MethodDeclarationsList]
+) [Program]
+INFO  18:46:13,784 - ===================================
+INFO  18:46:13,787 - ===================================
+INFO  18:46:13,790 - PC goto  3   labela1 na liniji 4
+INFO  18:46:13,790 - PC labela  7 na liniji 5
+INFO  18:46:13,790 - PC labela  4   7 na liniji 5
+INFO  18:46:13,791 - Parsiranje uspesno zavrseno!

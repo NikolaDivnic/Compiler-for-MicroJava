@@ -1,0 +1,121 @@
+INFO  22:22:49,891 - Compiling source file: C:\pp\workspace\MJCompiler\test\program3.mj
+INFO  22:22:49,952 - #2 program
+INFO  22:22:49,952 - #3 MJProgram
+INFO  22:22:49,952 - #4 {
+INFO  22:22:49,954 - #16 void
+INFO  22:22:49,954 - #3 main
+INFO  22:22:49,955 - #12 (
+INFO  22:22:49,956 - #9 )
+INFO  22:22:49,957 - #3 int
+INFO  22:22:49,958 - #3 x
+INFO  22:22:49,959 - #25 ;
+INFO  22:22:49,960 - #4 {
+INFO  22:22:49,960 - #26 goto
+INFO  22:22:49,961 - #3 labela1
+INFO  22:22:49,961 - #25 ;
+INFO  22:22:49,962 - #3 labela1
+INFO  22:22:49,963 - #17 :
+INFO  22:22:49,963 - #3 x
+INFO  22:22:49,963 - #47 =
+INFO  22:22:49,964 - #32 3
+INFO  22:22:49,965 - #25 ;
+INFO  22:22:49,966 - #14 print
+INFO  22:22:49,966 - #12 (
+INFO  22:22:49,972 - #32 7
+INFO  22:22:49,972 - #9 )
+INFO  22:22:49,973 - #25 ;
+INFO  22:22:49,973 - #5 }
+INFO  22:22:49,973 - #5 }
+INFO  22:22:49,981 - Program(
+  ProgName(
+   MJProgram
+  ) [ProgName]
+  NoDecl(
+  ) [NoDecl]
+  MethodDeclarationsList(
+    NoMethodDeclarations(
+    ) [NoMethodDeclarations]
+    MethodDeclaration(
+      MethodDeclarationsVoid(
+      ) [MethodDeclarationsVoid]
+      MethodName(
+       main
+      ) [MethodName]
+      MethodAfterTypeWithoutFormPars(
+      ) [MethodAfterTypeWithoutFormPars]
+      VarDeclarations(
+        NoVarDecl(
+        ) [NoVarDecl]
+        VarDeclDecl(
+          Type(
+           int
+          ) [Type]
+          VarNotHaveBracket(
+           x
+          ) [VarNotHaveBracket]
+          NoVarDeclList(
+          ) [NoVarDeclList]
+        ) [VarDeclDecl]
+      ) [VarDeclarations]
+      StatListDecl(
+        StatListDecl(
+          StatListDecl(
+            NoStatementList(
+            ) [NoStatementList]
+            SingleStatementNoLabel(
+              GoToStatement(
+                Label(
+                 labela1
+                ) [Label]
+              ) [GoToStatement]
+            ) [SingleStatementNoLabel]
+          ) [StatListDecl]
+          StatementWithLabel(
+            Label(
+             labela1
+            ) [Label]
+            SingleStatementDesignator(
+              AssignopExpr(
+                CleanDesignator(
+                 x
+                ) [CleanDesignator]
+                AssignopDecl(
+                ) [AssignopDecl]
+                AddOperationTerm(
+                  OneTerm(
+                    TermStmtOnly(
+                      FactorNumConst(
+                       3
+                      ) [FactorNumConst]
+                    ) [TermStmtOnly]
+                  ) [OneTerm]
+                ) [AddOperationTerm]
+              ) [AssignopExpr]
+            ) [SingleStatementDesignator]
+          ) [StatementWithLabel]
+        ) [StatListDecl]
+        SingleStatementNoLabel(
+          PrintStatement(
+            AddOperationTerm(
+              OneTerm(
+                TermStmtOnly(
+                  FactorNumConst(
+                   7
+                  ) [FactorNumConst]
+                ) [TermStmtOnly]
+              ) [OneTerm]
+            ) [AddOperationTerm]
+            NoExprForPrint(
+            ) [NoExprForPrint]
+          ) [PrintStatement]
+        ) [SingleStatementNoLabel]
+      ) [StatListDecl]
+    ) [MethodDeclaration]
+  ) [MethodDeclarationsList]
+) [Program]
+INFO  22:22:49,982 - ===================================
+INFO  22:22:49,986 - ===================================
+INFO  22:22:49,990 - Deklarisana promenljiva 8 na liniji 4
+INFO  22:22:49,991 - Deklarisana promenljiva pc  = 3 na liniji 4
+INFO  22:22:49,991 - Deklarisana promenljiva skok  = 6 na liniji 4
+INFO  22:22:49,992 - Parsiranje uspesno zavrseno!

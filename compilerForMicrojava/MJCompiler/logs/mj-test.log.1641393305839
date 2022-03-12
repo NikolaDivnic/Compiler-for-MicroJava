@@ -1,0 +1,101 @@
+INFO  15:34:47,672 - Compiling source file: C:\pp\workspace\MJCompiler\test\program3.mj
+INFO  15:34:47,729 - #2 program
+INFO  15:34:47,729 - #3 MJProgram
+INFO  15:34:47,729 - #4 {
+INFO  15:34:47,730 - #16 void
+INFO  15:34:47,731 - #3 main
+INFO  15:34:47,732 - #12 (
+INFO  15:34:47,733 - #9 )
+INFO  15:34:47,734 - #4 {
+INFO  15:34:47,734 - #26 goto
+INFO  15:34:47,735 - #3 labela1
+INFO  15:34:47,735 - #25 ;
+INFO  15:34:47,736 - #14 print
+INFO  15:34:47,736 - #12 (
+INFO  15:34:47,736 - #32 8
+INFO  15:34:47,736 - #9 )
+INFO  15:34:47,737 - #25 ;
+INFO  15:34:47,737 - #3 labela1
+INFO  15:34:47,738 - #17 :
+INFO  15:34:47,738 - #14 print
+INFO  15:34:47,738 - #12 (
+INFO  15:34:47,738 - #32 6
+INFO  15:34:47,738 - #9 )
+INFO  15:34:47,743 - #25 ;
+INFO  15:34:47,743 - #5 }
+INFO  15:34:47,743 - #5 }
+INFO  15:34:47,750 - Program(
+  ProgName(
+   MJProgram
+  ) [ProgName]
+  NoDecl(
+  ) [NoDecl]
+  MethodDeclarationsList(
+    NoMethodDeclarations(
+    ) [NoMethodDeclarations]
+    MethodDeclaration(
+      MethodDeclarationsVoid(
+      ) [MethodDeclarationsVoid]
+      MethodName(
+       main
+      ) [MethodName]
+      MethodAfterTypeWithoutFormPars(
+      ) [MethodAfterTypeWithoutFormPars]
+      NoVarDecl(
+      ) [NoVarDecl]
+      StatListDecl(
+        StatListDecl(
+          StatListDecl(
+            NoStatementList(
+            ) [NoStatementList]
+            SingleStatementNoLabel(
+              GoToStatement(
+                Label(
+                 labela1
+                ) [Label]
+              ) [GoToStatement]
+            ) [SingleStatementNoLabel]
+          ) [StatListDecl]
+          SingleStatementNoLabel(
+            PrintStatement(
+              AddOperationTerm(
+                OneTerm(
+                  TermStmtOnly(
+                    FactorNumConst(
+                     8
+                    ) [FactorNumConst]
+                  ) [TermStmtOnly]
+                ) [OneTerm]
+              ) [AddOperationTerm]
+              NoExprForPrint(
+              ) [NoExprForPrint]
+            ) [PrintStatement]
+          ) [SingleStatementNoLabel]
+        ) [StatListDecl]
+        StatementWithLabel(
+          Label(
+           labela1
+          ) [Label]
+          PrintStatement(
+            AddOperationTerm(
+              OneTerm(
+                TermStmtOnly(
+                  FactorNumConst(
+                   6
+                  ) [FactorNumConst]
+                ) [TermStmtOnly]
+              ) [OneTerm]
+            ) [AddOperationTerm]
+            NoExprForPrint(
+            ) [NoExprForPrint]
+          ) [PrintStatement]
+        ) [StatementWithLabel]
+      ) [StatListDecl]
+    ) [MethodDeclaration]
+  ) [MethodDeclarationsList]
+) [Program]
+INFO  15:34:47,751 - ===================================
+INFO  15:34:47,755 - ===================================
+INFO  15:34:47,759 - PC goto  3   labela1 na liniji 4
+INFO  15:34:47,760 - PC labela  3   13 na liniji 6
+INFO  15:34:47,761 - Parsiranje uspesno zavrseno!

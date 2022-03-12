@@ -1,0 +1,147 @@
+INFO  13:10:49,344 - Compiling source file: C:\ppdomaci\workspace\MJCompiler\test\test301_A.mj
+INFO  13:10:49,426 - #2 program
+INFO  13:10:49,426 - #3 test301
+INFO  13:10:49,427 - #4 {
+INFO  13:10:49,428 - #16 void
+INFO  13:10:49,429 - #3 main
+INFO  13:10:49,431 - #12 (
+INFO  13:10:49,432 - #9 )
+INFO  13:10:49,433 - #3 int
+INFO  13:10:49,434 - #3 bodovi
+INFO  13:10:49,435 - #25 ;
+INFO  13:10:49,437 - #4 {
+INFO  13:10:49,437 - #3 bodovi
+INFO  13:10:49,438 - #47 =
+INFO  13:10:49,439 - #32 0
+INFO  13:10:49,441 - #25 ;
+INFO  13:10:49,441 - #3 bodovi
+INFO  13:10:49,442 - #47 =
+INFO  13:10:49,442 - #3 bodovi
+INFO  13:10:49,442 - #31 +
+INFO  13:10:49,443 - #3 jedan
+INFO  13:10:49,444 - #25 ;
+INFO  13:10:49,445 - #14 print
+INFO  13:10:49,450 - #12 (
+INFO  13:10:49,450 - #3 bodovi
+INFO  13:10:49,450 - #9 )
+INFO  13:10:49,452 - #25 ;
+INFO  13:10:49,452 - #5 }
+INFO  13:10:49,452 - #5 }
+INFO  13:10:49,465 - Program(
+  ProgName(
+   test301
+  ) [ProgName]
+  NoDecl(
+  ) [NoDecl]
+  MethodDeclarationsList(
+    NoMethodDeclarations(
+    ) [NoMethodDeclarations]
+    MethodDeclaration(
+      MethodDeclarationsVoid(
+      ) [MethodDeclarationsVoid]
+      MethodName(
+       main
+      ) [MethodName]
+      MethodAfterTypeWithoutFormPars(
+      ) [MethodAfterTypeWithoutFormPars]
+      VarDeclarations(
+        NoVarDecl(
+        ) [NoVarDecl]
+        VarDeclDecl(
+          Type(
+           int
+          ) [Type]
+          VarNotHaveBracket(
+           bodovi
+          ) [VarNotHaveBracket]
+          NoVarDeclList(
+          ) [NoVarDeclList]
+        ) [VarDeclDecl]
+      ) [VarDeclarations]
+      StatListDecl(
+        StatListDecl(
+          StatListDecl(
+            NoStatementList(
+            ) [NoStatementList]
+            SingleStatementNoLabel(
+              SingleStatementDesignator(
+                AssignopExpr(
+                  CleanDesignator(
+                   bodovi
+                  ) [CleanDesignator]
+                  AssignopDecl(
+                  ) [AssignopDecl]
+                  AddOperationTerm(
+                    OneTerm(
+                      TermStmtOnly(
+                        FactorNumConst(
+                         0
+                        ) [FactorNumConst]
+                      ) [TermStmtOnly]
+                    ) [OneTerm]
+                  ) [AddOperationTerm]
+                ) [AssignopExpr]
+              ) [SingleStatementDesignator]
+            ) [SingleStatementNoLabel]
+          ) [StatListDecl]
+          SingleStatementNoLabel(
+            SingleStatementDesignator(
+              AssignopExpr(
+                CleanDesignator(
+                 bodovi
+                ) [CleanDesignator]
+                AssignopDecl(
+                ) [AssignopDecl]
+                AddOperationTerm(
+                  TermList(
+                    OneTerm(
+                      TermStmtOnly(
+                        FactorDesignatorNoParam(
+                          CleanDesignator(
+                           bodovi
+                          ) [CleanDesignator]
+                        ) [FactorDesignatorNoParam]
+                      ) [TermStmtOnly]
+                    ) [OneTerm]
+                    AddopPlus(
+                    ) [AddopPlus]
+                    TermStmtOnly(
+                      FactorDesignatorNoParam(
+                        CleanDesignator(
+                         jedan
+                        ) [CleanDesignator]
+                      ) [FactorDesignatorNoParam]
+                    ) [TermStmtOnly]
+                  ) [TermList]
+                ) [AddOperationTerm]
+              ) [AssignopExpr]
+            ) [SingleStatementDesignator]
+          ) [SingleStatementNoLabel]
+        ) [StatListDecl]
+        SingleStatementNoLabel(
+          PrintStatement(
+            AddOperationTerm(
+              OneTerm(
+                TermStmtOnly(
+                  FactorDesignatorNoParam(
+                    CleanDesignator(
+                     bodovi
+                    ) [CleanDesignator]
+                  ) [FactorDesignatorNoParam]
+                ) [TermStmtOnly]
+              ) [OneTerm]
+            ) [AddOperationTerm]
+            NoExprForPrint(
+            ) [NoExprForPrint]
+          ) [PrintStatement]
+        ) [SingleStatementNoLabel]
+      ) [StatListDecl]
+    ) [MethodDeclaration]
+  ) [MethodDeclarationsList]
+) [Program]
+INFO  13:10:49,466 - ===================================
+ERROR 13:10:49,471 - Neodgovarajuce ime promenljive ili promenljiva ne postoji! Ili nije funkcija  na liniji 13
+ERROR 13:10:49,471 - Nisu dobrog tipa za sabiranje na liniji 13
+ERROR 13:10:49,471 - Nisu istog tipa  na liniji 13
+INFO  13:10:49,471 - ===================================
+ERROR 13:10:49,472 - Parsiranje NIJE uspesno zavrseno!

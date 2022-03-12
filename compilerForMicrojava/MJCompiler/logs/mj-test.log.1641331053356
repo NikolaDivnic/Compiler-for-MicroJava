@@ -1,0 +1,141 @@
+INFO  22:17:06,995 - Compiling source file: C:\pp\workspace\MJCompiler\test\program3.mj
+INFO  22:17:07,048 - #2 program
+INFO  22:17:07,048 - #3 MJProgram
+INFO  22:17:07,049 - #4 {
+INFO  22:17:07,050 - #16 void
+INFO  22:17:07,051 - #3 main
+INFO  22:17:07,053 - #12 (
+INFO  22:17:07,054 - #9 )
+INFO  22:17:07,055 - #3 int
+INFO  22:17:07,056 - #3 x
+INFO  22:17:07,057 - #25 ;
+INFO  22:17:07,058 - #4 {
+INFO  22:17:07,059 - #14 print
+INFO  22:17:07,061 - #12 (
+INFO  22:17:07,061 - #32 1
+INFO  22:17:07,061 - #9 )
+INFO  22:17:07,062 - #25 ;
+INFO  22:17:07,063 - #26 goto
+INFO  22:17:07,063 - #3 labela1
+INFO  22:17:07,063 - #25 ;
+INFO  22:17:07,064 - #3 labela1
+INFO  22:17:07,064 - #17 :
+INFO  22:17:07,064 - #3 x
+INFO  22:17:07,069 - #47 =
+INFO  22:17:07,069 - #32 3
+INFO  22:17:07,071 - #25 ;
+INFO  22:17:07,071 - #14 print
+INFO  22:17:07,071 - #12 (
+INFO  22:17:07,071 - #32 7
+INFO  22:17:07,071 - #9 )
+INFO  22:17:07,071 - #25 ;
+INFO  22:17:07,071 - #5 }
+INFO  22:17:07,071 - #5 }
+INFO  22:17:07,079 - Program(
+  ProgName(
+   MJProgram
+  ) [ProgName]
+  NoDecl(
+  ) [NoDecl]
+  MethodDeclarationsList(
+    NoMethodDeclarations(
+    ) [NoMethodDeclarations]
+    MethodDeclaration(
+      MethodDeclarationsVoid(
+      ) [MethodDeclarationsVoid]
+      MethodName(
+       main
+      ) [MethodName]
+      MethodAfterTypeWithoutFormPars(
+      ) [MethodAfterTypeWithoutFormPars]
+      VarDeclarations(
+        NoVarDecl(
+        ) [NoVarDecl]
+        VarDeclDecl(
+          Type(
+           int
+          ) [Type]
+          VarNotHaveBracket(
+           x
+          ) [VarNotHaveBracket]
+          NoVarDeclList(
+          ) [NoVarDeclList]
+        ) [VarDeclDecl]
+      ) [VarDeclarations]
+      StatListDecl(
+        StatListDecl(
+          StatListDecl(
+            StatListDecl(
+              NoStatementList(
+              ) [NoStatementList]
+              SingleStatementNoLabel(
+                PrintStatement(
+                  AddOperationTerm(
+                    OneTerm(
+                      TermStmtOnly(
+                        FactorNumConst(
+                         1
+                        ) [FactorNumConst]
+                      ) [TermStmtOnly]
+                    ) [OneTerm]
+                  ) [AddOperationTerm]
+                  NoExprForPrint(
+                  ) [NoExprForPrint]
+                ) [PrintStatement]
+              ) [SingleStatementNoLabel]
+            ) [StatListDecl]
+            SingleStatementNoLabel(
+              GoToStatement(
+                Label(
+                 labela1
+                ) [Label]
+              ) [GoToStatement]
+            ) [SingleStatementNoLabel]
+          ) [StatListDecl]
+          StatementWithLabel(
+            Label(
+             labela1
+            ) [Label]
+            SingleStatementDesignator(
+              AssignopExpr(
+                CleanDesignator(
+                 x
+                ) [CleanDesignator]
+                AssignopDecl(
+                ) [AssignopDecl]
+                AddOperationTerm(
+                  OneTerm(
+                    TermStmtOnly(
+                      FactorNumConst(
+                       3
+                      ) [FactorNumConst]
+                    ) [TermStmtOnly]
+                  ) [OneTerm]
+                ) [AddOperationTerm]
+              ) [AssignopExpr]
+            ) [SingleStatementDesignator]
+          ) [StatementWithLabel]
+        ) [StatListDecl]
+        SingleStatementNoLabel(
+          PrintStatement(
+            AddOperationTerm(
+              OneTerm(
+                TermStmtOnly(
+                  FactorNumConst(
+                   7
+                  ) [FactorNumConst]
+                ) [TermStmtOnly]
+              ) [OneTerm]
+            ) [AddOperationTerm]
+            NoExprForPrint(
+            ) [NoExprForPrint]
+          ) [PrintStatement]
+        ) [SingleStatementNoLabel]
+      ) [StatListDecl]
+    ) [MethodDeclaration]
+  ) [MethodDeclarationsList]
+) [Program]
+INFO  22:17:07,080 - ===================================
+INFO  22:17:07,083 - ===================================
+INFO  22:17:07,087 - Deklarisana promenljiva 13 na liniji 5
+INFO  22:17:07,088 - Parsiranje uspesno zavrseno!

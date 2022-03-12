@@ -1,0 +1,79 @@
+INFO  16:40:08,913 - Compiling source file: C:\ppdomaci\workspace\MJCompiler\test\program2.mj
+INFO  16:40:08,978 - #2 program
+INFO  16:40:08,978 - #3 MJProgram
+INFO  16:40:08,978 - #3 int
+INFO  16:40:08,980 - #3 x
+INFO  16:40:08,981 - #25 ;
+INFO  16:40:08,981 - #4 {
+INFO  16:40:08,982 - #16 void
+INFO  16:40:08,983 - #3 main
+INFO  16:40:08,983 - #12 (
+INFO  16:40:08,984 - #9 )
+INFO  16:40:08,984 - #4 {
+INFO  16:40:08,985 - #14 print
+INFO  16:40:08,986 - #12 (
+INFO  16:40:08,986 - #3 x
+INFO  16:40:08,986 - #9 )
+INFO  16:40:08,988 - #25 ;
+INFO  16:40:08,988 - #5 }
+INFO  16:40:08,988 - #5 }
+INFO  16:40:08,994 - Program(
+  ProgName(
+   MJProgram
+  ) [ProgName]
+  DeclarationsList(
+    NoDecl(
+    ) [NoDecl]
+    VarDeclaration(
+      VarDeclDecl(
+        Type(
+         int
+        ) [Type]
+        VarNotHaveBracket(
+         x
+        ) [VarNotHaveBracket]
+        NoVarDeclList(
+        ) [NoVarDeclList]
+      ) [VarDeclDecl]
+    ) [VarDeclaration]
+  ) [DeclarationsList]
+  MethodDeclarationsList(
+    NoMethodDeclarations(
+    ) [NoMethodDeclarations]
+    MethodDeclaration(
+      MethodDeclarationsVoid(
+      ) [MethodDeclarationsVoid]
+      MethodNameDecl(
+       main
+      ) [MethodNameDecl]
+      MethodAfterTypeWithoutFormPars(
+      ) [MethodAfterTypeWithoutFormPars]
+      NoVarDecl(
+      ) [NoVarDecl]
+      StatListDecl(
+        NoStatementList(
+        ) [NoStatementList]
+        SingleStatementNoLabel(
+          PrintStatement(
+            AddOperationTerm(
+              OneTerm(
+                TermStmtOnly(
+                  FactorDesignatorNoParam(
+                    CleanDesignator(
+                     x
+                    ) [CleanDesignator]
+                  ) [FactorDesignatorNoParam]
+                ) [TermStmtOnly]
+              ) [OneTerm]
+            ) [AddOperationTerm]
+            NoExprForPrint(
+            ) [NoExprForPrint]
+          ) [PrintStatement]
+        ) [SingleStatementNoLabel]
+      ) [StatListDecl]
+    ) [MethodDeclaration]
+  ) [MethodDeclarationsList]
+) [Program]
+INFO  16:40:08,995 - ===================================
+INFO  16:40:08,997 - ===================================
+INFO  16:40:09,000 - Parsiranje uspesno zavrseno!

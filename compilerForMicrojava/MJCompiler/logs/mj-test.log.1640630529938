@@ -1,0 +1,175 @@
+INFO  19:06:45,604 - Compiling source file: C:\ppdomaci\workspace\MJCompiler\test\test301.mj
+INFO  19:06:45,664 - #2 program
+INFO  19:06:45,664 - #3 test301
+INFO  19:06:45,664 - #6 const
+INFO  19:06:45,665 - #3 int
+INFO  19:06:45,666 - #3 nula
+INFO  19:06:45,666 - #47 =
+INFO  19:06:45,667 - #32 0
+INFO  19:06:45,667 - #25 ;
+INFO  19:06:45,668 - #6 const
+INFO  19:06:45,668 - #3 int
+INFO  19:06:45,668 - #3 jedan
+INFO  19:06:45,669 - #47 =
+INFO  19:06:45,669 - #32 1
+INFO  19:06:45,669 - #25 ;
+INFO  19:06:45,669 - #6 const
+INFO  19:06:45,669 - #3 int
+INFO  19:06:45,669 - #3 pet
+INFO  19:06:45,670 - #47 =
+INFO  19:06:45,670 - #32 5
+INFO  19:06:45,670 - #25 ;
+INFO  19:06:45,670 - #3 int
+INFO  19:06:45,670 - #3 niz
+INFO  19:06:45,675 - #11 [
+INFO  19:06:45,676 - #10 ]
+INFO  19:06:45,676 - #25 ;
+INFO  19:06:45,678 - #3 char
+INFO  19:06:45,678 - #3 nizch
+INFO  19:06:45,678 - #11 [
+INFO  19:06:45,678 - #10 ]
+INFO  19:06:45,678 - #25 ;
+INFO  19:06:45,679 - #4 {
+INFO  19:06:45,679 - #16 void
+INFO  19:06:45,679 - #3 main
+INFO  19:06:45,680 - #12 (
+INFO  19:06:45,681 - #9 )
+INFO  19:06:45,682 - #3 int
+INFO  19:06:45,683 - #3 bodovi
+INFO  19:06:45,683 - #25 ;
+INFO  19:06:45,684 - #3 bool
+INFO  19:06:45,684 - #3 bt
+INFO  19:06:45,684 - #25 ;
+INFO  19:06:45,684 - #4 {
+INFO  19:06:45,684 - #5 }
+INFO  19:06:45,685 - #5 }
+INFO  19:06:45,692 - Program(
+  ProgName(
+   test301
+  ) [ProgName]
+  DeclarationsList(
+    DeclarationsList(
+      DeclarationsList(
+        DeclarationsList(
+          DeclarationsList(
+            NoDecl(
+            ) [NoDecl]
+            ConstDeclaration(
+              ConstDeclDecl(
+                Type(
+                 int
+                ) [Type]
+               nula
+                NumConstDecl(
+                 0
+                ) [NumConstDecl]
+                NoConstDeclList(
+                ) [NoConstDeclList]
+              ) [ConstDeclDecl]
+            ) [ConstDeclaration]
+          ) [DeclarationsList]
+          ConstDeclaration(
+            ConstDeclDecl(
+              Type(
+               int
+              ) [Type]
+             jedan
+              NumConstDecl(
+               1
+              ) [NumConstDecl]
+              NoConstDeclList(
+              ) [NoConstDeclList]
+            ) [ConstDeclDecl]
+          ) [ConstDeclaration]
+        ) [DeclarationsList]
+        ConstDeclaration(
+          ConstDeclDecl(
+            Type(
+             int
+            ) [Type]
+           pet
+            NumConstDecl(
+             5
+            ) [NumConstDecl]
+            NoConstDeclList(
+            ) [NoConstDeclList]
+          ) [ConstDeclDecl]
+        ) [ConstDeclaration]
+      ) [DeclarationsList]
+      VarDeclaration(
+        VarDeclDecl(
+          Type(
+           int
+          ) [Type]
+          VarDeclName(
+           niz
+          ) [VarDeclName]
+          VarDeclBrackes(
+          ) [VarDeclBrackes]
+          NoVarDeclList(
+          ) [NoVarDeclList]
+        ) [VarDeclDecl]
+      ) [VarDeclaration]
+    ) [DeclarationsList]
+    VarDeclaration(
+      VarDeclDecl(
+        Type(
+         char
+        ) [Type]
+        VarDeclName(
+         nizch
+        ) [VarDeclName]
+        VarDeclBrackes(
+        ) [VarDeclBrackes]
+        NoVarDeclList(
+        ) [NoVarDeclList]
+      ) [VarDeclDecl]
+    ) [VarDeclaration]
+  ) [DeclarationsList]
+  MethodDeclarationsList(
+    NoMethodDeclarations(
+    ) [NoMethodDeclarations]
+    MethodDeclaration(
+      MethodDeclarationsVoid(
+      ) [MethodDeclarationsVoid]
+      MethodName(
+       main
+      ) [MethodName]
+      MethodAfterTypeWithoutFormPars(
+      ) [MethodAfterTypeWithoutFormPars]
+      VarDeclarations(
+        VarDeclarations(
+          NoVarDecl(
+          ) [NoVarDecl]
+          VarDeclDecl(
+            Type(
+             int
+            ) [Type]
+            VarDeclName(
+             bodovi
+            ) [VarDeclName]
+            VarDeclNoBrackes(
+            ) [VarDeclNoBrackes]
+            NoVarDeclList(
+            ) [NoVarDeclList]
+          ) [VarDeclDecl]
+        ) [VarDeclarations]
+        VarDeclDecl(
+          Type(
+           bool
+          ) [Type]
+          VarDeclName(
+           bt
+          ) [VarDeclName]
+          VarDeclNoBrackes(
+          ) [VarDeclNoBrackes]
+          NoVarDeclList(
+          ) [NoVarDeclList]
+        ) [VarDeclDecl]
+      ) [VarDeclarations]
+      NoStatementList(
+      ) [NoStatementList]
+    ) [MethodDeclaration]
+  ) [MethodDeclarationsList]
+) [Program]
+INFO  19:06:45,693 - ===================================

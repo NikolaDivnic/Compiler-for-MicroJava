@@ -1,0 +1,221 @@
+INFO  18:02:43,132 - Compiling source file: C:\pp\workspace\MJCompiler\test\program2.mj
+INFO  18:02:43,188 - #2 program
+INFO  18:02:43,188 - #3 MJProgram
+INFO  18:02:43,188 - #4 {
+INFO  18:02:43,189 - #16 void
+INFO  18:02:43,189 - #3 main
+INFO  18:02:43,191 - #12 (
+INFO  18:02:43,191 - #9 )
+INFO  18:02:43,192 - #3 int
+INFO  18:02:43,193 - #3 x
+INFO  18:02:43,194 - #25 ;
+INFO  18:02:43,194 - #4 {
+INFO  18:02:43,195 - #3 x
+INFO  18:02:43,195 - #47 =
+INFO  18:02:43,196 - #32 2
+INFO  18:02:43,197 - #27 -
+INFO  18:02:43,197 - #12 (
+INFO  18:02:43,198 - #32 4
+INFO  18:02:43,199 - #28 *
+INFO  18:02:43,199 - #32 3
+INFO  18:02:43,200 - #31 +
+INFO  18:02:43,200 - #32 5
+INFO  18:02:43,201 - #28 *
+INFO  18:02:43,201 - #32 2
+INFO  18:02:43,206 - #9 )
+INFO  18:02:43,206 - #28 *
+INFO  18:02:43,207 - #12 (
+INFO  18:02:43,207 - #32 1
+INFO  18:02:43,207 - #31 +
+INFO  18:02:43,207 - #32 2
+INFO  18:02:43,207 - #9 )
+INFO  18:02:43,207 - #31 +
+INFO  18:02:43,207 - #32 4
+INFO  18:02:43,207 - #27 -
+INFO  18:02:43,208 - #32 3
+INFO  18:02:43,208 - #28 *
+INFO  18:02:43,208 - #32 10
+INFO  18:02:43,208 - #25 ;
+INFO  18:02:43,208 - #14 print
+INFO  18:02:43,209 - #12 (
+INFO  18:02:43,209 - #3 x
+INFO  18:02:43,209 - #9 )
+INFO  18:02:43,210 - #25 ;
+INFO  18:02:43,210 - #5 }
+INFO  18:02:43,210 - #5 }
+INFO  18:02:43,217 - Program(
+  ProgName(
+   MJProgram
+  ) [ProgName]
+  NoDecl(
+  ) [NoDecl]
+  MethodDeclarationsList(
+    NoMethodDeclarations(
+    ) [NoMethodDeclarations]
+    MethodDeclaration(
+      MethodDeclarationsVoid(
+      ) [MethodDeclarationsVoid]
+      MethodName(
+       main
+      ) [MethodName]
+      MethodAfterTypeWithoutFormPars(
+      ) [MethodAfterTypeWithoutFormPars]
+      VarDeclarations(
+        NoVarDecl(
+        ) [NoVarDecl]
+        VarDeclDecl(
+          Type(
+           int
+          ) [Type]
+          VarNotHaveBracket(
+           x
+          ) [VarNotHaveBracket]
+          NoVarDeclList(
+          ) [NoVarDeclList]
+        ) [VarDeclDecl]
+      ) [VarDeclarations]
+      StatListDecl(
+        StatListDecl(
+          NoStatementList(
+          ) [NoStatementList]
+          SingleStatementNoLabel(
+            SingleStatementDesignator(
+              AssignopExpr(
+                CleanDesignator(
+                 x
+                ) [CleanDesignator]
+                AssignopDecl(
+                ) [AssignopDecl]
+                AddOperationTerm(
+                  TermList(
+                    TermList(
+                      TermList(
+                        OneTerm(
+                          TermStmtOnly(
+                            FactorNumConst(
+                             2
+                            ) [FactorNumConst]
+                          ) [TermStmtOnly]
+                        ) [OneTerm]
+                        AddopMinus(
+                        ) [AddopMinus]
+                        TermStmt(
+                          TermStmtOnly(
+                            FactorExpr(
+                              ParanthesesBegin(
+                              ) [ParanthesesBegin]
+                              AddOperationTerm(
+                                TermList(
+                                  OneTerm(
+                                    TermStmt(
+                                      TermStmtOnly(
+                                        FactorNumConst(
+                                         4
+                                        ) [FactorNumConst]
+                                      ) [TermStmtOnly]
+                                      MulopMultiply(
+                                      ) [MulopMultiply]
+                                      FactorNumConst(
+                                       3
+                                      ) [FactorNumConst]
+                                    ) [TermStmt]
+                                  ) [OneTerm]
+                                  AddopPlus(
+                                  ) [AddopPlus]
+                                  TermStmt(
+                                    TermStmtOnly(
+                                      FactorNumConst(
+                                       5
+                                      ) [FactorNumConst]
+                                    ) [TermStmtOnly]
+                                    MulopMultiply(
+                                    ) [MulopMultiply]
+                                    FactorNumConst(
+                                     2
+                                    ) [FactorNumConst]
+                                  ) [TermStmt]
+                                ) [TermList]
+                              ) [AddOperationTerm]
+                              ParanthesesEnd(
+                              ) [ParanthesesEnd]
+                            ) [FactorExpr]
+                          ) [TermStmtOnly]
+                          MulopMultiply(
+                          ) [MulopMultiply]
+                          FactorExpr(
+                            ParanthesesBegin(
+                            ) [ParanthesesBegin]
+                            AddOperationTerm(
+                              TermList(
+                                OneTerm(
+                                  TermStmtOnly(
+                                    FactorNumConst(
+                                     1
+                                    ) [FactorNumConst]
+                                  ) [TermStmtOnly]
+                                ) [OneTerm]
+                                AddopPlus(
+                                ) [AddopPlus]
+                                TermStmtOnly(
+                                  FactorNumConst(
+                                   2
+                                  ) [FactorNumConst]
+                                ) [TermStmtOnly]
+                              ) [TermList]
+                            ) [AddOperationTerm]
+                            ParanthesesEnd(
+                            ) [ParanthesesEnd]
+                          ) [FactorExpr]
+                        ) [TermStmt]
+                      ) [TermList]
+                      AddopPlus(
+                      ) [AddopPlus]
+                      TermStmtOnly(
+                        FactorNumConst(
+                         4
+                        ) [FactorNumConst]
+                      ) [TermStmtOnly]
+                    ) [TermList]
+                    AddopMinus(
+                    ) [AddopMinus]
+                    TermStmt(
+                      TermStmtOnly(
+                        FactorNumConst(
+                         3
+                        ) [FactorNumConst]
+                      ) [TermStmtOnly]
+                      MulopMultiply(
+                      ) [MulopMultiply]
+                      FactorNumConst(
+                       10
+                      ) [FactorNumConst]
+                    ) [TermStmt]
+                  ) [TermList]
+                ) [AddOperationTerm]
+              ) [AssignopExpr]
+            ) [SingleStatementDesignator]
+          ) [SingleStatementNoLabel]
+        ) [StatListDecl]
+        SingleStatementNoLabel(
+          PrintStatement(
+            AddOperationTerm(
+              OneTerm(
+                TermStmtOnly(
+                  FactorDesignatorNoParam(
+                    CleanDesignator(
+                     x
+                    ) [CleanDesignator]
+                  ) [FactorDesignatorNoParam]
+                ) [TermStmtOnly]
+              ) [OneTerm]
+            ) [AddOperationTerm]
+            NoExprForPrint(
+            ) [NoExprForPrint]
+          ) [PrintStatement]
+        ) [SingleStatementNoLabel]
+      ) [StatListDecl]
+    ) [MethodDeclaration]
+  ) [MethodDeclarationsList]
+) [Program]
+INFO  18:02:43,219 - ===================================
+INFO  18:02:43,224 - ===================================

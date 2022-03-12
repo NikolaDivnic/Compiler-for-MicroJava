@@ -1,0 +1,137 @@
+INFO  16:32:54,835 - Compiling source file: C:\pp\workspace\MJCompiler\test\program3.mj
+INFO  16:32:54,896 - #2 program
+INFO  16:32:54,896 - #3 MJProgram
+INFO  16:32:54,896 - #4 {
+INFO  16:32:54,897 - #16 void
+INFO  16:32:54,898 - #3 main
+INFO  16:32:54,899 - #12 (
+INFO  16:32:54,900 - #9 )
+INFO  16:32:54,901 - #3 int
+INFO  16:32:54,902 - #3 niz
+INFO  16:32:54,903 - #11 [
+INFO  16:32:54,904 - #10 ]
+INFO  16:32:54,904 - #25 ;
+INFO  16:32:54,905 - #4 {
+INFO  16:32:54,906 - #3 niz
+INFO  16:32:54,906 - #47 =
+INFO  16:32:54,907 - #15 new
+INFO  16:32:54,908 - #3 int
+INFO  16:32:54,908 - #11 [
+INFO  16:32:54,909 - #32 3
+INFO  16:32:54,909 - #10 ]
+INFO  16:32:54,909 - #25 ;
+INFO  16:32:54,910 - #3 niz
+INFO  16:32:54,910 - #11 [
+INFO  16:32:54,915 - #32 1
+INFO  16:32:54,915 - #10 ]
+INFO  16:32:54,915 - #47 =
+INFO  16:32:54,915 - #33 a
+INFO  16:32:54,915 - #25 ;
+INFO  16:32:54,916 - #5 }
+INFO  16:32:54,916 - #5 }
+INFO  16:32:54,923 - Program(
+  ProgName(
+   MJProgram
+  ) [ProgName]
+  NoDecl(
+  ) [NoDecl]
+  MethodDeclarationsList(
+    NoMethodDeclarations(
+    ) [NoMethodDeclarations]
+    MethodDeclaration(
+      MethodDeclarationsVoid(
+      ) [MethodDeclarationsVoid]
+      MethodName(
+       main
+      ) [MethodName]
+      MethodAfterTypeWithoutFormPars(
+      ) [MethodAfterTypeWithoutFormPars]
+      VarDeclarations(
+        NoVarDecl(
+        ) [NoVarDecl]
+        VarDeclDecl(
+          Type(
+           int
+          ) [Type]
+          VarHaveBracket(
+           niz
+          ) [VarHaveBracket]
+          NoVarDeclList(
+          ) [NoVarDeclList]
+        ) [VarDeclDecl]
+      ) [VarDeclarations]
+      StatListDecl(
+        StatListDecl(
+          NoStatementList(
+          ) [NoStatementList]
+          SingleStatementNoLabel(
+            SingleStatementDesignator(
+              AssignopExpr(
+                CleanDesignator(
+                 niz
+                ) [CleanDesignator]
+                AssignopDecl(
+                ) [AssignopDecl]
+                AddOperationTerm(
+                  OneTerm(
+                    TermStmtOnly(
+                      FactorNewExpr(
+                        Type(
+                         int
+                        ) [Type]
+                        AddOperationTerm(
+                          OneTerm(
+                            TermStmtOnly(
+                              FactorNumConst(
+                               3
+                              ) [FactorNumConst]
+                            ) [TermStmtOnly]
+                          ) [OneTerm]
+                        ) [AddOperationTerm]
+                      ) [FactorNewExpr]
+                    ) [TermStmtOnly]
+                  ) [OneTerm]
+                ) [AddOperationTerm]
+              ) [AssignopExpr]
+            ) [SingleStatementDesignator]
+          ) [SingleStatementNoLabel]
+        ) [StatListDecl]
+        SingleStatementNoLabel(
+          SingleStatementDesignator(
+            AssignopExpr(
+              ArrayElementAccessDesignator(
+                CleanDesignator(
+                 niz
+                ) [CleanDesignator]
+                AddOperationTerm(
+                  OneTerm(
+                    TermStmtOnly(
+                      FactorNumConst(
+                       1
+                      ) [FactorNumConst]
+                    ) [TermStmtOnly]
+                  ) [OneTerm]
+                ) [AddOperationTerm]
+              ) [ArrayElementAccessDesignator]
+              AssignopDecl(
+              ) [AssignopDecl]
+              AddOperationTerm(
+                OneTerm(
+                  TermStmtOnly(
+                    FactorCharConst(
+                     a
+                    ) [FactorCharConst]
+                  ) [TermStmtOnly]
+                ) [OneTerm]
+              ) [AddOperationTerm]
+            ) [AssignopExpr]
+          ) [SingleStatementDesignator]
+        ) [SingleStatementNoLabel]
+      ) [StatListDecl]
+    ) [MethodDeclaration]
+  ) [MethodDeclarationsList]
+) [Program]
+INFO  16:32:54,923 - ===================================
+INFO  16:32:54,927 - Nisu istog tipa  na liniji 6
+INFO  16:32:54,927 - ===================================
+INFO  16:32:54,931 - Parsiranje uspesno zavrseno!

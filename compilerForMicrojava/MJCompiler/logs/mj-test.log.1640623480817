@@ -1,0 +1,1705 @@
+INFO  17:37:59,818 - Compiling source file: C:\ppdomaci\workspace\MJCompiler\test\test301.mj
+INFO  17:37:59,886 - #2 program
+INFO  17:37:59,887 - #3 test301
+INFO  17:37:59,887 - #6 const
+INFO  17:37:59,889 - #3 int
+INFO  17:37:59,889 - #3 nula
+INFO  17:37:59,891 - #47 =
+INFO  17:37:59,891 - #32 0
+INFO  17:37:59,891 - #25 ;
+INFO  17:37:59,892 - #6 const
+INFO  17:37:59,893 - #3 int
+INFO  17:37:59,893 - #3 jedan
+INFO  17:37:59,893 - #47 =
+INFO  17:37:59,893 - #32 1
+INFO  17:37:59,893 - #25 ;
+INFO  17:37:59,893 - #6 const
+INFO  17:37:59,894 - #3 int
+INFO  17:37:59,894 - #3 pet
+INFO  17:37:59,894 - #47 =
+INFO  17:37:59,894 - #32 5
+INFO  17:37:59,894 - #25 ;
+INFO  17:37:59,894 - #3 int
+INFO  17:37:59,894 - #3 niz
+INFO  17:37:59,899 - #11 [
+INFO  17:37:59,900 - #10 ]
+INFO  17:37:59,901 - #25 ;
+INFO  17:37:59,903 - #3 char
+INFO  17:37:59,903 - #3 nizch
+INFO  17:37:59,903 - #11 [
+INFO  17:37:59,903 - #10 ]
+INFO  17:37:59,903 - #25 ;
+INFO  17:37:59,904 - #4 {
+INFO  17:37:59,904 - #16 void
+INFO  17:37:59,905 - #3 main
+INFO  17:37:59,905 - #12 (
+INFO  17:37:59,906 - #9 )
+INFO  17:37:59,907 - #3 int
+INFO  17:37:59,907 - #3 bodovi
+INFO  17:37:59,907 - #25 ;
+INFO  17:37:59,908 - #3 bool
+INFO  17:37:59,908 - #3 bt
+INFO  17:37:59,909 - #25 ;
+INFO  17:37:59,909 - #4 {
+INFO  17:37:59,909 - #3 bodovi
+INFO  17:37:59,910 - #47 =
+INFO  17:37:59,911 - #32 0
+INFO  17:37:59,912 - #25 ;
+INFO  17:37:59,914 - #3 bodovi
+INFO  17:37:59,914 - #46 ++
+INFO  17:37:59,914 - #25 ;
+INFO  17:37:59,914 - #3 bodovi
+INFO  17:37:59,915 - #47 =
+INFO  17:37:59,915 - #3 bodovi
+INFO  17:37:59,915 - #31 +
+INFO  17:37:59,915 - #3 jedan
+INFO  17:37:59,916 - #25 ;
+INFO  17:37:59,917 - #3 bodovi
+INFO  17:37:59,917 - #47 =
+INFO  17:37:59,917 - #3 bodovi
+INFO  17:37:59,917 - #28 *
+INFO  17:37:59,917 - #3 pet
+INFO  17:37:59,918 - #25 ;
+INFO  17:37:59,919 - #3 bodovi
+INFO  17:37:59,920 - #37 --
+INFO  17:37:59,920 - #25 ;
+INFO  17:37:59,920 - #3 niz
+INFO  17:37:59,920 - #11 [
+INFO  17:37:59,920 - #3 nula
+INFO  17:37:59,920 - #10 ]
+INFO  17:37:59,920 - #47 =
+INFO  17:37:59,921 - #3 jedan
+INFO  17:37:59,921 - #25 ;
+INFO  17:37:59,921 - #14 print
+INFO  17:37:59,921 - #12 (
+INFO  17:37:59,921 - #3 bodovi
+INFO  17:37:59,921 - #9 )
+INFO  17:37:59,922 - #25 ;
+INFO  17:37:59,923 - #3 niz
+INFO  17:37:59,923 - #47 =
+INFO  17:37:59,923 - #15 new
+INFO  17:37:59,923 - #3 int
+INFO  17:37:59,923 - #11 [
+INFO  17:37:59,923 - #32 3
+INFO  17:37:59,923 - #10 ]
+INFO  17:37:59,923 - #25 ;
+INFO  17:37:59,924 - #3 niz
+INFO  17:37:59,924 - #11 [
+INFO  17:37:59,924 - #32 1
+INFO  17:37:59,924 - #10 ]
+INFO  17:37:59,924 - #47 =
+INFO  17:37:59,924 - #32 2
+INFO  17:37:59,924 - #25 ;
+INFO  17:37:59,924 - #3 niz
+INFO  17:37:59,925 - #11 [
+INFO  17:37:59,925 - #3 niz
+INFO  17:37:59,925 - #11 [
+INFO  17:37:59,925 - #3 jedan
+INFO  17:37:59,925 - #10 ]
+INFO  17:37:59,925 - #10 ]
+INFO  17:37:59,925 - #47 =
+INFO  17:37:59,926 - #3 niz
+INFO  17:37:59,926 - #11 [
+INFO  17:37:59,926 - #3 niz
+INFO  17:37:59,926 - #11 [
+INFO  17:37:59,926 - #32 0
+INFO  17:37:59,926 - #10 ]
+INFO  17:37:59,926 - #10 ]
+INFO  17:37:59,926 - #28 *
+INFO  17:37:59,926 - #32 3
+INFO  17:37:59,927 - #25 ;
+INFO  17:37:59,927 - #3 bodovi
+INFO  17:37:59,927 - #47 =
+INFO  17:37:59,927 - #3 niz
+INFO  17:37:59,927 - #11 [
+INFO  17:37:59,927 - #32 2
+INFO  17:37:59,927 - #10 ]
+INFO  17:37:59,928 - #29 /
+INFO  17:37:59,928 - #3 niz
+INFO  17:37:59,929 - #11 [
+INFO  17:37:59,929 - #32 0
+INFO  17:37:59,929 - #10 ]
+INFO  17:37:59,929 - #25 ;
+INFO  17:37:59,929 - #14 print
+INFO  17:37:59,930 - #12 (
+INFO  17:37:59,930 - #3 bodovi
+INFO  17:37:59,930 - #9 )
+INFO  17:37:59,930 - #25 ;
+INFO  17:37:59,930 - #14 print
+INFO  17:37:59,930 - #12 (
+INFO  17:37:59,930 - #3 niz
+INFO  17:37:59,930 - #11 [
+INFO  17:37:59,930 - #32 2
+INFO  17:37:59,930 - #10 ]
+INFO  17:37:59,930 - #9 )
+INFO  17:37:59,930 - #25 ;
+INFO  17:37:59,931 - #3 nizch
+INFO  17:37:59,931 - #47 =
+INFO  17:37:59,931 - #15 new
+INFO  17:37:59,931 - #3 char
+INFO  17:37:59,931 - #11 [
+INFO  17:37:59,931 - #32 3
+INFO  17:37:59,931 - #10 ]
+INFO  17:37:59,931 - #25 ;
+INFO  17:37:59,931 - #3 nizch
+INFO  17:37:59,931 - #11 [
+INFO  17:37:59,931 - #32 0
+INFO  17:37:59,932 - #10 ]
+INFO  17:37:59,932 - #47 =
+INFO  17:37:59,932 - #33 a
+INFO  17:37:59,932 - #25 ;
+INFO  17:37:59,932 - #3 nizch
+INFO  17:37:59,932 - #11 [
+INFO  17:37:59,932 - #3 jedan
+INFO  17:37:59,933 - #10 ]
+INFO  17:37:59,933 - #47 =
+INFO  17:37:59,933 - #33 b
+INFO  17:37:59,933 - #25 ;
+INFO  17:37:59,933 - #3 nizch
+INFO  17:37:59,933 - #11 [
+INFO  17:37:59,933 - #3 pet
+INFO  17:37:59,933 - #27 -
+INFO  17:37:59,933 - #32 3
+INFO  17:37:59,934 - #10 ]
+INFO  17:37:59,934 - #47 =
+INFO  17:37:59,935 - #33 c
+INFO  17:37:59,935 - #25 ;
+INFO  17:37:59,935 - #14 print
+INFO  17:37:59,935 - #12 (
+INFO  17:37:59,935 - #3 nizch
+INFO  17:37:59,935 - #11 [
+INFO  17:37:59,935 - #32 1
+INFO  17:37:59,936 - #10 ]
+INFO  17:37:59,936 - #9 )
+INFO  17:37:59,936 - #25 ;
+INFO  17:37:59,936 - #14 print
+INFO  17:37:59,936 - #12 (
+INFO  17:37:59,936 - #3 nizch
+INFO  17:37:59,936 - #11 [
+INFO  17:37:59,936 - #3 jedan
+INFO  17:37:59,936 - #28 *
+INFO  17:37:59,937 - #32 2
+INFO  17:37:59,937 - #10 ]
+INFO  17:37:59,937 - #9 )
+INFO  17:37:59,937 - #25 ;
+INFO  17:37:59,937 - #3 bodovi
+INFO  17:37:59,937 - #47 =
+INFO  17:37:59,937 - #3 bodovi
+INFO  17:37:59,937 - #31 +
+INFO  17:37:59,937 - #12 (
+INFO  17:37:59,938 - #3 pet
+INFO  17:37:59,938 - #28 *
+INFO  17:37:59,938 - #3 jedan
+INFO  17:37:59,938 - #27 -
+INFO  17:37:59,938 - #32 1
+INFO  17:37:59,938 - #9 )
+INFO  17:37:59,938 - #28 *
+INFO  17:37:59,939 - #3 bodovi
+INFO  17:37:59,939 - #27 -
+INFO  17:37:59,939 - #12 (
+INFO  17:37:59,939 - #32 3
+INFO  17:37:59,939 - #30 %
+INFO  17:37:59,939 - #32 2
+INFO  17:37:59,940 - #31 +
+INFO  17:37:59,940 - #32 3
+INFO  17:37:59,940 - #28 *
+INFO  17:37:59,940 - #32 2
+INFO  17:37:59,941 - #27 -
+INFO  17:37:59,941 - #32 3
+INFO  17:37:59,941 - #9 )
+INFO  17:37:59,941 - #25 ;
+INFO  17:37:59,941 - #14 print
+INFO  17:37:59,941 - #12 (
+INFO  17:37:59,941 - #3 bodovi
+INFO  17:37:59,941 - #9 )
+INFO  17:37:59,941 - #25 ;
+INFO  17:37:59,942 - #13 read
+INFO  17:37:59,942 - #12 (
+INFO  17:37:59,942 - #3 bodovi
+INFO  17:37:59,942 - #9 )
+INFO  17:37:59,942 - #25 ;
+INFO  17:37:59,943 - #3 bt
+INFO  17:37:59,943 - #47 =
+INFO  17:37:59,943 - #34 1
+INFO  17:37:59,943 - #25 ;
+INFO  17:37:59,944 - #18 if
+INFO  17:37:59,944 - #12 (
+INFO  17:37:59,944 - #3 bt
+INFO  17:37:59,944 - #9 )
+INFO  17:37:59,946 - #4 {
+INFO  17:37:59,946 - #14 print
+INFO  17:37:59,946 - #12 (
+INFO  17:37:59,946 - #3 bodovi
+INFO  17:37:59,946 - #9 )
+INFO  17:37:59,946 - #25 ;
+INFO  17:37:59,946 - #5 }
+INFO  17:37:59,947 - #19 else
+INFO  17:37:59,947 - #4 {
+INFO  17:37:59,947 - #14 print
+INFO  17:37:59,947 - #12 (
+INFO  17:37:59,947 - #3 bodovi
+INFO  17:37:59,947 - #31 +
+INFO  17:37:59,947 - #32 10
+INFO  17:37:59,947 - #9 )
+INFO  17:37:59,947 - #25 ;
+INFO  17:37:59,947 - #5 }
+INFO  17:37:59,947 - #18 if
+INFO  17:37:59,948 - #12 (
+INFO  17:37:59,948 - #3 bodovi
+INFO  17:37:59,948 - #41 >
+INFO  17:37:59,948 - #32 10
+INFO  17:37:59,950 - #9 )
+INFO  17:37:59,950 - #4 {
+INFO  17:37:59,950 - #14 print
+INFO  17:37:59,951 - #12 (
+INFO  17:37:59,951 - #33 +
+INFO  17:37:59,951 - #9 )
+INFO  17:37:59,951 - #25 ;
+INFO  17:37:59,951 - #5 }
+INFO  17:37:59,951 - #19 else
+INFO  17:37:59,951 - #4 {
+INFO  17:37:59,951 - #14 print
+INFO  17:37:59,951 - #12 (
+INFO  17:37:59,951 - #33 -
+INFO  17:37:59,951 - #9 )
+INFO  17:37:59,951 - #25 ;
+INFO  17:37:59,951 - #5 }
+INFO  17:37:59,952 - #5 }
+INFO  17:37:59,952 - #5 }
+INFO  17:37:59,966 - Program(
+  ProgName(
+   test301
+  ) [ProgName]
+  DeclarationsList(
+    DeclarationsList(
+      DeclarationsList(
+        DeclarationsList(
+          DeclarationsList(
+            NoDecl(
+            ) [NoDecl]
+            ConstDeclaration(
+              ConstDeclDecl(
+                Type(
+                 int
+                ) [Type]
+               nula
+                NumConstDecl(
+                 0
+                ) [NumConstDecl]
+                NoConstDeclList(
+                ) [NoConstDeclList]
+              ) [ConstDeclDecl]
+            ) [ConstDeclaration]
+          ) [DeclarationsList]
+          ConstDeclaration(
+            ConstDeclDecl(
+              Type(
+               int
+              ) [Type]
+             jedan
+              NumConstDecl(
+               1
+              ) [NumConstDecl]
+              NoConstDeclList(
+              ) [NoConstDeclList]
+            ) [ConstDeclDecl]
+          ) [ConstDeclaration]
+        ) [DeclarationsList]
+        ConstDeclaration(
+          ConstDeclDecl(
+            Type(
+             int
+            ) [Type]
+           pet
+            NumConstDecl(
+             5
+            ) [NumConstDecl]
+            NoConstDeclList(
+            ) [NoConstDeclList]
+          ) [ConstDeclDecl]
+        ) [ConstDeclaration]
+      ) [DeclarationsList]
+      VarDeclaration(
+        VarDeclDecl(
+          Type(
+           int
+          ) [Type]
+          VarDeclName(
+           niz
+          ) [VarDeclName]
+          VarDeclBrackes(
+          ) [VarDeclBrackes]
+          NoVarDeclList(
+          ) [NoVarDeclList]
+        ) [VarDeclDecl]
+      ) [VarDeclaration]
+    ) [DeclarationsList]
+    VarDeclaration(
+      VarDeclDecl(
+        Type(
+         char
+        ) [Type]
+        VarDeclName(
+         nizch
+        ) [VarDeclName]
+        VarDeclBrackes(
+        ) [VarDeclBrackes]
+        NoVarDeclList(
+        ) [NoVarDeclList]
+      ) [VarDeclDecl]
+    ) [VarDeclaration]
+  ) [DeclarationsList]
+  MethodDeclarationsList(
+    NoMethodDeclarations(
+    ) [NoMethodDeclarations]
+    MethodDeclaration(
+      MethodDeclarationsVoid(
+      ) [MethodDeclarationsVoid]
+      MethodName(
+       main
+      ) [MethodName]
+      MethodAfterTypeWithoutFormPars(
+      ) [MethodAfterTypeWithoutFormPars]
+      VarDeclarations(
+        VarDeclarations(
+          NoVarDecl(
+          ) [NoVarDecl]
+          VarDeclDecl(
+            Type(
+             int
+            ) [Type]
+            VarDeclName(
+             bodovi
+            ) [VarDeclName]
+            VarDeclNoBrackes(
+            ) [VarDeclNoBrackes]
+            NoVarDeclList(
+            ) [NoVarDeclList]
+          ) [VarDeclDecl]
+        ) [VarDeclarations]
+        VarDeclDecl(
+          Type(
+           bool
+          ) [Type]
+          VarDeclName(
+           bt
+          ) [VarDeclName]
+          VarDeclNoBrackes(
+          ) [VarDeclNoBrackes]
+          NoVarDeclList(
+          ) [NoVarDeclList]
+        ) [VarDeclDecl]
+      ) [VarDeclarations]
+      StatListDecl(
+        StatListDecl(
+          StatListDecl(
+            StatListDecl(
+              StatListDecl(
+                StatListDecl(
+                  StatListDecl(
+                    StatListDecl(
+                      StatListDecl(
+                        StatListDecl(
+                          StatListDecl(
+                            StatListDecl(
+                              StatListDecl(
+                                StatListDecl(
+                                  StatListDecl(
+                                    StatListDecl(
+                                      StatListDecl(
+                                        StatListDecl(
+                                          StatListDecl(
+                                            StatListDecl(
+                                              StatListDecl(
+                                                StatListDecl(
+                                                  StatListDecl(
+                                                    StatListDecl(
+                                                      StatListDecl(
+                                                        NoStatementList(
+                                                        ) [NoStatementList]
+                                                        SingleStatementNoLabel(
+                                                          SingleStatementDesignator(
+                                                            AssignopExpr(
+                                                              DesignatorDecl(
+                                                                DesignatorName(
+                                                                 bodovi
+                                                                ) [DesignatorName]
+                                                                NoDesignatorList(
+                                                                ) [NoDesignatorList]
+                                                              ) [DesignatorDecl]
+                                                              AssignopDecl(
+                                                              ) [AssignopDecl]
+                                                              DontHaveMinusExpr(
+                                                                Term(
+                                                                  FactorNumConst(
+                                                                   0
+                                                                  ) [FactorNumConst]
+                                                                  NoTermAfterFactor(
+                                                                  ) [NoTermAfterFactor]
+                                                                ) [Term]
+                                                                NoExprAfterTerm(
+                                                                ) [NoExprAfterTerm]
+                                                              ) [DontHaveMinusExpr]
+                                                            ) [AssignopExpr]
+                                                          ) [SingleStatementDesignator]
+                                                        ) [SingleStatementNoLabel]
+                                                      ) [StatListDecl]
+                                                      SingleStatementNoLabel(
+                                                        SingleStatementDesignator(
+                                                          DesignatorStatIncrement(
+                                                            DesignatorDecl(
+                                                              DesignatorName(
+                                                               bodovi
+                                                              ) [DesignatorName]
+                                                              NoDesignatorList(
+                                                              ) [NoDesignatorList]
+                                                            ) [DesignatorDecl]
+                                                          ) [DesignatorStatIncrement]
+                                                        ) [SingleStatementDesignator]
+                                                      ) [SingleStatementNoLabel]
+                                                    ) [StatListDecl]
+                                                    SingleStatementNoLabel(
+                                                      SingleStatementDesignator(
+                                                        AssignopExpr(
+                                                          DesignatorDecl(
+                                                            DesignatorName(
+                                                             bodovi
+                                                            ) [DesignatorName]
+                                                            NoDesignatorList(
+                                                            ) [NoDesignatorList]
+                                                          ) [DesignatorDecl]
+                                                          AssignopDecl(
+                                                          ) [AssignopDecl]
+                                                          DontHaveMinusExpr(
+                                                            Term(
+                                                              FactorDesignatorNoParam(
+                                                                DesignatorDecl(
+                                                                  DesignatorName(
+                                                                   bodovi
+                                                                  ) [DesignatorName]
+                                                                  NoDesignatorList(
+                                                                  ) [NoDesignatorList]
+                                                                ) [DesignatorDecl]
+                                                              ) [FactorDesignatorNoParam]
+                                                              NoTermAfterFactor(
+                                                              ) [NoTermAfterFactor]
+                                                            ) [Term]
+                                                            ExprAfterTermList(
+                                                              NoExprAfterTerm(
+                                                              ) [NoExprAfterTerm]
+                                                              AddopPlus(
+                                                              ) [AddopPlus]
+                                                              Term(
+                                                                FactorDesignatorNoParam(
+                                                                  DesignatorDecl(
+                                                                    DesignatorName(
+                                                                     jedan
+                                                                    ) [DesignatorName]
+                                                                    NoDesignatorList(
+                                                                    ) [NoDesignatorList]
+                                                                  ) [DesignatorDecl]
+                                                                ) [FactorDesignatorNoParam]
+                                                                NoTermAfterFactor(
+                                                                ) [NoTermAfterFactor]
+                                                              ) [Term]
+                                                            ) [ExprAfterTermList]
+                                                          ) [DontHaveMinusExpr]
+                                                        ) [AssignopExpr]
+                                                      ) [SingleStatementDesignator]
+                                                    ) [SingleStatementNoLabel]
+                                                  ) [StatListDecl]
+                                                  SingleStatementNoLabel(
+                                                    SingleStatementDesignator(
+                                                      AssignopExpr(
+                                                        DesignatorDecl(
+                                                          DesignatorName(
+                                                           bodovi
+                                                          ) [DesignatorName]
+                                                          NoDesignatorList(
+                                                          ) [NoDesignatorList]
+                                                        ) [DesignatorDecl]
+                                                        AssignopDecl(
+                                                        ) [AssignopDecl]
+                                                        DontHaveMinusExpr(
+                                                          Term(
+                                                            FactorDesignatorNoParam(
+                                                              DesignatorDecl(
+                                                                DesignatorName(
+                                                                 bodovi
+                                                                ) [DesignatorName]
+                                                                NoDesignatorList(
+                                                                ) [NoDesignatorList]
+                                                              ) [DesignatorDecl]
+                                                            ) [FactorDesignatorNoParam]
+                                                            TermAfterFactorList(
+                                                              NoTermAfterFactor(
+                                                              ) [NoTermAfterFactor]
+                                                              TermAfterFactorSingle(
+                                                                MulopMultiply(
+                                                                ) [MulopMultiply]
+                                                                FactorDesignatorNoParam(
+                                                                  DesignatorDecl(
+                                                                    DesignatorName(
+                                                                     pet
+                                                                    ) [DesignatorName]
+                                                                    NoDesignatorList(
+                                                                    ) [NoDesignatorList]
+                                                                  ) [DesignatorDecl]
+                                                                ) [FactorDesignatorNoParam]
+                                                              ) [TermAfterFactorSingle]
+                                                            ) [TermAfterFactorList]
+                                                          ) [Term]
+                                                          NoExprAfterTerm(
+                                                          ) [NoExprAfterTerm]
+                                                        ) [DontHaveMinusExpr]
+                                                      ) [AssignopExpr]
+                                                    ) [SingleStatementDesignator]
+                                                  ) [SingleStatementNoLabel]
+                                                ) [StatListDecl]
+                                                SingleStatementNoLabel(
+                                                  SingleStatementDesignator(
+                                                    DesignatorStatDecrement(
+                                                      DesignatorDecl(
+                                                        DesignatorName(
+                                                         bodovi
+                                                        ) [DesignatorName]
+                                                        NoDesignatorList(
+                                                        ) [NoDesignatorList]
+                                                      ) [DesignatorDecl]
+                                                    ) [DesignatorStatDecrement]
+                                                  ) [SingleStatementDesignator]
+                                                ) [SingleStatementNoLabel]
+                                              ) [StatListDecl]
+                                              SingleStatementNoLabel(
+                                                SingleStatementDesignator(
+                                                  AssignopExpr(
+                                                    DesignatorDecl(
+                                                      DesignatorName(
+                                                       niz
+                                                      ) [DesignatorName]
+                                                      DesignatorListDecl(
+                                                        NoDesignatorList(
+                                                        ) [NoDesignatorList]
+                                                        DesignListElemSingleSecond(
+                                                          DontHaveMinusExpr(
+                                                            Term(
+                                                              FactorDesignatorNoParam(
+                                                                DesignatorDecl(
+                                                                  DesignatorName(
+                                                                   nula
+                                                                  ) [DesignatorName]
+                                                                  NoDesignatorList(
+                                                                  ) [NoDesignatorList]
+                                                                ) [DesignatorDecl]
+                                                              ) [FactorDesignatorNoParam]
+                                                              NoTermAfterFactor(
+                                                              ) [NoTermAfterFactor]
+                                                            ) [Term]
+                                                            NoExprAfterTerm(
+                                                            ) [NoExprAfterTerm]
+                                                          ) [DontHaveMinusExpr]
+                                                        ) [DesignListElemSingleSecond]
+                                                      ) [DesignatorListDecl]
+                                                    ) [DesignatorDecl]
+                                                    AssignopDecl(
+                                                    ) [AssignopDecl]
+                                                    DontHaveMinusExpr(
+                                                      Term(
+                                                        FactorDesignatorNoParam(
+                                                          DesignatorDecl(
+                                                            DesignatorName(
+                                                             jedan
+                                                            ) [DesignatorName]
+                                                            NoDesignatorList(
+                                                            ) [NoDesignatorList]
+                                                          ) [DesignatorDecl]
+                                                        ) [FactorDesignatorNoParam]
+                                                        NoTermAfterFactor(
+                                                        ) [NoTermAfterFactor]
+                                                      ) [Term]
+                                                      NoExprAfterTerm(
+                                                      ) [NoExprAfterTerm]
+                                                    ) [DontHaveMinusExpr]
+                                                  ) [AssignopExpr]
+                                                ) [SingleStatementDesignator]
+                                              ) [SingleStatementNoLabel]
+                                            ) [StatListDecl]
+                                            SingleStatementNoLabel(
+                                              PrintStatement(
+                                                DontHaveMinusExpr(
+                                                  Term(
+                                                    FactorDesignatorNoParam(
+                                                      DesignatorDecl(
+                                                        DesignatorName(
+                                                         bodovi
+                                                        ) [DesignatorName]
+                                                        NoDesignatorList(
+                                                        ) [NoDesignatorList]
+                                                      ) [DesignatorDecl]
+                                                    ) [FactorDesignatorNoParam]
+                                                    NoTermAfterFactor(
+                                                    ) [NoTermAfterFactor]
+                                                  ) [Term]
+                                                  NoExprAfterTerm(
+                                                  ) [NoExprAfterTerm]
+                                                ) [DontHaveMinusExpr]
+                                                NoExprForPrint(
+                                                ) [NoExprForPrint]
+                                              ) [PrintStatement]
+                                            ) [SingleStatementNoLabel]
+                                          ) [StatListDecl]
+                                          SingleStatementNoLabel(
+                                            SingleStatementDesignator(
+                                              AssignopExpr(
+                                                DesignatorDecl(
+                                                  DesignatorName(
+                                                   niz
+                                                  ) [DesignatorName]
+                                                  NoDesignatorList(
+                                                  ) [NoDesignatorList]
+                                                ) [DesignatorDecl]
+                                                AssignopDecl(
+                                                ) [AssignopDecl]
+                                                DontHaveMinusExpr(
+                                                  Term(
+                                                    FactorNewExpr(
+                                                      Type(
+                                                       int
+                                                      ) [Type]
+                                                      DontHaveMinusExpr(
+                                                        Term(
+                                                          FactorNumConst(
+                                                           3
+                                                          ) [FactorNumConst]
+                                                          NoTermAfterFactor(
+                                                          ) [NoTermAfterFactor]
+                                                        ) [Term]
+                                                        NoExprAfterTerm(
+                                                        ) [NoExprAfterTerm]
+                                                      ) [DontHaveMinusExpr]
+                                                    ) [FactorNewExpr]
+                                                    NoTermAfterFactor(
+                                                    ) [NoTermAfterFactor]
+                                                  ) [Term]
+                                                  NoExprAfterTerm(
+                                                  ) [NoExprAfterTerm]
+                                                ) [DontHaveMinusExpr]
+                                              ) [AssignopExpr]
+                                            ) [SingleStatementDesignator]
+                                          ) [SingleStatementNoLabel]
+                                        ) [StatListDecl]
+                                        SingleStatementNoLabel(
+                                          SingleStatementDesignator(
+                                            AssignopExpr(
+                                              DesignatorDecl(
+                                                DesignatorName(
+                                                 niz
+                                                ) [DesignatorName]
+                                                DesignatorListDecl(
+                                                  NoDesignatorList(
+                                                  ) [NoDesignatorList]
+                                                  DesignListElemSingleSecond(
+                                                    DontHaveMinusExpr(
+                                                      Term(
+                                                        FactorNumConst(
+                                                         1
+                                                        ) [FactorNumConst]
+                                                        NoTermAfterFactor(
+                                                        ) [NoTermAfterFactor]
+                                                      ) [Term]
+                                                      NoExprAfterTerm(
+                                                      ) [NoExprAfterTerm]
+                                                    ) [DontHaveMinusExpr]
+                                                  ) [DesignListElemSingleSecond]
+                                                ) [DesignatorListDecl]
+                                              ) [DesignatorDecl]
+                                              AssignopDecl(
+                                              ) [AssignopDecl]
+                                              DontHaveMinusExpr(
+                                                Term(
+                                                  FactorNumConst(
+                                                   2
+                                                  ) [FactorNumConst]
+                                                  NoTermAfterFactor(
+                                                  ) [NoTermAfterFactor]
+                                                ) [Term]
+                                                NoExprAfterTerm(
+                                                ) [NoExprAfterTerm]
+                                              ) [DontHaveMinusExpr]
+                                            ) [AssignopExpr]
+                                          ) [SingleStatementDesignator]
+                                        ) [SingleStatementNoLabel]
+                                      ) [StatListDecl]
+                                      SingleStatementNoLabel(
+                                        SingleStatementDesignator(
+                                          AssignopExpr(
+                                            DesignatorDecl(
+                                              DesignatorName(
+                                               niz
+                                              ) [DesignatorName]
+                                              DesignatorListDecl(
+                                                NoDesignatorList(
+                                                ) [NoDesignatorList]
+                                                DesignListElemSingleSecond(
+                                                  DontHaveMinusExpr(
+                                                    Term(
+                                                      FactorDesignatorNoParam(
+                                                        DesignatorDecl(
+                                                          DesignatorName(
+                                                           niz
+                                                          ) [DesignatorName]
+                                                          DesignatorListDecl(
+                                                            NoDesignatorList(
+                                                            ) [NoDesignatorList]
+                                                            DesignListElemSingleSecond(
+                                                              DontHaveMinusExpr(
+                                                                Term(
+                                                                  FactorDesignatorNoParam(
+                                                                    DesignatorDecl(
+                                                                      DesignatorName(
+                                                                       jedan
+                                                                      ) [DesignatorName]
+                                                                      NoDesignatorList(
+                                                                      ) [NoDesignatorList]
+                                                                    ) [DesignatorDecl]
+                                                                  ) [FactorDesignatorNoParam]
+                                                                  NoTermAfterFactor(
+                                                                  ) [NoTermAfterFactor]
+                                                                ) [Term]
+                                                                NoExprAfterTerm(
+                                                                ) [NoExprAfterTerm]
+                                                              ) [DontHaveMinusExpr]
+                                                            ) [DesignListElemSingleSecond]
+                                                          ) [DesignatorListDecl]
+                                                        ) [DesignatorDecl]
+                                                      ) [FactorDesignatorNoParam]
+                                                      NoTermAfterFactor(
+                                                      ) [NoTermAfterFactor]
+                                                    ) [Term]
+                                                    NoExprAfterTerm(
+                                                    ) [NoExprAfterTerm]
+                                                  ) [DontHaveMinusExpr]
+                                                ) [DesignListElemSingleSecond]
+                                              ) [DesignatorListDecl]
+                                            ) [DesignatorDecl]
+                                            AssignopDecl(
+                                            ) [AssignopDecl]
+                                            DontHaveMinusExpr(
+                                              Term(
+                                                FactorDesignatorNoParam(
+                                                  DesignatorDecl(
+                                                    DesignatorName(
+                                                     niz
+                                                    ) [DesignatorName]
+                                                    DesignatorListDecl(
+                                                      NoDesignatorList(
+                                                      ) [NoDesignatorList]
+                                                      DesignListElemSingleSecond(
+                                                        DontHaveMinusExpr(
+                                                          Term(
+                                                            FactorDesignatorNoParam(
+                                                              DesignatorDecl(
+                                                                DesignatorName(
+                                                                 niz
+                                                                ) [DesignatorName]
+                                                                DesignatorListDecl(
+                                                                  NoDesignatorList(
+                                                                  ) [NoDesignatorList]
+                                                                  DesignListElemSingleSecond(
+                                                                    DontHaveMinusExpr(
+                                                                      Term(
+                                                                        FactorNumConst(
+                                                                         0
+                                                                        ) [FactorNumConst]
+                                                                        NoTermAfterFactor(
+                                                                        ) [NoTermAfterFactor]
+                                                                      ) [Term]
+                                                                      NoExprAfterTerm(
+                                                                      ) [NoExprAfterTerm]
+                                                                    ) [DontHaveMinusExpr]
+                                                                  ) [DesignListElemSingleSecond]
+                                                                ) [DesignatorListDecl]
+                                                              ) [DesignatorDecl]
+                                                            ) [FactorDesignatorNoParam]
+                                                            NoTermAfterFactor(
+                                                            ) [NoTermAfterFactor]
+                                                          ) [Term]
+                                                          NoExprAfterTerm(
+                                                          ) [NoExprAfterTerm]
+                                                        ) [DontHaveMinusExpr]
+                                                      ) [DesignListElemSingleSecond]
+                                                    ) [DesignatorListDecl]
+                                                  ) [DesignatorDecl]
+                                                ) [FactorDesignatorNoParam]
+                                                TermAfterFactorList(
+                                                  NoTermAfterFactor(
+                                                  ) [NoTermAfterFactor]
+                                                  TermAfterFactorSingle(
+                                                    MulopMultiply(
+                                                    ) [MulopMultiply]
+                                                    FactorNumConst(
+                                                     3
+                                                    ) [FactorNumConst]
+                                                  ) [TermAfterFactorSingle]
+                                                ) [TermAfterFactorList]
+                                              ) [Term]
+                                              NoExprAfterTerm(
+                                              ) [NoExprAfterTerm]
+                                            ) [DontHaveMinusExpr]
+                                          ) [AssignopExpr]
+                                        ) [SingleStatementDesignator]
+                                      ) [SingleStatementNoLabel]
+                                    ) [StatListDecl]
+                                    SingleStatementNoLabel(
+                                      SingleStatementDesignator(
+                                        AssignopExpr(
+                                          DesignatorDecl(
+                                            DesignatorName(
+                                             bodovi
+                                            ) [DesignatorName]
+                                            NoDesignatorList(
+                                            ) [NoDesignatorList]
+                                          ) [DesignatorDecl]
+                                          AssignopDecl(
+                                          ) [AssignopDecl]
+                                          DontHaveMinusExpr(
+                                            Term(
+                                              FactorDesignatorNoParam(
+                                                DesignatorDecl(
+                                                  DesignatorName(
+                                                   niz
+                                                  ) [DesignatorName]
+                                                  DesignatorListDecl(
+                                                    NoDesignatorList(
+                                                    ) [NoDesignatorList]
+                                                    DesignListElemSingleSecond(
+                                                      DontHaveMinusExpr(
+                                                        Term(
+                                                          FactorNumConst(
+                                                           2
+                                                          ) [FactorNumConst]
+                                                          NoTermAfterFactor(
+                                                          ) [NoTermAfterFactor]
+                                                        ) [Term]
+                                                        NoExprAfterTerm(
+                                                        ) [NoExprAfterTerm]
+                                                      ) [DontHaveMinusExpr]
+                                                    ) [DesignListElemSingleSecond]
+                                                  ) [DesignatorListDecl]
+                                                ) [DesignatorDecl]
+                                              ) [FactorDesignatorNoParam]
+                                              TermAfterFactorList(
+                                                NoTermAfterFactor(
+                                                ) [NoTermAfterFactor]
+                                                TermAfterFactorSingle(
+                                                  MulopDevide(
+                                                  ) [MulopDevide]
+                                                  FactorDesignatorNoParam(
+                                                    DesignatorDecl(
+                                                      DesignatorName(
+                                                       niz
+                                                      ) [DesignatorName]
+                                                      DesignatorListDecl(
+                                                        NoDesignatorList(
+                                                        ) [NoDesignatorList]
+                                                        DesignListElemSingleSecond(
+                                                          DontHaveMinusExpr(
+                                                            Term(
+                                                              FactorNumConst(
+                                                               0
+                                                              ) [FactorNumConst]
+                                                              NoTermAfterFactor(
+                                                              ) [NoTermAfterFactor]
+                                                            ) [Term]
+                                                            NoExprAfterTerm(
+                                                            ) [NoExprAfterTerm]
+                                                          ) [DontHaveMinusExpr]
+                                                        ) [DesignListElemSingleSecond]
+                                                      ) [DesignatorListDecl]
+                                                    ) [DesignatorDecl]
+                                                  ) [FactorDesignatorNoParam]
+                                                ) [TermAfterFactorSingle]
+                                              ) [TermAfterFactorList]
+                                            ) [Term]
+                                            NoExprAfterTerm(
+                                            ) [NoExprAfterTerm]
+                                          ) [DontHaveMinusExpr]
+                                        ) [AssignopExpr]
+                                      ) [SingleStatementDesignator]
+                                    ) [SingleStatementNoLabel]
+                                  ) [StatListDecl]
+                                  SingleStatementNoLabel(
+                                    PrintStatement(
+                                      DontHaveMinusExpr(
+                                        Term(
+                                          FactorDesignatorNoParam(
+                                            DesignatorDecl(
+                                              DesignatorName(
+                                               bodovi
+                                              ) [DesignatorName]
+                                              NoDesignatorList(
+                                              ) [NoDesignatorList]
+                                            ) [DesignatorDecl]
+                                          ) [FactorDesignatorNoParam]
+                                          NoTermAfterFactor(
+                                          ) [NoTermAfterFactor]
+                                        ) [Term]
+                                        NoExprAfterTerm(
+                                        ) [NoExprAfterTerm]
+                                      ) [DontHaveMinusExpr]
+                                      NoExprForPrint(
+                                      ) [NoExprForPrint]
+                                    ) [PrintStatement]
+                                  ) [SingleStatementNoLabel]
+                                ) [StatListDecl]
+                                SingleStatementNoLabel(
+                                  PrintStatement(
+                                    DontHaveMinusExpr(
+                                      Term(
+                                        FactorDesignatorNoParam(
+                                          DesignatorDecl(
+                                            DesignatorName(
+                                             niz
+                                            ) [DesignatorName]
+                                            DesignatorListDecl(
+                                              NoDesignatorList(
+                                              ) [NoDesignatorList]
+                                              DesignListElemSingleSecond(
+                                                DontHaveMinusExpr(
+                                                  Term(
+                                                    FactorNumConst(
+                                                     2
+                                                    ) [FactorNumConst]
+                                                    NoTermAfterFactor(
+                                                    ) [NoTermAfterFactor]
+                                                  ) [Term]
+                                                  NoExprAfterTerm(
+                                                  ) [NoExprAfterTerm]
+                                                ) [DontHaveMinusExpr]
+                                              ) [DesignListElemSingleSecond]
+                                            ) [DesignatorListDecl]
+                                          ) [DesignatorDecl]
+                                        ) [FactorDesignatorNoParam]
+                                        NoTermAfterFactor(
+                                        ) [NoTermAfterFactor]
+                                      ) [Term]
+                                      NoExprAfterTerm(
+                                      ) [NoExprAfterTerm]
+                                    ) [DontHaveMinusExpr]
+                                    NoExprForPrint(
+                                    ) [NoExprForPrint]
+                                  ) [PrintStatement]
+                                ) [SingleStatementNoLabel]
+                              ) [StatListDecl]
+                              SingleStatementNoLabel(
+                                SingleStatementDesignator(
+                                  AssignopExpr(
+                                    DesignatorDecl(
+                                      DesignatorName(
+                                       nizch
+                                      ) [DesignatorName]
+                                      NoDesignatorList(
+                                      ) [NoDesignatorList]
+                                    ) [DesignatorDecl]
+                                    AssignopDecl(
+                                    ) [AssignopDecl]
+                                    DontHaveMinusExpr(
+                                      Term(
+                                        FactorNewExpr(
+                                          Type(
+                                           char
+                                          ) [Type]
+                                          DontHaveMinusExpr(
+                                            Term(
+                                              FactorNumConst(
+                                               3
+                                              ) [FactorNumConst]
+                                              NoTermAfterFactor(
+                                              ) [NoTermAfterFactor]
+                                            ) [Term]
+                                            NoExprAfterTerm(
+                                            ) [NoExprAfterTerm]
+                                          ) [DontHaveMinusExpr]
+                                        ) [FactorNewExpr]
+                                        NoTermAfterFactor(
+                                        ) [NoTermAfterFactor]
+                                      ) [Term]
+                                      NoExprAfterTerm(
+                                      ) [NoExprAfterTerm]
+                                    ) [DontHaveMinusExpr]
+                                  ) [AssignopExpr]
+                                ) [SingleStatementDesignator]
+                              ) [SingleStatementNoLabel]
+                            ) [StatListDecl]
+                            SingleStatementNoLabel(
+                              SingleStatementDesignator(
+                                AssignopExpr(
+                                  DesignatorDecl(
+                                    DesignatorName(
+                                     nizch
+                                    ) [DesignatorName]
+                                    DesignatorListDecl(
+                                      NoDesignatorList(
+                                      ) [NoDesignatorList]
+                                      DesignListElemSingleSecond(
+                                        DontHaveMinusExpr(
+                                          Term(
+                                            FactorNumConst(
+                                             0
+                                            ) [FactorNumConst]
+                                            NoTermAfterFactor(
+                                            ) [NoTermAfterFactor]
+                                          ) [Term]
+                                          NoExprAfterTerm(
+                                          ) [NoExprAfterTerm]
+                                        ) [DontHaveMinusExpr]
+                                      ) [DesignListElemSingleSecond]
+                                    ) [DesignatorListDecl]
+                                  ) [DesignatorDecl]
+                                  AssignopDecl(
+                                  ) [AssignopDecl]
+                                  DontHaveMinusExpr(
+                                    Term(
+                                      FactorCharConst(
+                                       a
+                                      ) [FactorCharConst]
+                                      NoTermAfterFactor(
+                                      ) [NoTermAfterFactor]
+                                    ) [Term]
+                                    NoExprAfterTerm(
+                                    ) [NoExprAfterTerm]
+                                  ) [DontHaveMinusExpr]
+                                ) [AssignopExpr]
+                              ) [SingleStatementDesignator]
+                            ) [SingleStatementNoLabel]
+                          ) [StatListDecl]
+                          SingleStatementNoLabel(
+                            SingleStatementDesignator(
+                              AssignopExpr(
+                                DesignatorDecl(
+                                  DesignatorName(
+                                   nizch
+                                  ) [DesignatorName]
+                                  DesignatorListDecl(
+                                    NoDesignatorList(
+                                    ) [NoDesignatorList]
+                                    DesignListElemSingleSecond(
+                                      DontHaveMinusExpr(
+                                        Term(
+                                          FactorDesignatorNoParam(
+                                            DesignatorDecl(
+                                              DesignatorName(
+                                               jedan
+                                              ) [DesignatorName]
+                                              NoDesignatorList(
+                                              ) [NoDesignatorList]
+                                            ) [DesignatorDecl]
+                                          ) [FactorDesignatorNoParam]
+                                          NoTermAfterFactor(
+                                          ) [NoTermAfterFactor]
+                                        ) [Term]
+                                        NoExprAfterTerm(
+                                        ) [NoExprAfterTerm]
+                                      ) [DontHaveMinusExpr]
+                                    ) [DesignListElemSingleSecond]
+                                  ) [DesignatorListDecl]
+                                ) [DesignatorDecl]
+                                AssignopDecl(
+                                ) [AssignopDecl]
+                                DontHaveMinusExpr(
+                                  Term(
+                                    FactorCharConst(
+                                     b
+                                    ) [FactorCharConst]
+                                    NoTermAfterFactor(
+                                    ) [NoTermAfterFactor]
+                                  ) [Term]
+                                  NoExprAfterTerm(
+                                  ) [NoExprAfterTerm]
+                                ) [DontHaveMinusExpr]
+                              ) [AssignopExpr]
+                            ) [SingleStatementDesignator]
+                          ) [SingleStatementNoLabel]
+                        ) [StatListDecl]
+                        SingleStatementNoLabel(
+                          SingleStatementDesignator(
+                            AssignopExpr(
+                              DesignatorDecl(
+                                DesignatorName(
+                                 nizch
+                                ) [DesignatorName]
+                                DesignatorListDecl(
+                                  NoDesignatorList(
+                                  ) [NoDesignatorList]
+                                  DesignListElemSingleSecond(
+                                    DontHaveMinusExpr(
+                                      Term(
+                                        FactorDesignatorNoParam(
+                                          DesignatorDecl(
+                                            DesignatorName(
+                                             pet
+                                            ) [DesignatorName]
+                                            NoDesignatorList(
+                                            ) [NoDesignatorList]
+                                          ) [DesignatorDecl]
+                                        ) [FactorDesignatorNoParam]
+                                        NoTermAfterFactor(
+                                        ) [NoTermAfterFactor]
+                                      ) [Term]
+                                      ExprAfterTermList(
+                                        NoExprAfterTerm(
+                                        ) [NoExprAfterTerm]
+                                        AddopMinus(
+                                        ) [AddopMinus]
+                                        Term(
+                                          FactorNumConst(
+                                           3
+                                          ) [FactorNumConst]
+                                          NoTermAfterFactor(
+                                          ) [NoTermAfterFactor]
+                                        ) [Term]
+                                      ) [ExprAfterTermList]
+                                    ) [DontHaveMinusExpr]
+                                  ) [DesignListElemSingleSecond]
+                                ) [DesignatorListDecl]
+                              ) [DesignatorDecl]
+                              AssignopDecl(
+                              ) [AssignopDecl]
+                              DontHaveMinusExpr(
+                                Term(
+                                  FactorCharConst(
+                                   c
+                                  ) [FactorCharConst]
+                                  NoTermAfterFactor(
+                                  ) [NoTermAfterFactor]
+                                ) [Term]
+                                NoExprAfterTerm(
+                                ) [NoExprAfterTerm]
+                              ) [DontHaveMinusExpr]
+                            ) [AssignopExpr]
+                          ) [SingleStatementDesignator]
+                        ) [SingleStatementNoLabel]
+                      ) [StatListDecl]
+                      SingleStatementNoLabel(
+                        PrintStatement(
+                          DontHaveMinusExpr(
+                            Term(
+                              FactorDesignatorNoParam(
+                                DesignatorDecl(
+                                  DesignatorName(
+                                   nizch
+                                  ) [DesignatorName]
+                                  DesignatorListDecl(
+                                    NoDesignatorList(
+                                    ) [NoDesignatorList]
+                                    DesignListElemSingleSecond(
+                                      DontHaveMinusExpr(
+                                        Term(
+                                          FactorNumConst(
+                                           1
+                                          ) [FactorNumConst]
+                                          NoTermAfterFactor(
+                                          ) [NoTermAfterFactor]
+                                        ) [Term]
+                                        NoExprAfterTerm(
+                                        ) [NoExprAfterTerm]
+                                      ) [DontHaveMinusExpr]
+                                    ) [DesignListElemSingleSecond]
+                                  ) [DesignatorListDecl]
+                                ) [DesignatorDecl]
+                              ) [FactorDesignatorNoParam]
+                              NoTermAfterFactor(
+                              ) [NoTermAfterFactor]
+                            ) [Term]
+                            NoExprAfterTerm(
+                            ) [NoExprAfterTerm]
+                          ) [DontHaveMinusExpr]
+                          NoExprForPrint(
+                          ) [NoExprForPrint]
+                        ) [PrintStatement]
+                      ) [SingleStatementNoLabel]
+                    ) [StatListDecl]
+                    SingleStatementNoLabel(
+                      PrintStatement(
+                        DontHaveMinusExpr(
+                          Term(
+                            FactorDesignatorNoParam(
+                              DesignatorDecl(
+                                DesignatorName(
+                                 nizch
+                                ) [DesignatorName]
+                                DesignatorListDecl(
+                                  NoDesignatorList(
+                                  ) [NoDesignatorList]
+                                  DesignListElemSingleSecond(
+                                    DontHaveMinusExpr(
+                                      Term(
+                                        FactorDesignatorNoParam(
+                                          DesignatorDecl(
+                                            DesignatorName(
+                                             jedan
+                                            ) [DesignatorName]
+                                            NoDesignatorList(
+                                            ) [NoDesignatorList]
+                                          ) [DesignatorDecl]
+                                        ) [FactorDesignatorNoParam]
+                                        TermAfterFactorList(
+                                          NoTermAfterFactor(
+                                          ) [NoTermAfterFactor]
+                                          TermAfterFactorSingle(
+                                            MulopMultiply(
+                                            ) [MulopMultiply]
+                                            FactorNumConst(
+                                             2
+                                            ) [FactorNumConst]
+                                          ) [TermAfterFactorSingle]
+                                        ) [TermAfterFactorList]
+                                      ) [Term]
+                                      NoExprAfterTerm(
+                                      ) [NoExprAfterTerm]
+                                    ) [DontHaveMinusExpr]
+                                  ) [DesignListElemSingleSecond]
+                                ) [DesignatorListDecl]
+                              ) [DesignatorDecl]
+                            ) [FactorDesignatorNoParam]
+                            NoTermAfterFactor(
+                            ) [NoTermAfterFactor]
+                          ) [Term]
+                          NoExprAfterTerm(
+                          ) [NoExprAfterTerm]
+                        ) [DontHaveMinusExpr]
+                        NoExprForPrint(
+                        ) [NoExprForPrint]
+                      ) [PrintStatement]
+                    ) [SingleStatementNoLabel]
+                  ) [StatListDecl]
+                  SingleStatementNoLabel(
+                    SingleStatementDesignator(
+                      AssignopExpr(
+                        DesignatorDecl(
+                          DesignatorName(
+                           bodovi
+                          ) [DesignatorName]
+                          NoDesignatorList(
+                          ) [NoDesignatorList]
+                        ) [DesignatorDecl]
+                        AssignopDecl(
+                        ) [AssignopDecl]
+                        DontHaveMinusExpr(
+                          Term(
+                            FactorDesignatorNoParam(
+                              DesignatorDecl(
+                                DesignatorName(
+                                 bodovi
+                                ) [DesignatorName]
+                                NoDesignatorList(
+                                ) [NoDesignatorList]
+                              ) [DesignatorDecl]
+                            ) [FactorDesignatorNoParam]
+                            NoTermAfterFactor(
+                            ) [NoTermAfterFactor]
+                          ) [Term]
+                          ExprAfterTermList(
+                            ExprAfterTermList(
+                              NoExprAfterTerm(
+                              ) [NoExprAfterTerm]
+                              AddopPlus(
+                              ) [AddopPlus]
+                              Term(
+                                FactorExpr(
+                                  DontHaveMinusExpr(
+                                    Term(
+                                      FactorDesignatorNoParam(
+                                        DesignatorDecl(
+                                          DesignatorName(
+                                           pet
+                                          ) [DesignatorName]
+                                          NoDesignatorList(
+                                          ) [NoDesignatorList]
+                                        ) [DesignatorDecl]
+                                      ) [FactorDesignatorNoParam]
+                                      TermAfterFactorList(
+                                        NoTermAfterFactor(
+                                        ) [NoTermAfterFactor]
+                                        TermAfterFactorSingle(
+                                          MulopMultiply(
+                                          ) [MulopMultiply]
+                                          FactorDesignatorNoParam(
+                                            DesignatorDecl(
+                                              DesignatorName(
+                                               jedan
+                                              ) [DesignatorName]
+                                              NoDesignatorList(
+                                              ) [NoDesignatorList]
+                                            ) [DesignatorDecl]
+                                          ) [FactorDesignatorNoParam]
+                                        ) [TermAfterFactorSingle]
+                                      ) [TermAfterFactorList]
+                                    ) [Term]
+                                    ExprAfterTermList(
+                                      NoExprAfterTerm(
+                                      ) [NoExprAfterTerm]
+                                      AddopMinus(
+                                      ) [AddopMinus]
+                                      Term(
+                                        FactorNumConst(
+                                         1
+                                        ) [FactorNumConst]
+                                        NoTermAfterFactor(
+                                        ) [NoTermAfterFactor]
+                                      ) [Term]
+                                    ) [ExprAfterTermList]
+                                  ) [DontHaveMinusExpr]
+                                ) [FactorExpr]
+                                TermAfterFactorList(
+                                  NoTermAfterFactor(
+                                  ) [NoTermAfterFactor]
+                                  TermAfterFactorSingle(
+                                    MulopMultiply(
+                                    ) [MulopMultiply]
+                                    FactorDesignatorNoParam(
+                                      DesignatorDecl(
+                                        DesignatorName(
+                                         bodovi
+                                        ) [DesignatorName]
+                                        NoDesignatorList(
+                                        ) [NoDesignatorList]
+                                      ) [DesignatorDecl]
+                                    ) [FactorDesignatorNoParam]
+                                  ) [TermAfterFactorSingle]
+                                ) [TermAfterFactorList]
+                              ) [Term]
+                            ) [ExprAfterTermList]
+                            AddopMinus(
+                            ) [AddopMinus]
+                            Term(
+                              FactorExpr(
+                                DontHaveMinusExpr(
+                                  Term(
+                                    FactorNumConst(
+                                     3
+                                    ) [FactorNumConst]
+                                    TermAfterFactorList(
+                                      NoTermAfterFactor(
+                                      ) [NoTermAfterFactor]
+                                      TermAfterFactorSingle(
+                                        MulopModulo(
+                                        ) [MulopModulo]
+                                        FactorNumConst(
+                                         2
+                                        ) [FactorNumConst]
+                                      ) [TermAfterFactorSingle]
+                                    ) [TermAfterFactorList]
+                                  ) [Term]
+                                  ExprAfterTermList(
+                                    ExprAfterTermList(
+                                      NoExprAfterTerm(
+                                      ) [NoExprAfterTerm]
+                                      AddopPlus(
+                                      ) [AddopPlus]
+                                      Term(
+                                        FactorNumConst(
+                                         3
+                                        ) [FactorNumConst]
+                                        TermAfterFactorList(
+                                          NoTermAfterFactor(
+                                          ) [NoTermAfterFactor]
+                                          TermAfterFactorSingle(
+                                            MulopMultiply(
+                                            ) [MulopMultiply]
+                                            FactorNumConst(
+                                             2
+                                            ) [FactorNumConst]
+                                          ) [TermAfterFactorSingle]
+                                        ) [TermAfterFactorList]
+                                      ) [Term]
+                                    ) [ExprAfterTermList]
+                                    AddopMinus(
+                                    ) [AddopMinus]
+                                    Term(
+                                      FactorNumConst(
+                                       3
+                                      ) [FactorNumConst]
+                                      NoTermAfterFactor(
+                                      ) [NoTermAfterFactor]
+                                    ) [Term]
+                                  ) [ExprAfterTermList]
+                                ) [DontHaveMinusExpr]
+                              ) [FactorExpr]
+                              NoTermAfterFactor(
+                              ) [NoTermAfterFactor]
+                            ) [Term]
+                          ) [ExprAfterTermList]
+                        ) [DontHaveMinusExpr]
+                      ) [AssignopExpr]
+                    ) [SingleStatementDesignator]
+                  ) [SingleStatementNoLabel]
+                ) [StatListDecl]
+                SingleStatementNoLabel(
+                  PrintStatement(
+                    DontHaveMinusExpr(
+                      Term(
+                        FactorDesignatorNoParam(
+                          DesignatorDecl(
+                            DesignatorName(
+                             bodovi
+                            ) [DesignatorName]
+                            NoDesignatorList(
+                            ) [NoDesignatorList]
+                          ) [DesignatorDecl]
+                        ) [FactorDesignatorNoParam]
+                        NoTermAfterFactor(
+                        ) [NoTermAfterFactor]
+                      ) [Term]
+                      NoExprAfterTerm(
+                      ) [NoExprAfterTerm]
+                    ) [DontHaveMinusExpr]
+                    NoExprForPrint(
+                    ) [NoExprForPrint]
+                  ) [PrintStatement]
+                ) [SingleStatementNoLabel]
+              ) [StatListDecl]
+              SingleStatementNoLabel(
+                ReadStatement(
+                  DesignatorDecl(
+                    DesignatorName(
+                     bodovi
+                    ) [DesignatorName]
+                    NoDesignatorList(
+                    ) [NoDesignatorList]
+                  ) [DesignatorDecl]
+                ) [ReadStatement]
+              ) [SingleStatementNoLabel]
+            ) [StatListDecl]
+            SingleStatementNoLabel(
+              SingleStatementDesignator(
+                AssignopExpr(
+                  DesignatorDecl(
+                    DesignatorName(
+                     bt
+                    ) [DesignatorName]
+                    NoDesignatorList(
+                    ) [NoDesignatorList]
+                  ) [DesignatorDecl]
+                  AssignopDecl(
+                  ) [AssignopDecl]
+                  DontHaveMinusExpr(
+                    Term(
+                      FactorBoolConst(
+                       1
+                      ) [FactorBoolConst]
+                      NoTermAfterFactor(
+                      ) [NoTermAfterFactor]
+                    ) [Term]
+                    NoExprAfterTerm(
+                    ) [NoExprAfterTerm]
+                  ) [DontHaveMinusExpr]
+                ) [AssignopExpr]
+              ) [SingleStatementDesignator]
+            ) [SingleStatementNoLabel]
+          ) [StatListDecl]
+          SingleStatementNoLabel(
+            IfThenElseStatement(
+              ConditionDecl(
+                CondTermDecl(
+                  CondFactWithoutRelop(
+                    DontHaveMinusExpr(
+                      Term(
+                        FactorDesignatorNoParam(
+                          DesignatorDecl(
+                            DesignatorName(
+                             bt
+                            ) [DesignatorName]
+                            NoDesignatorList(
+                            ) [NoDesignatorList]
+                          ) [DesignatorDecl]
+                        ) [FactorDesignatorNoParam]
+                        NoTermAfterFactor(
+                        ) [NoTermAfterFactor]
+                      ) [Term]
+                      NoExprAfterTerm(
+                      ) [NoExprAfterTerm]
+                    ) [DontHaveMinusExpr]
+                  ) [CondFactWithoutRelop]
+                  NoCondTermAfter(
+                  ) [NoCondTermAfter]
+                ) [CondTermDecl]
+                NoConditionAfter(
+                ) [NoConditionAfter]
+              ) [ConditionDecl]
+              StatementLis(
+                StatementListDeclaration(
+                  StatListDecl(
+                    NoStatementList(
+                    ) [NoStatementList]
+                    SingleStatementNoLabel(
+                      PrintStatement(
+                        DontHaveMinusExpr(
+                          Term(
+                            FactorDesignatorNoParam(
+                              DesignatorDecl(
+                                DesignatorName(
+                                 bodovi
+                                ) [DesignatorName]
+                                NoDesignatorList(
+                                ) [NoDesignatorList]
+                              ) [DesignatorDecl]
+                            ) [FactorDesignatorNoParam]
+                            NoTermAfterFactor(
+                            ) [NoTermAfterFactor]
+                          ) [Term]
+                          NoExprAfterTerm(
+                          ) [NoExprAfterTerm]
+                        ) [DontHaveMinusExpr]
+                        NoExprForPrint(
+                        ) [NoExprForPrint]
+                      ) [PrintStatement]
+                    ) [SingleStatementNoLabel]
+                  ) [StatListDecl]
+                ) [StatementListDeclaration]
+              ) [StatementLis]
+              StatementLis(
+                StatementListDeclaration(
+                  StatListDecl(
+                    NoStatementList(
+                    ) [NoStatementList]
+                    SingleStatementNoLabel(
+                      PrintStatement(
+                        DontHaveMinusExpr(
+                          Term(
+                            FactorDesignatorNoParam(
+                              DesignatorDecl(
+                                DesignatorName(
+                                 bodovi
+                                ) [DesignatorName]
+                                NoDesignatorList(
+                                ) [NoDesignatorList]
+                              ) [DesignatorDecl]
+                            ) [FactorDesignatorNoParam]
+                            NoTermAfterFactor(
+                            ) [NoTermAfterFactor]
+                          ) [Term]
+                          ExprAfterTermList(
+                            NoExprAfterTerm(
+                            ) [NoExprAfterTerm]
+                            AddopPlus(
+                            ) [AddopPlus]
+                            Term(
+                              FactorNumConst(
+                               10
+                              ) [FactorNumConst]
+                              NoTermAfterFactor(
+                              ) [NoTermAfterFactor]
+                            ) [Term]
+                          ) [ExprAfterTermList]
+                        ) [DontHaveMinusExpr]
+                        NoExprForPrint(
+                        ) [NoExprForPrint]
+                      ) [PrintStatement]
+                    ) [SingleStatementNoLabel]
+                  ) [StatListDecl]
+                ) [StatementListDeclaration]
+              ) [StatementLis]
+            ) [IfThenElseStatement]
+          ) [SingleStatementNoLabel]
+        ) [StatListDecl]
+        SingleStatementNoLabel(
+          IfThenElseStatement(
+            ConditionDecl(
+              CondTermDecl(
+                CondFactWithRelop(
+                  DontHaveMinusExpr(
+                    Term(
+                      FactorDesignatorNoParam(
+                        DesignatorDecl(
+                          DesignatorName(
+                           bodovi
+                          ) [DesignatorName]
+                          NoDesignatorList(
+                          ) [NoDesignatorList]
+                        ) [DesignatorDecl]
+                      ) [FactorDesignatorNoParam]
+                      NoTermAfterFactor(
+                      ) [NoTermAfterFactor]
+                    ) [Term]
+                    NoExprAfterTerm(
+                    ) [NoExprAfterTerm]
+                  ) [DontHaveMinusExpr]
+                  RelopLargerThan(
+                  ) [RelopLargerThan]
+                  DontHaveMinusExpr(
+                    Term(
+                      FactorNumConst(
+                       10
+                      ) [FactorNumConst]
+                      NoTermAfterFactor(
+                      ) [NoTermAfterFactor]
+                    ) [Term]
+                    NoExprAfterTerm(
+                    ) [NoExprAfterTerm]
+                  ) [DontHaveMinusExpr]
+                ) [CondFactWithRelop]
+                NoCondTermAfter(
+                ) [NoCondTermAfter]
+              ) [CondTermDecl]
+              NoConditionAfter(
+              ) [NoConditionAfter]
+            ) [ConditionDecl]
+            StatementLis(
+              StatementListDeclaration(
+                StatListDecl(
+                  NoStatementList(
+                  ) [NoStatementList]
+                  SingleStatementNoLabel(
+                    PrintStatement(
+                      DontHaveMinusExpr(
+                        Term(
+                          FactorCharConst(
+                           +
+                          ) [FactorCharConst]
+                          NoTermAfterFactor(
+                          ) [NoTermAfterFactor]
+                        ) [Term]
+                        NoExprAfterTerm(
+                        ) [NoExprAfterTerm]
+                      ) [DontHaveMinusExpr]
+                      NoExprForPrint(
+                      ) [NoExprForPrint]
+                    ) [PrintStatement]
+                  ) [SingleStatementNoLabel]
+                ) [StatListDecl]
+              ) [StatementListDeclaration]
+            ) [StatementLis]
+            StatementLis(
+              StatementListDeclaration(
+                StatListDecl(
+                  NoStatementList(
+                  ) [NoStatementList]
+                  SingleStatementNoLabel(
+                    PrintStatement(
+                      DontHaveMinusExpr(
+                        Term(
+                          FactorCharConst(
+                           -
+                          ) [FactorCharConst]
+                          NoTermAfterFactor(
+                          ) [NoTermAfterFactor]
+                        ) [Term]
+                        NoExprAfterTerm(
+                        ) [NoExprAfterTerm]
+                      ) [DontHaveMinusExpr]
+                      NoExprForPrint(
+                      ) [NoExprForPrint]
+                    ) [PrintStatement]
+                  ) [SingleStatementNoLabel]
+                ) [StatListDecl]
+              ) [StatementListDeclaration]
+            ) [StatementLis]
+          ) [IfThenElseStatement]
+        ) [SingleStatementNoLabel]
+      ) [StatListDecl]
+    ) [MethodDeclaration]
+  ) [MethodDeclarationsList]
+) [Program]
+INFO  17:37:59,970 - ===================================
+INFO  17:37:59,974 - Los main main na liniji 13

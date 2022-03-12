@@ -1,0 +1,139 @@
+INFO  18:22:55,743 - Compiling source file: C:\ppdomaci\workspace\MJCompiler\test\program2.mj
+INFO  18:22:55,778 - #2 program
+INFO  18:22:55,778 - #3 MJProgram
+INFO  18:22:55,778 - #4 {
+INFO  18:22:55,779 - #16 void
+INFO  18:22:55,779 - #3 main
+INFO  18:22:55,780 - #12 (
+INFO  18:22:55,780 - #9 )
+INFO  18:22:55,780 - #3 int
+INFO  18:22:55,781 - #3 x
+INFO  18:22:55,781 - #25 ;
+INFO  18:22:55,782 - #3 int
+INFO  18:22:55,782 - #3 y
+INFO  18:22:55,782 - #25 ;
+INFO  18:22:55,782 - #4 {
+INFO  18:22:55,782 - #3 x
+INFO  18:22:55,783 - #47 =
+INFO  18:22:55,783 - #32 3
+INFO  18:22:55,784 - #27 -
+INFO  18:22:55,784 - #32 7
+INFO  18:22:55,784 - #31 +
+INFO  18:22:55,785 - #32 2
+INFO  18:22:55,785 - #25 ;
+INFO  18:22:55,785 - #14 print
+INFO  18:22:55,786 - #12 (
+INFO  18:22:55,786 - #3 x
+INFO  18:22:55,786 - #9 )
+INFO  18:22:55,787 - #25 ;
+INFO  18:22:55,787 - #5 }
+INFO  18:22:55,787 - #5 }
+INFO  18:22:55,791 - Program(
+  ProgName(
+   MJProgram
+  ) [ProgName]
+  NoDecl(
+  ) [NoDecl]
+  MethodDeclarationsList(
+    NoMethodDeclarations(
+    ) [NoMethodDeclarations]
+    MethodDeclaration(
+      MethodDeclarationsVoid(
+      ) [MethodDeclarationsVoid]
+      MethodNameDecl(
+       main
+      ) [MethodNameDecl]
+      MethodAfterTypeWithoutFormPars(
+      ) [MethodAfterTypeWithoutFormPars]
+      VarDeclarations(
+        VarDeclarations(
+          NoVarDecl(
+          ) [NoVarDecl]
+          VarDeclDecl(
+            Type(
+             int
+            ) [Type]
+            VarNotHaveBracket(
+             x
+            ) [VarNotHaveBracket]
+            NoVarDeclList(
+            ) [NoVarDeclList]
+          ) [VarDeclDecl]
+        ) [VarDeclarations]
+        VarDeclDecl(
+          Type(
+           int
+          ) [Type]
+          VarNotHaveBracket(
+           y
+          ) [VarNotHaveBracket]
+          NoVarDeclList(
+          ) [NoVarDeclList]
+        ) [VarDeclDecl]
+      ) [VarDeclarations]
+      StatListDecl(
+        StatListDecl(
+          NoStatementList(
+          ) [NoStatementList]
+          SingleStatementNoLabel(
+            SingleStatementDesignator(
+              AssignopExpr(
+                CleanDesignator(
+                 x
+                ) [CleanDesignator]
+                AssignopDecl(
+                ) [AssignopDecl]
+                AddOperationTerm(
+                  TermList(
+                    TermList(
+                      OneTerm(
+                        TermStmtOnly(
+                          FactorNumConst(
+                           3
+                          ) [FactorNumConst]
+                        ) [TermStmtOnly]
+                      ) [OneTerm]
+                      AddopMinus(
+                      ) [AddopMinus]
+                      TermStmtOnly(
+                        FactorNumConst(
+                         7
+                        ) [FactorNumConst]
+                      ) [TermStmtOnly]
+                    ) [TermList]
+                    AddopPlus(
+                    ) [AddopPlus]
+                    TermStmtOnly(
+                      FactorNumConst(
+                       2
+                      ) [FactorNumConst]
+                    ) [TermStmtOnly]
+                  ) [TermList]
+                ) [AddOperationTerm]
+              ) [AssignopExpr]
+            ) [SingleStatementDesignator]
+          ) [SingleStatementNoLabel]
+        ) [StatListDecl]
+        SingleStatementNoLabel(
+          PrintStatement(
+            AddOperationTerm(
+              OneTerm(
+                TermStmtOnly(
+                  FactorDesignatorNoParam(
+                    CleanDesignator(
+                     x
+                    ) [CleanDesignator]
+                  ) [FactorDesignatorNoParam]
+                ) [TermStmtOnly]
+              ) [OneTerm]
+            ) [AddOperationTerm]
+            NoExprForPrint(
+            ) [NoExprForPrint]
+          ) [PrintStatement]
+        ) [SingleStatementNoLabel]
+      ) [StatListDecl]
+    ) [MethodDeclaration]
+  ) [MethodDeclarationsList]
+) [Program]
+INFO  18:22:55,792 - ===================================
+INFO  18:22:55,794 - ===================================

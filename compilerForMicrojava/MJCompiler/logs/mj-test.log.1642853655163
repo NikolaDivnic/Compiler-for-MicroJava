@@ -1,0 +1,139 @@
+INFO  13:13:49,569 - Compiling source file: C:\ppdomaci\workspace\MJCompiler\test\test301_A.mj
+INFO  13:13:49,630 - #2 program
+INFO  13:13:49,630 - #3 test301
+INFO  13:13:49,631 - #6 const
+INFO  13:13:49,632 - #3 int
+INFO  13:13:49,632 - #3 jedan
+INFO  13:13:49,633 - #47 =
+INFO  13:13:49,633 - #32 1
+INFO  13:13:49,634 - #25 ;
+INFO  13:13:49,635 - #4 {
+INFO  13:13:49,635 - #16 void
+INFO  13:13:49,636 - #3 main
+INFO  13:13:49,637 - #12 (
+INFO  13:13:49,637 - #9 )
+INFO  13:13:49,638 - #3 int
+INFO  13:13:49,639 - #3 bodovi
+INFO  13:13:49,639 - #25 ;
+INFO  13:13:49,641 - #4 {
+INFO  13:13:49,641 - #3 bodovi
+INFO  13:13:49,642 - #47 =
+INFO  13:13:49,642 - #32 0
+INFO  13:13:49,643 - #25 ;
+INFO  13:13:49,643 - #3 bodovi
+INFO  13:13:49,648 - #47 =
+INFO  13:13:49,648 - #3 bodovi
+INFO  13:13:49,649 - #31 +
+INFO  13:13:49,649 - #32 1
+INFO  13:13:49,650 - #25 ;
+INFO  13:13:49,651 - #5 }
+INFO  13:13:49,651 - #5 }
+INFO  13:13:49,657 - Program(
+  ProgName(
+   test301
+  ) [ProgName]
+  DeclarationsList(
+    NoDecl(
+    ) [NoDecl]
+    ConstDeclaration(
+      ConstDeclDecl(
+        Type(
+         int
+        ) [Type]
+       jedan
+        NumConstDecl(
+         1
+        ) [NumConstDecl]
+        NoConstDeclList(
+        ) [NoConstDeclList]
+      ) [ConstDeclDecl]
+    ) [ConstDeclaration]
+  ) [DeclarationsList]
+  MethodDeclarationsList(
+    NoMethodDeclarations(
+    ) [NoMethodDeclarations]
+    MethodDeclaration(
+      MethodDeclarationsVoid(
+      ) [MethodDeclarationsVoid]
+      MethodName(
+       main
+      ) [MethodName]
+      MethodAfterTypeWithoutFormPars(
+      ) [MethodAfterTypeWithoutFormPars]
+      VarDeclarations(
+        NoVarDecl(
+        ) [NoVarDecl]
+        VarDeclDecl(
+          Type(
+           int
+          ) [Type]
+          VarNotHaveBracket(
+           bodovi
+          ) [VarNotHaveBracket]
+          NoVarDeclList(
+          ) [NoVarDeclList]
+        ) [VarDeclDecl]
+      ) [VarDeclarations]
+      StatListDecl(
+        StatListDecl(
+          NoStatementList(
+          ) [NoStatementList]
+          SingleStatementNoLabel(
+            SingleStatementDesignator(
+              AssignopExpr(
+                CleanDesignator(
+                 bodovi
+                ) [CleanDesignator]
+                AssignopDecl(
+                ) [AssignopDecl]
+                AddOperationTerm(
+                  OneTerm(
+                    TermStmtOnly(
+                      FactorNumConst(
+                       0
+                      ) [FactorNumConst]
+                    ) [TermStmtOnly]
+                  ) [OneTerm]
+                ) [AddOperationTerm]
+              ) [AssignopExpr]
+            ) [SingleStatementDesignator]
+          ) [SingleStatementNoLabel]
+        ) [StatListDecl]
+        SingleStatementNoLabel(
+          SingleStatementDesignator(
+            AssignopExpr(
+              CleanDesignator(
+               bodovi
+              ) [CleanDesignator]
+              AssignopDecl(
+              ) [AssignopDecl]
+              AddOperationTerm(
+                TermList(
+                  OneTerm(
+                    TermStmtOnly(
+                      FactorDesignatorNoParam(
+                        CleanDesignator(
+                         bodovi
+                        ) [CleanDesignator]
+                      ) [FactorDesignatorNoParam]
+                    ) [TermStmtOnly]
+                  ) [OneTerm]
+                  AddopPlus(
+                  ) [AddopPlus]
+                  TermStmtOnly(
+                    FactorNumConst(
+                     1
+                    ) [FactorNumConst]
+                  ) [TermStmtOnly]
+                ) [TermList]
+              ) [AddOperationTerm]
+            ) [AssignopExpr]
+          ) [SingleStatementDesignator]
+        ) [SingleStatementNoLabel]
+      ) [StatListDecl]
+    ) [MethodDeclaration]
+  ) [MethodDeclarationsList]
+) [Program]
+INFO  13:13:49,657 - ===================================
+INFO  13:13:49,661 - ===================================
+INFO  13:13:49,665 - Parsiranje uspesno zavrseno!

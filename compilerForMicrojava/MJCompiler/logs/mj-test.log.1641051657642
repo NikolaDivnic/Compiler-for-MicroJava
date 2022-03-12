@@ -1,0 +1,64 @@
+INFO  16:40:38,093 - Compiling source file: C:\ppdomaci\workspace\MJCompiler\test\program2.mj
+INFO  16:40:38,149 - #2 program
+INFO  16:40:38,149 - #3 MJProgram
+INFO  16:40:38,150 - #4 {
+INFO  16:40:38,151 - #16 void
+INFO  16:40:38,151 - #3 main
+INFO  16:40:38,152 - #12 (
+INFO  16:40:38,152 - #9 )
+INFO  16:40:38,153 - #4 {
+INFO  16:40:38,154 - #14 print
+INFO  16:40:38,154 - #12 (
+INFO  16:40:38,154 - #3 x
+INFO  16:40:38,155 - #9 )
+INFO  16:40:38,156 - #25 ;
+INFO  16:40:38,156 - #5 }
+INFO  16:40:38,157 - #5 }
+INFO  16:40:38,165 - Program(
+  ProgName(
+   MJProgram
+  ) [ProgName]
+  NoDecl(
+  ) [NoDecl]
+  MethodDeclarationsList(
+    NoMethodDeclarations(
+    ) [NoMethodDeclarations]
+    MethodDeclaration(
+      MethodDeclarationsVoid(
+      ) [MethodDeclarationsVoid]
+      MethodNameDecl(
+       main
+      ) [MethodNameDecl]
+      MethodAfterTypeWithoutFormPars(
+      ) [MethodAfterTypeWithoutFormPars]
+      NoVarDecl(
+      ) [NoVarDecl]
+      StatListDecl(
+        NoStatementList(
+        ) [NoStatementList]
+        SingleStatementNoLabel(
+          PrintStatement(
+            AddOperationTerm(
+              OneTerm(
+                TermStmtOnly(
+                  FactorDesignatorNoParam(
+                    CleanDesignator(
+                     x
+                    ) [CleanDesignator]
+                  ) [FactorDesignatorNoParam]
+                ) [TermStmtOnly]
+              ) [OneTerm]
+            ) [AddOperationTerm]
+            NoExprForPrint(
+            ) [NoExprForPrint]
+          ) [PrintStatement]
+        ) [SingleStatementNoLabel]
+      ) [StatListDecl]
+    ) [MethodDeclaration]
+  ) [MethodDeclarationsList]
+) [Program]
+INFO  16:40:38,170 - ===================================
+INFO  16:40:38,174 - Neodgovarajuce ime promenljive ili promenljiva ne postoji! Ili nije funkcija  na liniji 5
+INFO  16:40:38,174 - Nije dobar tip  na liniji 5
+INFO  16:40:38,174 - ===================================
+INFO  16:40:38,178 - Parsiranje uspesno zavrseno!

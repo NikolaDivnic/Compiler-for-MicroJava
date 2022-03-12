@@ -1,0 +1,2889 @@
+INFO  14:22:17,895 - Compiling source file: C:\ppdomaci\workspace\MJCompiler\test\test302.mj
+INFO  14:22:17,977 - #2 program
+INFO  14:22:17,977 - #3 test302
+INFO  14:22:17,977 - #6 const
+INFO  14:22:17,979 - #3 int
+INFO  14:22:17,979 - #3 jedan
+INFO  14:22:17,980 - #47 =
+INFO  14:22:17,982 - #32 1
+INFO  14:22:17,982 - #25 ;
+INFO  14:22:17,983 - #3 int
+INFO  14:22:17,983 - #3 i
+INFO  14:22:17,983 - #25 ;
+INFO  14:22:17,985 - #3 bool
+INFO  14:22:17,986 - #3 ibool
+INFO  14:22:17,986 - #25 ;
+INFO  14:22:17,987 - #3 int
+INFO  14:22:17,987 - #3 niz
+INFO  14:22:17,987 - #11 [
+INFO  14:22:17,988 - #10 ]
+INFO  14:22:17,988 - #25 ;
+INFO  14:22:17,988 - #3 int
+INFO  14:22:17,988 - #3 niz1
+INFO  14:22:17,988 - #11 [
+INFO  14:22:17,993 - #10 ]
+INFO  14:22:17,993 - #25 ;
+INFO  14:22:17,993 - #3 int
+INFO  14:22:17,993 - #3 niz2
+INFO  14:22:17,993 - #25 ;
+INFO  14:22:17,993 - #4 {
+INFO  14:22:17,993 - #3 int
+INFO  14:22:17,994 - #3 sum
+INFO  14:22:17,994 - #12 (
+INFO  14:22:17,995 - #3 int
+INFO  14:22:17,996 - #3 z
+INFO  14:22:17,996 - #36 ,
+INFO  14:22:17,997 - #3 int
+INFO  14:22:17,997 - #3 d
+INFO  14:22:17,997 - #9 )
+INFO  14:22:18,001 - #4 {
+INFO  14:22:18,002 - #24 return
+INFO  14:22:18,003 - #3 z
+INFO  14:22:18,003 - #31 +
+INFO  14:22:18,006 - #3 d
+INFO  14:22:18,007 - #25 ;
+INFO  14:22:18,008 - #5 }
+INFO  14:22:18,009 - #3 int
+INFO  14:22:18,010 - #3 inkrement
+INFO  14:22:18,011 - #12 (
+INFO  14:22:18,011 - #3 int
+INFO  14:22:18,011 - #3 a
+INFO  14:22:18,011 - #36 ,
+INFO  14:22:18,011 - #3 int
+INFO  14:22:18,011 - #3 inc
+INFO  14:22:18,011 - #9 )
+INFO  14:22:18,011 - #3 int
+INFO  14:22:18,011 - #3 pom
+INFO  14:22:18,011 - #25 ;
+INFO  14:22:18,011 - #4 {
+INFO  14:22:18,012 - #18 if
+INFO  14:22:18,012 - #12 (
+INFO  14:22:18,012 - #3 inc
+INFO  14:22:18,012 - #39 ==
+INFO  14:22:18,012 - #3 jedan
+INFO  14:22:18,013 - #9 )
+INFO  14:22:18,015 - #3 pom
+INFO  14:22:18,015 - #47 =
+INFO  14:22:18,015 - #32 1
+INFO  14:22:18,017 - #25 ;
+INFO  14:22:18,017 - #19 else
+INFO  14:22:18,017 - #18 if
+INFO  14:22:18,018 - #12 (
+INFO  14:22:18,018 - #3 inc
+INFO  14:22:18,018 - #39 ==
+INFO  14:22:18,018 - #32 2
+INFO  14:22:18,018 - #9 )
+INFO  14:22:18,018 - #3 pom
+INFO  14:22:18,018 - #47 =
+INFO  14:22:18,018 - #3 a
+INFO  14:22:18,019 - #25 ;
+INFO  14:22:18,019 - #24 return
+INFO  14:22:18,019 - #3 sum
+INFO  14:22:18,019 - #12 (
+INFO  14:22:18,019 - #3 a
+INFO  14:22:18,019 - #36 ,
+INFO  14:22:18,020 - #3 pom
+INFO  14:22:18,020 - #9 )
+INFO  14:22:18,021 - #25 ;
+INFO  14:22:18,021 - #5 }
+INFO  14:22:18,022 - #3 bool
+INFO  14:22:18,022 - #3 verify
+INFO  14:22:18,022 - #12 (
+INFO  14:22:18,022 - #9 )
+INFO  14:22:18,022 - #4 {
+INFO  14:22:18,022 - #14 print
+INFO  14:22:18,022 - #12 (
+INFO  14:22:18,022 - #33 v
+INFO  14:22:18,022 - #9 )
+INFO  14:22:18,023 - #25 ;
+INFO  14:22:18,023 - #24 return
+INFO  14:22:18,024 - #34 0
+INFO  14:22:18,024 - #25 ;
+INFO  14:22:18,024 - #5 }
+INFO  14:22:18,024 - #16 void
+INFO  14:22:18,024 - #3 main
+INFO  14:22:18,024 - #12 (
+INFO  14:22:18,025 - #9 )
+INFO  14:22:18,025 - #4 {
+INFO  14:22:18,025 - #18 if
+INFO  14:22:18,025 - #12 (
+INFO  14:22:18,025 - #32 1
+INFO  14:22:18,025 - #40 !=
+INFO  14:22:18,025 - #32 1
+INFO  14:22:18,026 - #9 )
+INFO  14:22:18,026 - #14 print
+INFO  14:22:18,027 - #12 (
+INFO  14:22:18,027 - #27 -
+INFO  14:22:18,027 - #32 6
+INFO  14:22:18,027 - #9 )
+INFO  14:22:18,027 - #25 ;
+INFO  14:22:18,027 - #19 else
+INFO  14:22:18,027 - #14 print
+INFO  14:22:18,027 - #12 (
+INFO  14:22:18,027 - #32 0
+INFO  14:22:18,027 - #9 )
+INFO  14:22:18,027 - #25 ;
+INFO  14:22:18,028 - #3 ibool
+INFO  14:22:18,028 - #47 =
+INFO  14:22:18,028 - #34 0
+INFO  14:22:18,028 - #25 ;
+INFO  14:22:18,028 - #3 i
+INFO  14:22:18,028 - #47 =
+INFO  14:22:18,028 - #32 0
+INFO  14:22:18,028 - #25 ;
+INFO  14:22:18,028 - #20 do
+INFO  14:22:18,028 - #4 {
+INFO  14:22:18,029 - #18 if
+INFO  14:22:18,029 - #12 (
+INFO  14:22:18,029 - #3 i
+INFO  14:22:18,029 - #39 ==
+INFO  14:22:18,029 - #32 2
+INFO  14:22:18,029 - #9 )
+INFO  14:22:18,029 - #3 ibool
+INFO  14:22:18,029 - #47 =
+INFO  14:22:18,029 - #34 1
+INFO  14:22:18,029 - #25 ;
+INFO  14:22:18,029 - #3 i
+INFO  14:22:18,029 - #46 ++
+INFO  14:22:18,029 - #25 ;
+INFO  14:22:18,030 - #5 }
+INFO  14:22:18,030 - #21 while
+INFO  14:22:18,031 - #12 (
+INFO  14:22:18,031 - #3 i
+INFO  14:22:18,031 - #42 <
+INFO  14:22:18,031 - #32 5
+INFO  14:22:18,031 - #9 )
+INFO  14:22:18,032 - #25 ;
+INFO  14:22:18,032 - #18 if
+INFO  14:22:18,032 - #12 (
+INFO  14:22:18,032 - #3 ibool
+INFO  14:22:18,032 - #9 )
+INFO  14:22:18,032 - #18 if
+INFO  14:22:18,032 - #12 (
+INFO  14:22:18,032 - #3 i
+INFO  14:22:18,032 - #39 ==
+INFO  14:22:18,032 - #32 5
+INFO  14:22:18,032 - #9 )
+INFO  14:22:18,032 - #14 print
+INFO  14:22:18,032 - #12 (
+INFO  14:22:18,033 - #32 1
+INFO  14:22:18,033 - #9 )
+INFO  14:22:18,033 - #25 ;
+INFO  14:22:18,033 - #19 else
+INFO  14:22:18,033 - #14 print
+INFO  14:22:18,033 - #12 (
+INFO  14:22:18,033 - #27 -
+INFO  14:22:18,033 - #32 1
+INFO  14:22:18,033 - #9 )
+INFO  14:22:18,033 - #25 ;
+INFO  14:22:18,033 - #3 niz
+INFO  14:22:18,033 - #47 =
+INFO  14:22:18,033 - #15 new
+INFO  14:22:18,034 - #3 int
+INFO  14:22:18,034 - #11 [
+INFO  14:22:18,034 - #32 3
+INFO  14:22:18,034 - #10 ]
+INFO  14:22:18,034 - #25 ;
+INFO  14:22:18,034 - #3 niz
+INFO  14:22:18,035 - #11 [
+INFO  14:22:18,035 - #32 0
+INFO  14:22:18,035 - #10 ]
+INFO  14:22:18,035 - #47 =
+INFO  14:22:18,035 - #32 1
+INFO  14:22:18,036 - #25 ;
+INFO  14:22:18,036 - #3 niz
+INFO  14:22:18,036 - #11 [
+INFO  14:22:18,036 - #32 1
+INFO  14:22:18,036 - #10 ]
+INFO  14:22:18,036 - #47 =
+INFO  14:22:18,036 - #32 2
+INFO  14:22:18,036 - #25 ;
+INFO  14:22:18,036 - #3 niz
+INFO  14:22:18,037 - #11 [
+INFO  14:22:18,037 - #32 2
+INFO  14:22:18,037 - #10 ]
+INFO  14:22:18,037 - #47 =
+INFO  14:22:18,037 - #3 sum
+INFO  14:22:18,037 - #12 (
+INFO  14:22:18,037 - #3 niz
+INFO  14:22:18,037 - #11 [
+INFO  14:22:18,037 - #32 1
+INFO  14:22:18,037 - #10 ]
+INFO  14:22:18,037 - #36 ,
+INFO  14:22:18,037 - #3 niz
+INFO  14:22:18,037 - #11 [
+INFO  14:22:18,037 - #32 0
+INFO  14:22:18,037 - #10 ]
+INFO  14:22:18,037 - #9 )
+INFO  14:22:18,038 - #31 +
+INFO  14:22:18,038 - #32 1
+INFO  14:22:18,038 - #25 ;
+INFO  14:22:18,038 - #18 if
+INFO  14:22:18,038 - #12 (
+INFO  14:22:18,038 - #3 verify
+INFO  14:22:18,038 - #12 (
+INFO  14:22:18,038 - #9 )
+INFO  14:22:18,039 - #44 ||
+INFO  14:22:18,039 - #3 niz
+INFO  14:22:18,039 - #11 [
+INFO  14:22:18,039 - #32 2
+INFO  14:22:18,039 - #10 ]
+INFO  14:22:18,039 - #39 ==
+INFO  14:22:18,039 - #32 4
+INFO  14:22:18,039 - #9 )
+INFO  14:22:18,040 - #14 print
+INFO  14:22:18,040 - #12 (
+INFO  14:22:18,040 - #3 ord
+INFO  14:22:18,040 - #12 (
+INFO  14:22:18,040 - #33 A
+INFO  14:22:18,040 - #9 )
+INFO  14:22:18,041 - #9 )
+INFO  14:22:18,041 - #25 ;
+INFO  14:22:18,041 - #19 else
+INFO  14:22:18,041 - #14 print
+INFO  14:22:18,041 - #12 (
+INFO  14:22:18,041 - #3 ord
+INFO  14:22:18,041 - #12 (
+INFO  14:22:18,041 - #33 a
+INFO  14:22:18,041 - #9 )
+INFO  14:22:18,042 - #9 )
+INFO  14:22:18,042 - #25 ;
+INFO  14:22:18,042 - #14 print
+INFO  14:22:18,042 - #12 (
+INFO  14:22:18,042 - #3 eol
+INFO  14:22:18,042 - #9 )
+INFO  14:22:18,042 - #25 ;
+INFO  14:22:18,042 - #3 i
+INFO  14:22:18,043 - #47 =
+INFO  14:22:18,043 - #32 0
+INFO  14:22:18,043 - #25 ;
+INFO  14:22:18,043 - #20 do
+INFO  14:22:18,043 - #4 {
+INFO  14:22:18,043 - #18 if
+INFO  14:22:18,043 - #12 (
+INFO  14:22:18,043 - #3 i
+INFO  14:22:18,043 - #39 ==
+INFO  14:22:18,043 - #32 3
+INFO  14:22:18,043 - #9 )
+INFO  14:22:18,043 - #4 {
+INFO  14:22:18,044 - #3 i
+INFO  14:22:18,044 - #46 ++
+INFO  14:22:18,044 - #25 ;
+INFO  14:22:18,044 - #23 continue
+INFO  14:22:18,044 - #25 ;
+INFO  14:22:18,044 - #5 }
+INFO  14:22:18,045 - #18 if
+INFO  14:22:18,045 - #12 (
+INFO  14:22:18,045 - #3 i
+INFO  14:22:18,045 - #39 ==
+INFO  14:22:18,045 - #32 4
+INFO  14:22:18,045 - #9 )
+INFO  14:22:18,045 - #22 break
+INFO  14:22:18,045 - #25 ;
+INFO  14:22:18,045 - #3 i
+INFO  14:22:18,046 - #47 =
+INFO  14:22:18,046 - #3 inkrement
+INFO  14:22:18,047 - #12 (
+INFO  14:22:18,047 - #3 i
+INFO  14:22:18,047 - #36 ,
+INFO  14:22:18,047 - #32 1
+INFO  14:22:18,047 - #9 )
+INFO  14:22:18,047 - #25 ;
+INFO  14:22:18,047 - #5 }
+INFO  14:22:18,047 - #21 while
+INFO  14:22:18,047 - #12 (
+INFO  14:22:18,047 - #3 i
+INFO  14:22:18,047 - #42 <
+INFO  14:22:18,047 - #32 10
+INFO  14:22:18,047 - #9 )
+INFO  14:22:18,047 - #25 ;
+INFO  14:22:18,047 - #18 if
+INFO  14:22:18,048 - #12 (
+INFO  14:22:18,048 - #3 i
+INFO  14:22:18,048 - #39 ==
+INFO  14:22:18,048 - #32 3
+INFO  14:22:18,048 - #45 &&
+INFO  14:22:18,048 - #3 verify
+INFO  14:22:18,048 - #12 (
+INFO  14:22:18,048 - #9 )
+INFO  14:22:18,048 - #9 )
+INFO  14:22:18,048 - #14 print
+INFO  14:22:18,049 - #12 (
+INFO  14:22:18,049 - #27 -
+INFO  14:22:18,049 - #32 4
+INFO  14:22:18,049 - #9 )
+INFO  14:22:18,049 - #25 ;
+INFO  14:22:18,049 - #19 else
+INFO  14:22:18,049 - #14 print
+INFO  14:22:18,049 - #12 (
+INFO  14:22:18,049 - #32 4
+INFO  14:22:18,049 - #9 )
+INFO  14:22:18,049 - #25 ;
+INFO  14:22:18,049 - #13 read
+INFO  14:22:18,049 - #12 (
+INFO  14:22:18,049 - #3 niz
+INFO  14:22:18,049 - #11 [
+INFO  14:22:18,049 - #32 0
+INFO  14:22:18,049 - #10 ]
+INFO  14:22:18,049 - #9 )
+INFO  14:22:18,049 - #25 ;
+INFO  14:22:18,050 - #13 read
+INFO  14:22:18,050 - #12 (
+INFO  14:22:18,050 - #3 niz
+INFO  14:22:18,050 - #11 [
+INFO  14:22:18,050 - #32 1
+INFO  14:22:18,050 - #10 ]
+INFO  14:22:18,050 - #9 )
+INFO  14:22:18,050 - #25 ;
+INFO  14:22:18,050 - #13 read
+INFO  14:22:18,050 - #12 (
+INFO  14:22:18,050 - #3 niz
+INFO  14:22:18,050 - #11 [
+INFO  14:22:18,050 - #32 2
+INFO  14:22:18,050 - #10 ]
+INFO  14:22:18,050 - #9 )
+INFO  14:22:18,051 - #25 ;
+INFO  14:22:18,051 - #14 print
+INFO  14:22:18,051 - #12 (
+INFO  14:22:18,051 - #3 eol
+INFO  14:22:18,051 - #9 )
+INFO  14:22:18,051 - #25 ;
+INFO  14:22:18,051 - #14 print
+INFO  14:22:18,051 - #12 (
+INFO  14:22:18,051 - #3 sum
+INFO  14:22:18,051 - #12 (
+INFO  14:22:18,051 - #3 sum
+INFO  14:22:18,051 - #12 (
+INFO  14:22:18,051 - #3 niz
+INFO  14:22:18,051 - #11 [
+INFO  14:22:18,051 - #32 0
+INFO  14:22:18,052 - #10 ]
+INFO  14:22:18,052 - #36 ,
+INFO  14:22:18,052 - #3 niz
+INFO  14:22:18,052 - #11 [
+INFO  14:22:18,052 - #32 1
+INFO  14:22:18,052 - #10 ]
+INFO  14:22:18,052 - #9 )
+INFO  14:22:18,052 - #36 ,
+INFO  14:22:18,052 - #3 niz
+INFO  14:22:18,052 - #11 [
+INFO  14:22:18,052 - #32 2
+INFO  14:22:18,052 - #10 ]
+INFO  14:22:18,052 - #9 )
+INFO  14:22:18,053 - #9 )
+INFO  14:22:18,053 - #25 ;
+INFO  14:22:18,053 - #14 print
+INFO  14:22:18,053 - #12 (
+INFO  14:22:18,053 - #3 eol
+INFO  14:22:18,053 - #9 )
+INFO  14:22:18,053 - #25 ;
+INFO  14:22:18,054 - #14 print
+INFO  14:22:18,054 - #12 (
+INFO  14:22:18,054 - #3 inkrement
+INFO  14:22:18,054 - #12 (
+INFO  14:22:18,054 - #3 niz
+INFO  14:22:18,054 - #11 [
+INFO  14:22:18,054 - #32 2
+INFO  14:22:18,055 - #10 ]
+INFO  14:22:18,055 - #36 ,
+INFO  14:22:18,055 - #32 2
+INFO  14:22:18,055 - #9 )
+INFO  14:22:18,055 - #9 )
+INFO  14:22:18,055 - #25 ;
+INFO  14:22:18,055 - #3 niz1
+INFO  14:22:18,055 - #47 =
+INFO  14:22:18,055 - #3 niz
+INFO  14:22:18,055 - #28 *
+INFO  14:22:18,055 - #32 2
+INFO  14:22:18,056 - #25 ;
+INFO  14:22:18,057 - #14 print
+INFO  14:22:18,057 - #12 (
+INFO  14:22:18,057 - #3 niz1
+INFO  14:22:18,057 - #11 [
+INFO  14:22:18,057 - #32 0
+INFO  14:22:18,057 - #10 ]
+INFO  14:22:18,057 - #9 )
+INFO  14:22:18,058 - #25 ;
+INFO  14:22:18,058 - #14 print
+INFO  14:22:18,058 - #12 (
+INFO  14:22:18,058 - #3 niz1
+INFO  14:22:18,058 - #11 [
+INFO  14:22:18,058 - #32 1
+INFO  14:22:18,058 - #10 ]
+INFO  14:22:18,058 - #9 )
+INFO  14:22:18,058 - #25 ;
+INFO  14:22:18,058 - #14 print
+INFO  14:22:18,058 - #12 (
+INFO  14:22:18,058 - #3 niz1
+INFO  14:22:18,058 - #11 [
+INFO  14:22:18,058 - #32 2
+INFO  14:22:18,058 - #10 ]
+INFO  14:22:18,058 - #9 )
+INFO  14:22:18,058 - #25 ;
+INFO  14:22:18,059 - #14 print
+INFO  14:22:18,059 - #12 (
+INFO  14:22:18,059 - #3 eol
+INFO  14:22:18,059 - #9 )
+INFO  14:22:18,059 - #25 ;
+INFO  14:22:18,059 - #3 niz2
+INFO  14:22:18,059 - #47 =
+INFO  14:22:18,059 - #3 niz
+INFO  14:22:18,059 - #28 *
+INFO  14:22:18,060 - #3 niz1
+INFO  14:22:18,060 - #25 ;
+INFO  14:22:18,060 - #14 print
+INFO  14:22:18,060 - #12 (
+INFO  14:22:18,060 - #3 niz2
+INFO  14:22:18,060 - #9 )
+INFO  14:22:18,060 - #25 ;
+INFO  14:22:18,060 - #14 print
+INFO  14:22:18,060 - #12 (
+INFO  14:22:18,060 - #3 eol
+INFO  14:22:18,060 - #9 )
+INFO  14:22:18,060 - #25 ;
+INFO  14:22:18,060 - #5 }
+INFO  14:22:18,060 - #5 }
+INFO  14:22:18,088 - Program(
+  ProgName(
+   test302
+  ) [ProgName]
+  DeclarationsList(
+    DeclarationsList(
+      DeclarationsList(
+        DeclarationsList(
+          DeclarationsList(
+            DeclarationsList(
+              NoDecl(
+              ) [NoDecl]
+              ConstDeclaration(
+                ConstDeclDecl(
+                  Type(
+                   int
+                  ) [Type]
+                  ConstDeclName(
+                   jedan
+                  ) [ConstDeclName]
+                  NumConstDecl(
+                   1
+                  ) [NumConstDecl]
+                  NoConstDeclList(
+                  ) [NoConstDeclList]
+                ) [ConstDeclDecl]
+              ) [ConstDeclaration]
+            ) [DeclarationsList]
+            VarDeclaration(
+              VarDeclDecl(
+                Type(
+                 int
+                ) [Type]
+                VarDeclName(
+                 i
+                ) [VarDeclName]
+                VarDeclNoBrackes(
+                  NoVarDeclList(
+                  ) [NoVarDeclList]
+                ) [VarDeclNoBrackes]
+              ) [VarDeclDecl]
+            ) [VarDeclaration]
+          ) [DeclarationsList]
+          VarDeclaration(
+            VarDeclDecl(
+              Type(
+               bool
+              ) [Type]
+              VarDeclName(
+               ibool
+              ) [VarDeclName]
+              VarDeclNoBrackes(
+                NoVarDeclList(
+                ) [NoVarDeclList]
+              ) [VarDeclNoBrackes]
+            ) [VarDeclDecl]
+          ) [VarDeclaration]
+        ) [DeclarationsList]
+        VarDeclaration(
+          VarDeclDecl(
+            Type(
+             int
+            ) [Type]
+            VarDeclName(
+             niz
+            ) [VarDeclName]
+            VarDeclBrackes(
+              NoVarDeclList(
+              ) [NoVarDeclList]
+            ) [VarDeclBrackes]
+          ) [VarDeclDecl]
+        ) [VarDeclaration]
+      ) [DeclarationsList]
+      VarDeclaration(
+        VarDeclDecl(
+          Type(
+           int
+          ) [Type]
+          VarDeclName(
+           niz1
+          ) [VarDeclName]
+          VarDeclBrackes(
+            NoVarDeclList(
+            ) [NoVarDeclList]
+          ) [VarDeclBrackes]
+        ) [VarDeclDecl]
+      ) [VarDeclaration]
+    ) [DeclarationsList]
+    VarDeclaration(
+      VarDeclDecl(
+        Type(
+         int
+        ) [Type]
+        VarDeclName(
+         niz2
+        ) [VarDeclName]
+        VarDeclNoBrackes(
+          NoVarDeclList(
+          ) [NoVarDeclList]
+        ) [VarDeclNoBrackes]
+      ) [VarDeclDecl]
+    ) [VarDeclaration]
+  ) [DeclarationsList]
+  MethodDeclarationsList(
+    MethodDeclarationsList(
+      MethodDeclarationsList(
+        MethodDeclarationsList(
+          NoMethodDeclarations(
+          ) [NoMethodDeclarations]
+          MethodDeclarationsType(
+            Type(
+             int
+            ) [Type]
+            MethodTypeName(
+             sum
+            ) [MethodTypeName]
+            MethodAfterTypeWithFormPars(
+              FormParsDecl(
+                Type(
+                 int
+                ) [Type]
+                FormParsName(
+                 z
+                ) [FormParsName]
+                FormParamNoBrackes(
+                  FormParsListDecl(
+                    NoFormParsList(
+                    ) [NoFormParsList]
+                    FormParsListSingle(
+                      Type(
+                       int
+                      ) [Type]
+                      FormParsListSingleElem(
+                       d
+                      ) [FormParsListSingleElem]
+                      FormSingleNoHaveBr(
+                      ) [FormSingleNoHaveBr]
+                    ) [FormParsListSingle]
+                  ) [FormParsListDecl]
+                ) [FormParamNoBrackes]
+              ) [FormParsDecl]
+              MethodAfterParentheses(
+                NoVarDecl(
+                ) [NoVarDecl]
+                StatListDecl(
+                  NoStatementList(
+                  ) [NoStatementList]
+                  SingleStatementNoLabel(
+                    ReturnStatementExpr(
+                      DontHaveMinusExpr(
+                        Term(
+                          FactorDesignatorNoParam(
+                            DesignatorDecl(
+                              DesignatorName(
+                               z
+                              ) [DesignatorName]
+                              NoDesignatorList(
+                              ) [NoDesignatorList]
+                            ) [DesignatorDecl]
+                          ) [FactorDesignatorNoParam]
+                          NoTermAfterFactor(
+                          ) [NoTermAfterFactor]
+                        ) [Term]
+                        ExprAfterTermList(
+                          NoExprAfterTerm(
+                          ) [NoExprAfterTerm]
+                          ExprAfterTermSing(
+                            AddopPlus(
+                            ) [AddopPlus]
+                            Term(
+                              FactorDesignatorNoParam(
+                                DesignatorDecl(
+                                  DesignatorName(
+                                   d
+                                  ) [DesignatorName]
+                                  NoDesignatorList(
+                                  ) [NoDesignatorList]
+                                ) [DesignatorDecl]
+                              ) [FactorDesignatorNoParam]
+                              NoTermAfterFactor(
+                              ) [NoTermAfterFactor]
+                            ) [Term]
+                          ) [ExprAfterTermSing]
+                        ) [ExprAfterTermList]
+                      ) [DontHaveMinusExpr]
+                    ) [ReturnStatementExpr]
+                  ) [SingleStatementNoLabel]
+                ) [StatListDecl]
+              ) [MethodAfterParentheses]
+            ) [MethodAfterTypeWithFormPars]
+          ) [MethodDeclarationsType]
+        ) [MethodDeclarationsList]
+        MethodDeclarationsType(
+          Type(
+           int
+          ) [Type]
+          MethodTypeName(
+           inkrement
+          ) [MethodTypeName]
+          MethodAfterTypeWithFormPars(
+            FormParsDecl(
+              Type(
+               int
+              ) [Type]
+              FormParsName(
+               a
+              ) [FormParsName]
+              FormParamNoBrackes(
+                FormParsListDecl(
+                  NoFormParsList(
+                  ) [NoFormParsList]
+                  FormParsListSingle(
+                    Type(
+                     int
+                    ) [Type]
+                    FormParsListSingleElem(
+                     inc
+                    ) [FormParsListSingleElem]
+                    FormSingleNoHaveBr(
+                    ) [FormSingleNoHaveBr]
+                  ) [FormParsListSingle]
+                ) [FormParsListDecl]
+              ) [FormParamNoBrackes]
+            ) [FormParsDecl]
+            MethodAfterParentheses(
+              VarDeclarations(
+                NoVarDecl(
+                ) [NoVarDecl]
+                VarDeclDecl(
+                  Type(
+                   int
+                  ) [Type]
+                  VarDeclName(
+                   pom
+                  ) [VarDeclName]
+                  VarDeclNoBrackes(
+                    NoVarDeclList(
+                    ) [NoVarDeclList]
+                  ) [VarDeclNoBrackes]
+                ) [VarDeclDecl]
+              ) [VarDeclarations]
+              StatListDecl(
+                StatListDecl(
+                  NoStatementList(
+                  ) [NoStatementList]
+                  SingleStatementNoLabel(
+                    IfThenElseStatement(
+                      ConditionDecl(
+                        CondTermDecl(
+                          CondFactWithRelop(
+                            DontHaveMinusExpr(
+                              Term(
+                                FactorDesignatorNoParam(
+                                  DesignatorDecl(
+                                    DesignatorName(
+                                     inc
+                                    ) [DesignatorName]
+                                    NoDesignatorList(
+                                    ) [NoDesignatorList]
+                                  ) [DesignatorDecl]
+                                ) [FactorDesignatorNoParam]
+                                NoTermAfterFactor(
+                                ) [NoTermAfterFactor]
+                              ) [Term]
+                              NoExprAfterTerm(
+                              ) [NoExprAfterTerm]
+                            ) [DontHaveMinusExpr]
+                            RelopEquals(
+                            ) [RelopEquals]
+                            DontHaveMinusExpr(
+                              Term(
+                                FactorDesignatorNoParam(
+                                  DesignatorDecl(
+                                    DesignatorName(
+                                     jedan
+                                    ) [DesignatorName]
+                                    NoDesignatorList(
+                                    ) [NoDesignatorList]
+                                  ) [DesignatorDecl]
+                                ) [FactorDesignatorNoParam]
+                                NoTermAfterFactor(
+                                ) [NoTermAfterFactor]
+                              ) [Term]
+                              NoExprAfterTerm(
+                              ) [NoExprAfterTerm]
+                            ) [DontHaveMinusExpr]
+                          ) [CondFactWithRelop]
+                          NoCondTermAfter(
+                          ) [NoCondTermAfter]
+                        ) [CondTermDecl]
+                        NoConditionAfter(
+                        ) [NoConditionAfter]
+                      ) [ConditionDecl]
+                      SingleStatementNoLabel(
+                        SingleStatementDesignator(
+                          DesignatorStatementFirst(
+                            DesignatorDecl(
+                              DesignatorName(
+                               pom
+                              ) [DesignatorName]
+                              NoDesignatorList(
+                              ) [NoDesignatorList]
+                            ) [DesignatorDecl]
+                            AssignopExpr(
+                              AssignopDecl(
+                              ) [AssignopDecl]
+                              DontHaveMinusExpr(
+                                Term(
+                                  FactorNumConst(
+                                   1
+                                  ) [FactorNumConst]
+                                  NoTermAfterFactor(
+                                  ) [NoTermAfterFactor]
+                                ) [Term]
+                                NoExprAfterTerm(
+                                ) [NoExprAfterTerm]
+                              ) [DontHaveMinusExpr]
+                            ) [AssignopExpr]
+                          ) [DesignatorStatementFirst]
+                        ) [SingleStatementDesignator]
+                      ) [SingleStatementNoLabel]
+                      SingleStatementNoLabel(
+                        IfThenStatement(
+                          ConditionDecl(
+                            CondTermDecl(
+                              CondFactWithRelop(
+                                DontHaveMinusExpr(
+                                  Term(
+                                    FactorDesignatorNoParam(
+                                      DesignatorDecl(
+                                        DesignatorName(
+                                         inc
+                                        ) [DesignatorName]
+                                        NoDesignatorList(
+                                        ) [NoDesignatorList]
+                                      ) [DesignatorDecl]
+                                    ) [FactorDesignatorNoParam]
+                                    NoTermAfterFactor(
+                                    ) [NoTermAfterFactor]
+                                  ) [Term]
+                                  NoExprAfterTerm(
+                                  ) [NoExprAfterTerm]
+                                ) [DontHaveMinusExpr]
+                                RelopEquals(
+                                ) [RelopEquals]
+                                DontHaveMinusExpr(
+                                  Term(
+                                    FactorNumConst(
+                                     2
+                                    ) [FactorNumConst]
+                                    NoTermAfterFactor(
+                                    ) [NoTermAfterFactor]
+                                  ) [Term]
+                                  NoExprAfterTerm(
+                                  ) [NoExprAfterTerm]
+                                ) [DontHaveMinusExpr]
+                              ) [CondFactWithRelop]
+                              NoCondTermAfter(
+                              ) [NoCondTermAfter]
+                            ) [CondTermDecl]
+                            NoConditionAfter(
+                            ) [NoConditionAfter]
+                          ) [ConditionDecl]
+                          SingleStatementNoLabel(
+                            SingleStatementDesignator(
+                              DesignatorStatementFirst(
+                                DesignatorDecl(
+                                  DesignatorName(
+                                   pom
+                                  ) [DesignatorName]
+                                  NoDesignatorList(
+                                  ) [NoDesignatorList]
+                                ) [DesignatorDecl]
+                                AssignopExpr(
+                                  AssignopDecl(
+                                  ) [AssignopDecl]
+                                  DontHaveMinusExpr(
+                                    Term(
+                                      FactorDesignatorNoParam(
+                                        DesignatorDecl(
+                                          DesignatorName(
+                                           a
+                                          ) [DesignatorName]
+                                          NoDesignatorList(
+                                          ) [NoDesignatorList]
+                                        ) [DesignatorDecl]
+                                      ) [FactorDesignatorNoParam]
+                                      NoTermAfterFactor(
+                                      ) [NoTermAfterFactor]
+                                    ) [Term]
+                                    NoExprAfterTerm(
+                                    ) [NoExprAfterTerm]
+                                  ) [DontHaveMinusExpr]
+                                ) [AssignopExpr]
+                              ) [DesignatorStatementFirst]
+                            ) [SingleStatementDesignator]
+                          ) [SingleStatementNoLabel]
+                        ) [IfThenStatement]
+                      ) [SingleStatementNoLabel]
+                    ) [IfThenElseStatement]
+                  ) [SingleStatementNoLabel]
+                ) [StatListDecl]
+                SingleStatementNoLabel(
+                  ReturnStatementExpr(
+                    DontHaveMinusExpr(
+                      Term(
+                        FactorDesignatorParam(
+                          DesignatorDecl(
+                            DesignatorName(
+                             sum
+                            ) [DesignatorName]
+                            NoDesignatorList(
+                            ) [NoDesignatorList]
+                          ) [DesignatorDecl]
+                          AfterFactorDesigWithActPars(
+                            AfterParsWithList(
+                              DontHaveMinusExpr(
+                                Term(
+                                  FactorDesignatorNoParam(
+                                    DesignatorDecl(
+                                      DesignatorName(
+                                       a
+                                      ) [DesignatorName]
+                                      NoDesignatorList(
+                                      ) [NoDesignatorList]
+                                    ) [DesignatorDecl]
+                                  ) [FactorDesignatorNoParam]
+                                  NoTermAfterFactor(
+                                  ) [NoTermAfterFactor]
+                                ) [Term]
+                                NoExprAfterTerm(
+                                ) [NoExprAfterTerm]
+                              ) [DontHaveMinusExpr]
+                              WithAfterParsExprList(
+                                NoAfterParsExpr(
+                                ) [NoAfterParsExpr]
+                                AfterParsExprSingle(
+                                  DontHaveMinusExpr(
+                                    Term(
+                                      FactorDesignatorNoParam(
+                                        DesignatorDecl(
+                                          DesignatorName(
+                                           pom
+                                          ) [DesignatorName]
+                                          NoDesignatorList(
+                                          ) [NoDesignatorList]
+                                        ) [DesignatorDecl]
+                                      ) [FactorDesignatorNoParam]
+                                      NoTermAfterFactor(
+                                      ) [NoTermAfterFactor]
+                                    ) [Term]
+                                    NoExprAfterTerm(
+                                    ) [NoExprAfterTerm]
+                                  ) [DontHaveMinusExpr]
+                                ) [AfterParsExprSingle]
+                              ) [WithAfterParsExprList]
+                            ) [AfterParsWithList]
+                          ) [AfterFactorDesigWithActPars]
+                        ) [FactorDesignatorParam]
+                        NoTermAfterFactor(
+                        ) [NoTermAfterFactor]
+                      ) [Term]
+                      NoExprAfterTerm(
+                      ) [NoExprAfterTerm]
+                    ) [DontHaveMinusExpr]
+                  ) [ReturnStatementExpr]
+                ) [SingleStatementNoLabel]
+              ) [StatListDecl]
+            ) [MethodAfterParentheses]
+          ) [MethodAfterTypeWithFormPars]
+        ) [MethodDeclarationsType]
+      ) [MethodDeclarationsList]
+      MethodDeclarationsType(
+        Type(
+         bool
+        ) [Type]
+        MethodTypeName(
+         verify
+        ) [MethodTypeName]
+        MethodAfterTypeWithoutFormPars(
+          MethodAfterParentheses(
+            NoVarDecl(
+            ) [NoVarDecl]
+            StatListDecl(
+              StatListDecl(
+                NoStatementList(
+                ) [NoStatementList]
+                SingleStatementNoLabel(
+                  PrintStatement(
+                    DontHaveMinusExpr(
+                      Term(
+                        FactorCharConst(
+                         v
+                        ) [FactorCharConst]
+                        NoTermAfterFactor(
+                        ) [NoTermAfterFactor]
+                      ) [Term]
+                      NoExprAfterTerm(
+                      ) [NoExprAfterTerm]
+                    ) [DontHaveMinusExpr]
+                    NoExprForPrint(
+                    ) [NoExprForPrint]
+                  ) [PrintStatement]
+                ) [SingleStatementNoLabel]
+              ) [StatListDecl]
+              SingleStatementNoLabel(
+                ReturnStatementExpr(
+                  DontHaveMinusExpr(
+                    Term(
+                      FactorBoolConst(
+                       0
+                      ) [FactorBoolConst]
+                      NoTermAfterFactor(
+                      ) [NoTermAfterFactor]
+                    ) [Term]
+                    NoExprAfterTerm(
+                    ) [NoExprAfterTerm]
+                  ) [DontHaveMinusExpr]
+                ) [ReturnStatementExpr]
+              ) [SingleStatementNoLabel]
+            ) [StatListDecl]
+          ) [MethodAfterParentheses]
+        ) [MethodAfterTypeWithoutFormPars]
+      ) [MethodDeclarationsType]
+    ) [MethodDeclarationsList]
+    MethodDeclarationsVoid(
+      MethodVoid(
+       main
+      ) [MethodVoid]
+      MethodAfterTypeWithoutFormPars(
+        MethodAfterParentheses(
+          NoVarDecl(
+          ) [NoVarDecl]
+          StatListDecl(
+            StatListDecl(
+              StatListDecl(
+                StatListDecl(
+                  StatListDecl(
+                    StatListDecl(
+                      StatListDecl(
+                        StatListDecl(
+                          StatListDecl(
+                            StatListDecl(
+                              StatListDecl(
+                                StatListDecl(
+                                  StatListDecl(
+                                    StatListDecl(
+                                      StatListDecl(
+                                        StatListDecl(
+                                          StatListDecl(
+                                            StatListDecl(
+                                              StatListDecl(
+                                                StatListDecl(
+                                                  StatListDecl(
+                                                    StatListDecl(
+                                                      StatListDecl(
+                                                        StatListDecl(
+                                                          StatListDecl(
+                                                            StatListDecl(
+                                                              StatListDecl(
+                                                                StatListDecl(
+                                                                  StatListDecl(
+                                                                    NoStatementList(
+                                                                    ) [NoStatementList]
+                                                                    SingleStatementNoLabel(
+                                                                      IfThenElseStatement(
+                                                                        ConditionDecl(
+                                                                          CondTermDecl(
+                                                                            CondFactWithRelop(
+                                                                              DontHaveMinusExpr(
+                                                                                Term(
+                                                                                  FactorNumConst(
+                                                                                   1
+                                                                                  ) [FactorNumConst]
+                                                                                  NoTermAfterFactor(
+                                                                                  ) [NoTermAfterFactor]
+                                                                                ) [Term]
+                                                                                NoExprAfterTerm(
+                                                                                ) [NoExprAfterTerm]
+                                                                              ) [DontHaveMinusExpr]
+                                                                              RelopNotEqual(
+                                                                              ) [RelopNotEqual]
+                                                                              DontHaveMinusExpr(
+                                                                                Term(
+                                                                                  FactorNumConst(
+                                                                                   1
+                                                                                  ) [FactorNumConst]
+                                                                                  NoTermAfterFactor(
+                                                                                  ) [NoTermAfterFactor]
+                                                                                ) [Term]
+                                                                                NoExprAfterTerm(
+                                                                                ) [NoExprAfterTerm]
+                                                                              ) [DontHaveMinusExpr]
+                                                                            ) [CondFactWithRelop]
+                                                                            NoCondTermAfter(
+                                                                            ) [NoCondTermAfter]
+                                                                          ) [CondTermDecl]
+                                                                          NoConditionAfter(
+                                                                          ) [NoConditionAfter]
+                                                                        ) [ConditionDecl]
+                                                                        SingleStatementNoLabel(
+                                                                          PrintStatement(
+                                                                            HaveMinusExpr(
+                                                                              Term(
+                                                                                FactorNumConst(
+                                                                                 6
+                                                                                ) [FactorNumConst]
+                                                                                NoTermAfterFactor(
+                                                                                ) [NoTermAfterFactor]
+                                                                              ) [Term]
+                                                                              NoExprAfterTerm(
+                                                                              ) [NoExprAfterTerm]
+                                                                            ) [HaveMinusExpr]
+                                                                            NoExprForPrint(
+                                                                            ) [NoExprForPrint]
+                                                                          ) [PrintStatement]
+                                                                        ) [SingleStatementNoLabel]
+                                                                        SingleStatementNoLabel(
+                                                                          PrintStatement(
+                                                                            DontHaveMinusExpr(
+                                                                              Term(
+                                                                                FactorNumConst(
+                                                                                 0
+                                                                                ) [FactorNumConst]
+                                                                                NoTermAfterFactor(
+                                                                                ) [NoTermAfterFactor]
+                                                                              ) [Term]
+                                                                              NoExprAfterTerm(
+                                                                              ) [NoExprAfterTerm]
+                                                                            ) [DontHaveMinusExpr]
+                                                                            NoExprForPrint(
+                                                                            ) [NoExprForPrint]
+                                                                          ) [PrintStatement]
+                                                                        ) [SingleStatementNoLabel]
+                                                                      ) [IfThenElseStatement]
+                                                                    ) [SingleStatementNoLabel]
+                                                                  ) [StatListDecl]
+                                                                  SingleStatementNoLabel(
+                                                                    SingleStatementDesignator(
+                                                                      DesignatorStatementFirst(
+                                                                        DesignatorDecl(
+                                                                          DesignatorName(
+                                                                           ibool
+                                                                          ) [DesignatorName]
+                                                                          NoDesignatorList(
+                                                                          ) [NoDesignatorList]
+                                                                        ) [DesignatorDecl]
+                                                                        AssignopExpr(
+                                                                          AssignopDecl(
+                                                                          ) [AssignopDecl]
+                                                                          DontHaveMinusExpr(
+                                                                            Term(
+                                                                              FactorBoolConst(
+                                                                               0
+                                                                              ) [FactorBoolConst]
+                                                                              NoTermAfterFactor(
+                                                                              ) [NoTermAfterFactor]
+                                                                            ) [Term]
+                                                                            NoExprAfterTerm(
+                                                                            ) [NoExprAfterTerm]
+                                                                          ) [DontHaveMinusExpr]
+                                                                        ) [AssignopExpr]
+                                                                      ) [DesignatorStatementFirst]
+                                                                    ) [SingleStatementDesignator]
+                                                                  ) [SingleStatementNoLabel]
+                                                                ) [StatListDecl]
+                                                                SingleStatementNoLabel(
+                                                                  SingleStatementDesignator(
+                                                                    DesignatorStatementFirst(
+                                                                      DesignatorDecl(
+                                                                        DesignatorName(
+                                                                         i
+                                                                        ) [DesignatorName]
+                                                                        NoDesignatorList(
+                                                                        ) [NoDesignatorList]
+                                                                      ) [DesignatorDecl]
+                                                                      AssignopExpr(
+                                                                        AssignopDecl(
+                                                                        ) [AssignopDecl]
+                                                                        DontHaveMinusExpr(
+                                                                          Term(
+                                                                            FactorNumConst(
+                                                                             0
+                                                                            ) [FactorNumConst]
+                                                                            NoTermAfterFactor(
+                                                                            ) [NoTermAfterFactor]
+                                                                          ) [Term]
+                                                                          NoExprAfterTerm(
+                                                                          ) [NoExprAfterTerm]
+                                                                        ) [DontHaveMinusExpr]
+                                                                      ) [AssignopExpr]
+                                                                    ) [DesignatorStatementFirst]
+                                                                  ) [SingleStatementDesignator]
+                                                                ) [SingleStatementNoLabel]
+                                                              ) [StatListDecl]
+                                                              SingleStatementNoLabel(
+                                                                DoWhileStatement(
+                                                                  StatementLis(
+                                                                    StatementListDeclaration(
+                                                                      StatListDecl(
+                                                                        StatListDecl(
+                                                                          NoStatementList(
+                                                                          ) [NoStatementList]
+                                                                          SingleStatementNoLabel(
+                                                                            IfThenStatement(
+                                                                              ConditionDecl(
+                                                                                CondTermDecl(
+                                                                                  CondFactWithRelop(
+                                                                                    DontHaveMinusExpr(
+                                                                                      Term(
+                                                                                        FactorDesignatorNoParam(
+                                                                                          DesignatorDecl(
+                                                                                            DesignatorName(
+                                                                                             i
+                                                                                            ) [DesignatorName]
+                                                                                            NoDesignatorList(
+                                                                                            ) [NoDesignatorList]
+                                                                                          ) [DesignatorDecl]
+                                                                                        ) [FactorDesignatorNoParam]
+                                                                                        NoTermAfterFactor(
+                                                                                        ) [NoTermAfterFactor]
+                                                                                      ) [Term]
+                                                                                      NoExprAfterTerm(
+                                                                                      ) [NoExprAfterTerm]
+                                                                                    ) [DontHaveMinusExpr]
+                                                                                    RelopEquals(
+                                                                                    ) [RelopEquals]
+                                                                                    DontHaveMinusExpr(
+                                                                                      Term(
+                                                                                        FactorNumConst(
+                                                                                         2
+                                                                                        ) [FactorNumConst]
+                                                                                        NoTermAfterFactor(
+                                                                                        ) [NoTermAfterFactor]
+                                                                                      ) [Term]
+                                                                                      NoExprAfterTerm(
+                                                                                      ) [NoExprAfterTerm]
+                                                                                    ) [DontHaveMinusExpr]
+                                                                                  ) [CondFactWithRelop]
+                                                                                  NoCondTermAfter(
+                                                                                  ) [NoCondTermAfter]
+                                                                                ) [CondTermDecl]
+                                                                                NoConditionAfter(
+                                                                                ) [NoConditionAfter]
+                                                                              ) [ConditionDecl]
+                                                                              SingleStatementNoLabel(
+                                                                                SingleStatementDesignator(
+                                                                                  DesignatorStatementFirst(
+                                                                                    DesignatorDecl(
+                                                                                      DesignatorName(
+                                                                                       ibool
+                                                                                      ) [DesignatorName]
+                                                                                      NoDesignatorList(
+                                                                                      ) [NoDesignatorList]
+                                                                                    ) [DesignatorDecl]
+                                                                                    AssignopExpr(
+                                                                                      AssignopDecl(
+                                                                                      ) [AssignopDecl]
+                                                                                      DontHaveMinusExpr(
+                                                                                        Term(
+                                                                                          FactorBoolConst(
+                                                                                           1
+                                                                                          ) [FactorBoolConst]
+                                                                                          NoTermAfterFactor(
+                                                                                          ) [NoTermAfterFactor]
+                                                                                        ) [Term]
+                                                                                        NoExprAfterTerm(
+                                                                                        ) [NoExprAfterTerm]
+                                                                                      ) [DontHaveMinusExpr]
+                                                                                    ) [AssignopExpr]
+                                                                                  ) [DesignatorStatementFirst]
+                                                                                ) [SingleStatementDesignator]
+                                                                              ) [SingleStatementNoLabel]
+                                                                            ) [IfThenStatement]
+                                                                          ) [SingleStatementNoLabel]
+                                                                        ) [StatListDecl]
+                                                                        SingleStatementNoLabel(
+                                                                          SingleStatementDesignator(
+                                                                            DesignatorStatementFirst(
+                                                                              DesignatorDecl(
+                                                                                DesignatorName(
+                                                                                 i
+                                                                                ) [DesignatorName]
+                                                                                NoDesignatorList(
+                                                                                ) [NoDesignatorList]
+                                                                              ) [DesignatorDecl]
+                                                                              DesignatorStatIncrement(
+                                                                              ) [DesignatorStatIncrement]
+                                                                            ) [DesignatorStatementFirst]
+                                                                          ) [SingleStatementDesignator]
+                                                                        ) [SingleStatementNoLabel]
+                                                                      ) [StatListDecl]
+                                                                    ) [StatementListDeclaration]
+                                                                  ) [StatementLis]
+                                                                  ConditionDecl(
+                                                                    CondTermDecl(
+                                                                      CondFactWithRelop(
+                                                                        DontHaveMinusExpr(
+                                                                          Term(
+                                                                            FactorDesignatorNoParam(
+                                                                              DesignatorDecl(
+                                                                                DesignatorName(
+                                                                                 i
+                                                                                ) [DesignatorName]
+                                                                                NoDesignatorList(
+                                                                                ) [NoDesignatorList]
+                                                                              ) [DesignatorDecl]
+                                                                            ) [FactorDesignatorNoParam]
+                                                                            NoTermAfterFactor(
+                                                                            ) [NoTermAfterFactor]
+                                                                          ) [Term]
+                                                                          NoExprAfterTerm(
+                                                                          ) [NoExprAfterTerm]
+                                                                        ) [DontHaveMinusExpr]
+                                                                        RelopLessThan(
+                                                                        ) [RelopLessThan]
+                                                                        DontHaveMinusExpr(
+                                                                          Term(
+                                                                            FactorNumConst(
+                                                                             5
+                                                                            ) [FactorNumConst]
+                                                                            NoTermAfterFactor(
+                                                                            ) [NoTermAfterFactor]
+                                                                          ) [Term]
+                                                                          NoExprAfterTerm(
+                                                                          ) [NoExprAfterTerm]
+                                                                        ) [DontHaveMinusExpr]
+                                                                      ) [CondFactWithRelop]
+                                                                      NoCondTermAfter(
+                                                                      ) [NoCondTermAfter]
+                                                                    ) [CondTermDecl]
+                                                                    NoConditionAfter(
+                                                                    ) [NoConditionAfter]
+                                                                  ) [ConditionDecl]
+                                                                ) [DoWhileStatement]
+                                                              ) [SingleStatementNoLabel]
+                                                            ) [StatListDecl]
+                                                            SingleStatementNoLabel(
+                                                              IfThenStatement(
+                                                                ConditionDecl(
+                                                                  CondTermDecl(
+                                                                    CondFactWithoutRelop(
+                                                                      DontHaveMinusExpr(
+                                                                        Term(
+                                                                          FactorDesignatorNoParam(
+                                                                            DesignatorDecl(
+                                                                              DesignatorName(
+                                                                               ibool
+                                                                              ) [DesignatorName]
+                                                                              NoDesignatorList(
+                                                                              ) [NoDesignatorList]
+                                                                            ) [DesignatorDecl]
+                                                                          ) [FactorDesignatorNoParam]
+                                                                          NoTermAfterFactor(
+                                                                          ) [NoTermAfterFactor]
+                                                                        ) [Term]
+                                                                        NoExprAfterTerm(
+                                                                        ) [NoExprAfterTerm]
+                                                                      ) [DontHaveMinusExpr]
+                                                                    ) [CondFactWithoutRelop]
+                                                                    NoCondTermAfter(
+                                                                    ) [NoCondTermAfter]
+                                                                  ) [CondTermDecl]
+                                                                  NoConditionAfter(
+                                                                  ) [NoConditionAfter]
+                                                                ) [ConditionDecl]
+                                                                SingleStatementNoLabel(
+                                                                  IfThenElseStatement(
+                                                                    ConditionDecl(
+                                                                      CondTermDecl(
+                                                                        CondFactWithRelop(
+                                                                          DontHaveMinusExpr(
+                                                                            Term(
+                                                                              FactorDesignatorNoParam(
+                                                                                DesignatorDecl(
+                                                                                  DesignatorName(
+                                                                                   i
+                                                                                  ) [DesignatorName]
+                                                                                  NoDesignatorList(
+                                                                                  ) [NoDesignatorList]
+                                                                                ) [DesignatorDecl]
+                                                                              ) [FactorDesignatorNoParam]
+                                                                              NoTermAfterFactor(
+                                                                              ) [NoTermAfterFactor]
+                                                                            ) [Term]
+                                                                            NoExprAfterTerm(
+                                                                            ) [NoExprAfterTerm]
+                                                                          ) [DontHaveMinusExpr]
+                                                                          RelopEquals(
+                                                                          ) [RelopEquals]
+                                                                          DontHaveMinusExpr(
+                                                                            Term(
+                                                                              FactorNumConst(
+                                                                               5
+                                                                              ) [FactorNumConst]
+                                                                              NoTermAfterFactor(
+                                                                              ) [NoTermAfterFactor]
+                                                                            ) [Term]
+                                                                            NoExprAfterTerm(
+                                                                            ) [NoExprAfterTerm]
+                                                                          ) [DontHaveMinusExpr]
+                                                                        ) [CondFactWithRelop]
+                                                                        NoCondTermAfter(
+                                                                        ) [NoCondTermAfter]
+                                                                      ) [CondTermDecl]
+                                                                      NoConditionAfter(
+                                                                      ) [NoConditionAfter]
+                                                                    ) [ConditionDecl]
+                                                                    SingleStatementNoLabel(
+                                                                      PrintStatement(
+                                                                        DontHaveMinusExpr(
+                                                                          Term(
+                                                                            FactorNumConst(
+                                                                             1
+                                                                            ) [FactorNumConst]
+                                                                            NoTermAfterFactor(
+                                                                            ) [NoTermAfterFactor]
+                                                                          ) [Term]
+                                                                          NoExprAfterTerm(
+                                                                          ) [NoExprAfterTerm]
+                                                                        ) [DontHaveMinusExpr]
+                                                                        NoExprForPrint(
+                                                                        ) [NoExprForPrint]
+                                                                      ) [PrintStatement]
+                                                                    ) [SingleStatementNoLabel]
+                                                                    SingleStatementNoLabel(
+                                                                      PrintStatement(
+                                                                        HaveMinusExpr(
+                                                                          Term(
+                                                                            FactorNumConst(
+                                                                             1
+                                                                            ) [FactorNumConst]
+                                                                            NoTermAfterFactor(
+                                                                            ) [NoTermAfterFactor]
+                                                                          ) [Term]
+                                                                          NoExprAfterTerm(
+                                                                          ) [NoExprAfterTerm]
+                                                                        ) [HaveMinusExpr]
+                                                                        NoExprForPrint(
+                                                                        ) [NoExprForPrint]
+                                                                      ) [PrintStatement]
+                                                                    ) [SingleStatementNoLabel]
+                                                                  ) [IfThenElseStatement]
+                                                                ) [SingleStatementNoLabel]
+                                                              ) [IfThenStatement]
+                                                            ) [SingleStatementNoLabel]
+                                                          ) [StatListDecl]
+                                                          SingleStatementNoLabel(
+                                                            SingleStatementDesignator(
+                                                              DesignatorStatementFirst(
+                                                                DesignatorDecl(
+                                                                  DesignatorName(
+                                                                   niz
+                                                                  ) [DesignatorName]
+                                                                  NoDesignatorList(
+                                                                  ) [NoDesignatorList]
+                                                                ) [DesignatorDecl]
+                                                                AssignopExpr(
+                                                                  AssignopDecl(
+                                                                  ) [AssignopDecl]
+                                                                  DontHaveMinusExpr(
+                                                                    Term(
+                                                                      FactorNewExpr(
+                                                                        Type(
+                                                                         int
+                                                                        ) [Type]
+                                                                        DontHaveMinusExpr(
+                                                                          Term(
+                                                                            FactorNumConst(
+                                                                             3
+                                                                            ) [FactorNumConst]
+                                                                            NoTermAfterFactor(
+                                                                            ) [NoTermAfterFactor]
+                                                                          ) [Term]
+                                                                          NoExprAfterTerm(
+                                                                          ) [NoExprAfterTerm]
+                                                                        ) [DontHaveMinusExpr]
+                                                                      ) [FactorNewExpr]
+                                                                      NoTermAfterFactor(
+                                                                      ) [NoTermAfterFactor]
+                                                                    ) [Term]
+                                                                    NoExprAfterTerm(
+                                                                    ) [NoExprAfterTerm]
+                                                                  ) [DontHaveMinusExpr]
+                                                                ) [AssignopExpr]
+                                                              ) [DesignatorStatementFirst]
+                                                            ) [SingleStatementDesignator]
+                                                          ) [SingleStatementNoLabel]
+                                                        ) [StatListDecl]
+                                                        SingleStatementNoLabel(
+                                                          SingleStatementDesignator(
+                                                            DesignatorStatementFirst(
+                                                              DesignatorDecl(
+                                                                DesignatorName(
+                                                                 niz
+                                                                ) [DesignatorName]
+                                                                DesignatorListDecl(
+                                                                  NoDesignatorList(
+                                                                  ) [NoDesignatorList]
+                                                                  DesignListElemSingleSecond(
+                                                                    DontHaveMinusExpr(
+                                                                      Term(
+                                                                        FactorNumConst(
+                                                                         0
+                                                                        ) [FactorNumConst]
+                                                                        NoTermAfterFactor(
+                                                                        ) [NoTermAfterFactor]
+                                                                      ) [Term]
+                                                                      NoExprAfterTerm(
+                                                                      ) [NoExprAfterTerm]
+                                                                    ) [DontHaveMinusExpr]
+                                                                  ) [DesignListElemSingleSecond]
+                                                                ) [DesignatorListDecl]
+                                                              ) [DesignatorDecl]
+                                                              AssignopExpr(
+                                                                AssignopDecl(
+                                                                ) [AssignopDecl]
+                                                                DontHaveMinusExpr(
+                                                                  Term(
+                                                                    FactorNumConst(
+                                                                     1
+                                                                    ) [FactorNumConst]
+                                                                    NoTermAfterFactor(
+                                                                    ) [NoTermAfterFactor]
+                                                                  ) [Term]
+                                                                  NoExprAfterTerm(
+                                                                  ) [NoExprAfterTerm]
+                                                                ) [DontHaveMinusExpr]
+                                                              ) [AssignopExpr]
+                                                            ) [DesignatorStatementFirst]
+                                                          ) [SingleStatementDesignator]
+                                                        ) [SingleStatementNoLabel]
+                                                      ) [StatListDecl]
+                                                      SingleStatementNoLabel(
+                                                        SingleStatementDesignator(
+                                                          DesignatorStatementFirst(
+                                                            DesignatorDecl(
+                                                              DesignatorName(
+                                                               niz
+                                                              ) [DesignatorName]
+                                                              DesignatorListDecl(
+                                                                NoDesignatorList(
+                                                                ) [NoDesignatorList]
+                                                                DesignListElemSingleSecond(
+                                                                  DontHaveMinusExpr(
+                                                                    Term(
+                                                                      FactorNumConst(
+                                                                       1
+                                                                      ) [FactorNumConst]
+                                                                      NoTermAfterFactor(
+                                                                      ) [NoTermAfterFactor]
+                                                                    ) [Term]
+                                                                    NoExprAfterTerm(
+                                                                    ) [NoExprAfterTerm]
+                                                                  ) [DontHaveMinusExpr]
+                                                                ) [DesignListElemSingleSecond]
+                                                              ) [DesignatorListDecl]
+                                                            ) [DesignatorDecl]
+                                                            AssignopExpr(
+                                                              AssignopDecl(
+                                                              ) [AssignopDecl]
+                                                              DontHaveMinusExpr(
+                                                                Term(
+                                                                  FactorNumConst(
+                                                                   2
+                                                                  ) [FactorNumConst]
+                                                                  NoTermAfterFactor(
+                                                                  ) [NoTermAfterFactor]
+                                                                ) [Term]
+                                                                NoExprAfterTerm(
+                                                                ) [NoExprAfterTerm]
+                                                              ) [DontHaveMinusExpr]
+                                                            ) [AssignopExpr]
+                                                          ) [DesignatorStatementFirst]
+                                                        ) [SingleStatementDesignator]
+                                                      ) [SingleStatementNoLabel]
+                                                    ) [StatListDecl]
+                                                    SingleStatementNoLabel(
+                                                      SingleStatementDesignator(
+                                                        DesignatorStatementFirst(
+                                                          DesignatorDecl(
+                                                            DesignatorName(
+                                                             niz
+                                                            ) [DesignatorName]
+                                                            DesignatorListDecl(
+                                                              NoDesignatorList(
+                                                              ) [NoDesignatorList]
+                                                              DesignListElemSingleSecond(
+                                                                DontHaveMinusExpr(
+                                                                  Term(
+                                                                    FactorNumConst(
+                                                                     2
+                                                                    ) [FactorNumConst]
+                                                                    NoTermAfterFactor(
+                                                                    ) [NoTermAfterFactor]
+                                                                  ) [Term]
+                                                                  NoExprAfterTerm(
+                                                                  ) [NoExprAfterTerm]
+                                                                ) [DontHaveMinusExpr]
+                                                              ) [DesignListElemSingleSecond]
+                                                            ) [DesignatorListDecl]
+                                                          ) [DesignatorDecl]
+                                                          AssignopExpr(
+                                                            AssignopDecl(
+                                                            ) [AssignopDecl]
+                                                            DontHaveMinusExpr(
+                                                              Term(
+                                                                FactorDesignatorParam(
+                                                                  DesignatorDecl(
+                                                                    DesignatorName(
+                                                                     sum
+                                                                    ) [DesignatorName]
+                                                                    NoDesignatorList(
+                                                                    ) [NoDesignatorList]
+                                                                  ) [DesignatorDecl]
+                                                                  AfterFactorDesigWithActPars(
+                                                                    AfterParsWithList(
+                                                                      DontHaveMinusExpr(
+                                                                        Term(
+                                                                          FactorDesignatorNoParam(
+                                                                            DesignatorDecl(
+                                                                              DesignatorName(
+                                                                               niz
+                                                                              ) [DesignatorName]
+                                                                              DesignatorListDecl(
+                                                                                NoDesignatorList(
+                                                                                ) [NoDesignatorList]
+                                                                                DesignListElemSingleSecond(
+                                                                                  DontHaveMinusExpr(
+                                                                                    Term(
+                                                                                      FactorNumConst(
+                                                                                       1
+                                                                                      ) [FactorNumConst]
+                                                                                      NoTermAfterFactor(
+                                                                                      ) [NoTermAfterFactor]
+                                                                                    ) [Term]
+                                                                                    NoExprAfterTerm(
+                                                                                    ) [NoExprAfterTerm]
+                                                                                  ) [DontHaveMinusExpr]
+                                                                                ) [DesignListElemSingleSecond]
+                                                                              ) [DesignatorListDecl]
+                                                                            ) [DesignatorDecl]
+                                                                          ) [FactorDesignatorNoParam]
+                                                                          NoTermAfterFactor(
+                                                                          ) [NoTermAfterFactor]
+                                                                        ) [Term]
+                                                                        NoExprAfterTerm(
+                                                                        ) [NoExprAfterTerm]
+                                                                      ) [DontHaveMinusExpr]
+                                                                      WithAfterParsExprList(
+                                                                        NoAfterParsExpr(
+                                                                        ) [NoAfterParsExpr]
+                                                                        AfterParsExprSingle(
+                                                                          DontHaveMinusExpr(
+                                                                            Term(
+                                                                              FactorDesignatorNoParam(
+                                                                                DesignatorDecl(
+                                                                                  DesignatorName(
+                                                                                   niz
+                                                                                  ) [DesignatorName]
+                                                                                  DesignatorListDecl(
+                                                                                    NoDesignatorList(
+                                                                                    ) [NoDesignatorList]
+                                                                                    DesignListElemSingleSecond(
+                                                                                      DontHaveMinusExpr(
+                                                                                        Term(
+                                                                                          FactorNumConst(
+                                                                                           0
+                                                                                          ) [FactorNumConst]
+                                                                                          NoTermAfterFactor(
+                                                                                          ) [NoTermAfterFactor]
+                                                                                        ) [Term]
+                                                                                        NoExprAfterTerm(
+                                                                                        ) [NoExprAfterTerm]
+                                                                                      ) [DontHaveMinusExpr]
+                                                                                    ) [DesignListElemSingleSecond]
+                                                                                  ) [DesignatorListDecl]
+                                                                                ) [DesignatorDecl]
+                                                                              ) [FactorDesignatorNoParam]
+                                                                              NoTermAfterFactor(
+                                                                              ) [NoTermAfterFactor]
+                                                                            ) [Term]
+                                                                            NoExprAfterTerm(
+                                                                            ) [NoExprAfterTerm]
+                                                                          ) [DontHaveMinusExpr]
+                                                                        ) [AfterParsExprSingle]
+                                                                      ) [WithAfterParsExprList]
+                                                                    ) [AfterParsWithList]
+                                                                  ) [AfterFactorDesigWithActPars]
+                                                                ) [FactorDesignatorParam]
+                                                                NoTermAfterFactor(
+                                                                ) [NoTermAfterFactor]
+                                                              ) [Term]
+                                                              ExprAfterTermList(
+                                                                NoExprAfterTerm(
+                                                                ) [NoExprAfterTerm]
+                                                                ExprAfterTermSing(
+                                                                  AddopPlus(
+                                                                  ) [AddopPlus]
+                                                                  Term(
+                                                                    FactorNumConst(
+                                                                     1
+                                                                    ) [FactorNumConst]
+                                                                    NoTermAfterFactor(
+                                                                    ) [NoTermAfterFactor]
+                                                                  ) [Term]
+                                                                ) [ExprAfterTermSing]
+                                                              ) [ExprAfterTermList]
+                                                            ) [DontHaveMinusExpr]
+                                                          ) [AssignopExpr]
+                                                        ) [DesignatorStatementFirst]
+                                                      ) [SingleStatementDesignator]
+                                                    ) [SingleStatementNoLabel]
+                                                  ) [StatListDecl]
+                                                  SingleStatementNoLabel(
+                                                    IfThenElseStatement(
+                                                      ConditionDecl(
+                                                        CondTermDecl(
+                                                          CondFactWithoutRelop(
+                                                            DontHaveMinusExpr(
+                                                              Term(
+                                                                FactorDesignatorParam(
+                                                                  DesignatorDecl(
+                                                                    DesignatorName(
+                                                                     verify
+                                                                    ) [DesignatorName]
+                                                                    NoDesignatorList(
+                                                                    ) [NoDesignatorList]
+                                                                  ) [DesignatorDecl]
+                                                                  NoAfterFactorDesigActPars(
+                                                                  ) [NoAfterFactorDesigActPars]
+                                                                ) [FactorDesignatorParam]
+                                                                NoTermAfterFactor(
+                                                                ) [NoTermAfterFactor]
+                                                              ) [Term]
+                                                              NoExprAfterTerm(
+                                                              ) [NoExprAfterTerm]
+                                                            ) [DontHaveMinusExpr]
+                                                          ) [CondFactWithoutRelop]
+                                                          NoCondTermAfter(
+                                                          ) [NoCondTermAfter]
+                                                        ) [CondTermDecl]
+                                                        ConditionAfterList(
+                                                          NoConditionAfter(
+                                                          ) [NoConditionAfter]
+                                                          ConditionAfterSingleDecl(
+                                                            CondTermDecl(
+                                                              CondFactWithRelop(
+                                                                DontHaveMinusExpr(
+                                                                  Term(
+                                                                    FactorDesignatorNoParam(
+                                                                      DesignatorDecl(
+                                                                        DesignatorName(
+                                                                         niz
+                                                                        ) [DesignatorName]
+                                                                        DesignatorListDecl(
+                                                                          NoDesignatorList(
+                                                                          ) [NoDesignatorList]
+                                                                          DesignListElemSingleSecond(
+                                                                            DontHaveMinusExpr(
+                                                                              Term(
+                                                                                FactorNumConst(
+                                                                                 2
+                                                                                ) [FactorNumConst]
+                                                                                NoTermAfterFactor(
+                                                                                ) [NoTermAfterFactor]
+                                                                              ) [Term]
+                                                                              NoExprAfterTerm(
+                                                                              ) [NoExprAfterTerm]
+                                                                            ) [DontHaveMinusExpr]
+                                                                          ) [DesignListElemSingleSecond]
+                                                                        ) [DesignatorListDecl]
+                                                                      ) [DesignatorDecl]
+                                                                    ) [FactorDesignatorNoParam]
+                                                                    NoTermAfterFactor(
+                                                                    ) [NoTermAfterFactor]
+                                                                  ) [Term]
+                                                                  NoExprAfterTerm(
+                                                                  ) [NoExprAfterTerm]
+                                                                ) [DontHaveMinusExpr]
+                                                                RelopEquals(
+                                                                ) [RelopEquals]
+                                                                DontHaveMinusExpr(
+                                                                  Term(
+                                                                    FactorNumConst(
+                                                                     4
+                                                                    ) [FactorNumConst]
+                                                                    NoTermAfterFactor(
+                                                                    ) [NoTermAfterFactor]
+                                                                  ) [Term]
+                                                                  NoExprAfterTerm(
+                                                                  ) [NoExprAfterTerm]
+                                                                ) [DontHaveMinusExpr]
+                                                              ) [CondFactWithRelop]
+                                                              NoCondTermAfter(
+                                                              ) [NoCondTermAfter]
+                                                            ) [CondTermDecl]
+                                                          ) [ConditionAfterSingleDecl]
+                                                        ) [ConditionAfterList]
+                                                      ) [ConditionDecl]
+                                                      SingleStatementNoLabel(
+                                                        PrintStatement(
+                                                          DontHaveMinusExpr(
+                                                            Term(
+                                                              FactorDesignatorParam(
+                                                                DesignatorDecl(
+                                                                  DesignatorName(
+                                                                   ord
+                                                                  ) [DesignatorName]
+                                                                  NoDesignatorList(
+                                                                  ) [NoDesignatorList]
+                                                                ) [DesignatorDecl]
+                                                                AfterFactorDesigWithActPars(
+                                                                  AfterParsWithList(
+                                                                    DontHaveMinusExpr(
+                                                                      Term(
+                                                                        FactorCharConst(
+                                                                         A
+                                                                        ) [FactorCharConst]
+                                                                        NoTermAfterFactor(
+                                                                        ) [NoTermAfterFactor]
+                                                                      ) [Term]
+                                                                      NoExprAfterTerm(
+                                                                      ) [NoExprAfterTerm]
+                                                                    ) [DontHaveMinusExpr]
+                                                                    NoAfterParsExpr(
+                                                                    ) [NoAfterParsExpr]
+                                                                  ) [AfterParsWithList]
+                                                                ) [AfterFactorDesigWithActPars]
+                                                              ) [FactorDesignatorParam]
+                                                              NoTermAfterFactor(
+                                                              ) [NoTermAfterFactor]
+                                                            ) [Term]
+                                                            NoExprAfterTerm(
+                                                            ) [NoExprAfterTerm]
+                                                          ) [DontHaveMinusExpr]
+                                                          NoExprForPrint(
+                                                          ) [NoExprForPrint]
+                                                        ) [PrintStatement]
+                                                      ) [SingleStatementNoLabel]
+                                                      SingleStatementNoLabel(
+                                                        PrintStatement(
+                                                          DontHaveMinusExpr(
+                                                            Term(
+                                                              FactorDesignatorParam(
+                                                                DesignatorDecl(
+                                                                  DesignatorName(
+                                                                   ord
+                                                                  ) [DesignatorName]
+                                                                  NoDesignatorList(
+                                                                  ) [NoDesignatorList]
+                                                                ) [DesignatorDecl]
+                                                                AfterFactorDesigWithActPars(
+                                                                  AfterParsWithList(
+                                                                    DontHaveMinusExpr(
+                                                                      Term(
+                                                                        FactorCharConst(
+                                                                         a
+                                                                        ) [FactorCharConst]
+                                                                        NoTermAfterFactor(
+                                                                        ) [NoTermAfterFactor]
+                                                                      ) [Term]
+                                                                      NoExprAfterTerm(
+                                                                      ) [NoExprAfterTerm]
+                                                                    ) [DontHaveMinusExpr]
+                                                                    NoAfterParsExpr(
+                                                                    ) [NoAfterParsExpr]
+                                                                  ) [AfterParsWithList]
+                                                                ) [AfterFactorDesigWithActPars]
+                                                              ) [FactorDesignatorParam]
+                                                              NoTermAfterFactor(
+                                                              ) [NoTermAfterFactor]
+                                                            ) [Term]
+                                                            NoExprAfterTerm(
+                                                            ) [NoExprAfterTerm]
+                                                          ) [DontHaveMinusExpr]
+                                                          NoExprForPrint(
+                                                          ) [NoExprForPrint]
+                                                        ) [PrintStatement]
+                                                      ) [SingleStatementNoLabel]
+                                                    ) [IfThenElseStatement]
+                                                  ) [SingleStatementNoLabel]
+                                                ) [StatListDecl]
+                                                SingleStatementNoLabel(
+                                                  PrintStatement(
+                                                    DontHaveMinusExpr(
+                                                      Term(
+                                                        FactorDesignatorNoParam(
+                                                          DesignatorDecl(
+                                                            DesignatorName(
+                                                             eol
+                                                            ) [DesignatorName]
+                                                            NoDesignatorList(
+                                                            ) [NoDesignatorList]
+                                                          ) [DesignatorDecl]
+                                                        ) [FactorDesignatorNoParam]
+                                                        NoTermAfterFactor(
+                                                        ) [NoTermAfterFactor]
+                                                      ) [Term]
+                                                      NoExprAfterTerm(
+                                                      ) [NoExprAfterTerm]
+                                                    ) [DontHaveMinusExpr]
+                                                    NoExprForPrint(
+                                                    ) [NoExprForPrint]
+                                                  ) [PrintStatement]
+                                                ) [SingleStatementNoLabel]
+                                              ) [StatListDecl]
+                                              SingleStatementNoLabel(
+                                                SingleStatementDesignator(
+                                                  DesignatorStatementFirst(
+                                                    DesignatorDecl(
+                                                      DesignatorName(
+                                                       i
+                                                      ) [DesignatorName]
+                                                      NoDesignatorList(
+                                                      ) [NoDesignatorList]
+                                                    ) [DesignatorDecl]
+                                                    AssignopExpr(
+                                                      AssignopDecl(
+                                                      ) [AssignopDecl]
+                                                      DontHaveMinusExpr(
+                                                        Term(
+                                                          FactorNumConst(
+                                                           0
+                                                          ) [FactorNumConst]
+                                                          NoTermAfterFactor(
+                                                          ) [NoTermAfterFactor]
+                                                        ) [Term]
+                                                        NoExprAfterTerm(
+                                                        ) [NoExprAfterTerm]
+                                                      ) [DontHaveMinusExpr]
+                                                    ) [AssignopExpr]
+                                                  ) [DesignatorStatementFirst]
+                                                ) [SingleStatementDesignator]
+                                              ) [SingleStatementNoLabel]
+                                            ) [StatListDecl]
+                                            SingleStatementNoLabel(
+                                              DoWhileStatement(
+                                                StatementLis(
+                                                  StatementListDeclaration(
+                                                    StatListDecl(
+                                                      StatListDecl(
+                                                        StatListDecl(
+                                                          NoStatementList(
+                                                          ) [NoStatementList]
+                                                          SingleStatementNoLabel(
+                                                            IfThenStatement(
+                                                              ConditionDecl(
+                                                                CondTermDecl(
+                                                                  CondFactWithRelop(
+                                                                    DontHaveMinusExpr(
+                                                                      Term(
+                                                                        FactorDesignatorNoParam(
+                                                                          DesignatorDecl(
+                                                                            DesignatorName(
+                                                                             i
+                                                                            ) [DesignatorName]
+                                                                            NoDesignatorList(
+                                                                            ) [NoDesignatorList]
+                                                                          ) [DesignatorDecl]
+                                                                        ) [FactorDesignatorNoParam]
+                                                                        NoTermAfterFactor(
+                                                                        ) [NoTermAfterFactor]
+                                                                      ) [Term]
+                                                                      NoExprAfterTerm(
+                                                                      ) [NoExprAfterTerm]
+                                                                    ) [DontHaveMinusExpr]
+                                                                    RelopEquals(
+                                                                    ) [RelopEquals]
+                                                                    DontHaveMinusExpr(
+                                                                      Term(
+                                                                        FactorNumConst(
+                                                                         3
+                                                                        ) [FactorNumConst]
+                                                                        NoTermAfterFactor(
+                                                                        ) [NoTermAfterFactor]
+                                                                      ) [Term]
+                                                                      NoExprAfterTerm(
+                                                                      ) [NoExprAfterTerm]
+                                                                    ) [DontHaveMinusExpr]
+                                                                  ) [CondFactWithRelop]
+                                                                  NoCondTermAfter(
+                                                                  ) [NoCondTermAfter]
+                                                                ) [CondTermDecl]
+                                                                NoConditionAfter(
+                                                                ) [NoConditionAfter]
+                                                              ) [ConditionDecl]
+                                                              StatementLis(
+                                                                StatementListDeclaration(
+                                                                  StatListDecl(
+                                                                    StatListDecl(
+                                                                      NoStatementList(
+                                                                      ) [NoStatementList]
+                                                                      SingleStatementNoLabel(
+                                                                        SingleStatementDesignator(
+                                                                          DesignatorStatementFirst(
+                                                                            DesignatorDecl(
+                                                                              DesignatorName(
+                                                                               i
+                                                                              ) [DesignatorName]
+                                                                              NoDesignatorList(
+                                                                              ) [NoDesignatorList]
+                                                                            ) [DesignatorDecl]
+                                                                            DesignatorStatIncrement(
+                                                                            ) [DesignatorStatIncrement]
+                                                                          ) [DesignatorStatementFirst]
+                                                                        ) [SingleStatementDesignator]
+                                                                      ) [SingleStatementNoLabel]
+                                                                    ) [StatListDecl]
+                                                                    SingleStatementNoLabel(
+                                                                      ContinueStatement(
+                                                                      ) [ContinueStatement]
+                                                                    ) [SingleStatementNoLabel]
+                                                                  ) [StatListDecl]
+                                                                ) [StatementListDeclaration]
+                                                              ) [StatementLis]
+                                                            ) [IfThenStatement]
+                                                          ) [SingleStatementNoLabel]
+                                                        ) [StatListDecl]
+                                                        SingleStatementNoLabel(
+                                                          IfThenStatement(
+                                                            ConditionDecl(
+                                                              CondTermDecl(
+                                                                CondFactWithRelop(
+                                                                  DontHaveMinusExpr(
+                                                                    Term(
+                                                                      FactorDesignatorNoParam(
+                                                                        DesignatorDecl(
+                                                                          DesignatorName(
+                                                                           i
+                                                                          ) [DesignatorName]
+                                                                          NoDesignatorList(
+                                                                          ) [NoDesignatorList]
+                                                                        ) [DesignatorDecl]
+                                                                      ) [FactorDesignatorNoParam]
+                                                                      NoTermAfterFactor(
+                                                                      ) [NoTermAfterFactor]
+                                                                    ) [Term]
+                                                                    NoExprAfterTerm(
+                                                                    ) [NoExprAfterTerm]
+                                                                  ) [DontHaveMinusExpr]
+                                                                  RelopEquals(
+                                                                  ) [RelopEquals]
+                                                                  DontHaveMinusExpr(
+                                                                    Term(
+                                                                      FactorNumConst(
+                                                                       4
+                                                                      ) [FactorNumConst]
+                                                                      NoTermAfterFactor(
+                                                                      ) [NoTermAfterFactor]
+                                                                    ) [Term]
+                                                                    NoExprAfterTerm(
+                                                                    ) [NoExprAfterTerm]
+                                                                  ) [DontHaveMinusExpr]
+                                                                ) [CondFactWithRelop]
+                                                                NoCondTermAfter(
+                                                                ) [NoCondTermAfter]
+                                                              ) [CondTermDecl]
+                                                              NoConditionAfter(
+                                                              ) [NoConditionAfter]
+                                                            ) [ConditionDecl]
+                                                            SingleStatementNoLabel(
+                                                              BreakStatement(
+                                                              ) [BreakStatement]
+                                                            ) [SingleStatementNoLabel]
+                                                          ) [IfThenStatement]
+                                                        ) [SingleStatementNoLabel]
+                                                      ) [StatListDecl]
+                                                      SingleStatementNoLabel(
+                                                        SingleStatementDesignator(
+                                                          DesignatorStatementFirst(
+                                                            DesignatorDecl(
+                                                              DesignatorName(
+                                                               i
+                                                              ) [DesignatorName]
+                                                              NoDesignatorList(
+                                                              ) [NoDesignatorList]
+                                                            ) [DesignatorDecl]
+                                                            AssignopExpr(
+                                                              AssignopDecl(
+                                                              ) [AssignopDecl]
+                                                              DontHaveMinusExpr(
+                                                                Term(
+                                                                  FactorDesignatorParam(
+                                                                    DesignatorDecl(
+                                                                      DesignatorName(
+                                                                       inkrement
+                                                                      ) [DesignatorName]
+                                                                      NoDesignatorList(
+                                                                      ) [NoDesignatorList]
+                                                                    ) [DesignatorDecl]
+                                                                    AfterFactorDesigWithActPars(
+                                                                      AfterParsWithList(
+                                                                        DontHaveMinusExpr(
+                                                                          Term(
+                                                                            FactorDesignatorNoParam(
+                                                                              DesignatorDecl(
+                                                                                DesignatorName(
+                                                                                 i
+                                                                                ) [DesignatorName]
+                                                                                NoDesignatorList(
+                                                                                ) [NoDesignatorList]
+                                                                              ) [DesignatorDecl]
+                                                                            ) [FactorDesignatorNoParam]
+                                                                            NoTermAfterFactor(
+                                                                            ) [NoTermAfterFactor]
+                                                                          ) [Term]
+                                                                          NoExprAfterTerm(
+                                                                          ) [NoExprAfterTerm]
+                                                                        ) [DontHaveMinusExpr]
+                                                                        WithAfterParsExprList(
+                                                                          NoAfterParsExpr(
+                                                                          ) [NoAfterParsExpr]
+                                                                          AfterParsExprSingle(
+                                                                            DontHaveMinusExpr(
+                                                                              Term(
+                                                                                FactorNumConst(
+                                                                                 1
+                                                                                ) [FactorNumConst]
+                                                                                NoTermAfterFactor(
+                                                                                ) [NoTermAfterFactor]
+                                                                              ) [Term]
+                                                                              NoExprAfterTerm(
+                                                                              ) [NoExprAfterTerm]
+                                                                            ) [DontHaveMinusExpr]
+                                                                          ) [AfterParsExprSingle]
+                                                                        ) [WithAfterParsExprList]
+                                                                      ) [AfterParsWithList]
+                                                                    ) [AfterFactorDesigWithActPars]
+                                                                  ) [FactorDesignatorParam]
+                                                                  NoTermAfterFactor(
+                                                                  ) [NoTermAfterFactor]
+                                                                ) [Term]
+                                                                NoExprAfterTerm(
+                                                                ) [NoExprAfterTerm]
+                                                              ) [DontHaveMinusExpr]
+                                                            ) [AssignopExpr]
+                                                          ) [DesignatorStatementFirst]
+                                                        ) [SingleStatementDesignator]
+                                                      ) [SingleStatementNoLabel]
+                                                    ) [StatListDecl]
+                                                  ) [StatementListDeclaration]
+                                                ) [StatementLis]
+                                                ConditionDecl(
+                                                  CondTermDecl(
+                                                    CondFactWithRelop(
+                                                      DontHaveMinusExpr(
+                                                        Term(
+                                                          FactorDesignatorNoParam(
+                                                            DesignatorDecl(
+                                                              DesignatorName(
+                                                               i
+                                                              ) [DesignatorName]
+                                                              NoDesignatorList(
+                                                              ) [NoDesignatorList]
+                                                            ) [DesignatorDecl]
+                                                          ) [FactorDesignatorNoParam]
+                                                          NoTermAfterFactor(
+                                                          ) [NoTermAfterFactor]
+                                                        ) [Term]
+                                                        NoExprAfterTerm(
+                                                        ) [NoExprAfterTerm]
+                                                      ) [DontHaveMinusExpr]
+                                                      RelopLessThan(
+                                                      ) [RelopLessThan]
+                                                      DontHaveMinusExpr(
+                                                        Term(
+                                                          FactorNumConst(
+                                                           10
+                                                          ) [FactorNumConst]
+                                                          NoTermAfterFactor(
+                                                          ) [NoTermAfterFactor]
+                                                        ) [Term]
+                                                        NoExprAfterTerm(
+                                                        ) [NoExprAfterTerm]
+                                                      ) [DontHaveMinusExpr]
+                                                    ) [CondFactWithRelop]
+                                                    NoCondTermAfter(
+                                                    ) [NoCondTermAfter]
+                                                  ) [CondTermDecl]
+                                                  NoConditionAfter(
+                                                  ) [NoConditionAfter]
+                                                ) [ConditionDecl]
+                                              ) [DoWhileStatement]
+                                            ) [SingleStatementNoLabel]
+                                          ) [StatListDecl]
+                                          SingleStatementNoLabel(
+                                            IfThenElseStatement(
+                                              ConditionDecl(
+                                                CondTermDecl(
+                                                  CondFactWithRelop(
+                                                    DontHaveMinusExpr(
+                                                      Term(
+                                                        FactorDesignatorNoParam(
+                                                          DesignatorDecl(
+                                                            DesignatorName(
+                                                             i
+                                                            ) [DesignatorName]
+                                                            NoDesignatorList(
+                                                            ) [NoDesignatorList]
+                                                          ) [DesignatorDecl]
+                                                        ) [FactorDesignatorNoParam]
+                                                        NoTermAfterFactor(
+                                                        ) [NoTermAfterFactor]
+                                                      ) [Term]
+                                                      NoExprAfterTerm(
+                                                      ) [NoExprAfterTerm]
+                                                    ) [DontHaveMinusExpr]
+                                                    RelopEquals(
+                                                    ) [RelopEquals]
+                                                    DontHaveMinusExpr(
+                                                      Term(
+                                                        FactorNumConst(
+                                                         3
+                                                        ) [FactorNumConst]
+                                                        NoTermAfterFactor(
+                                                        ) [NoTermAfterFactor]
+                                                      ) [Term]
+                                                      NoExprAfterTerm(
+                                                      ) [NoExprAfterTerm]
+                                                    ) [DontHaveMinusExpr]
+                                                  ) [CondFactWithRelop]
+                                                  CondTermAfterList(
+                                                    NoCondTermAfter(
+                                                    ) [NoCondTermAfter]
+                                                    CondTermAfterSingleDecl(
+                                                      CondFactWithoutRelop(
+                                                        DontHaveMinusExpr(
+                                                          Term(
+                                                            FactorDesignatorParam(
+                                                              DesignatorDecl(
+                                                                DesignatorName(
+                                                                 verify
+                                                                ) [DesignatorName]
+                                                                NoDesignatorList(
+                                                                ) [NoDesignatorList]
+                                                              ) [DesignatorDecl]
+                                                              NoAfterFactorDesigActPars(
+                                                              ) [NoAfterFactorDesigActPars]
+                                                            ) [FactorDesignatorParam]
+                                                            NoTermAfterFactor(
+                                                            ) [NoTermAfterFactor]
+                                                          ) [Term]
+                                                          NoExprAfterTerm(
+                                                          ) [NoExprAfterTerm]
+                                                        ) [DontHaveMinusExpr]
+                                                      ) [CondFactWithoutRelop]
+                                                    ) [CondTermAfterSingleDecl]
+                                                  ) [CondTermAfterList]
+                                                ) [CondTermDecl]
+                                                NoConditionAfter(
+                                                ) [NoConditionAfter]
+                                              ) [ConditionDecl]
+                                              SingleStatementNoLabel(
+                                                PrintStatement(
+                                                  HaveMinusExpr(
+                                                    Term(
+                                                      FactorNumConst(
+                                                       4
+                                                      ) [FactorNumConst]
+                                                      NoTermAfterFactor(
+                                                      ) [NoTermAfterFactor]
+                                                    ) [Term]
+                                                    NoExprAfterTerm(
+                                                    ) [NoExprAfterTerm]
+                                                  ) [HaveMinusExpr]
+                                                  NoExprForPrint(
+                                                  ) [NoExprForPrint]
+                                                ) [PrintStatement]
+                                              ) [SingleStatementNoLabel]
+                                              SingleStatementNoLabel(
+                                                PrintStatement(
+                                                  DontHaveMinusExpr(
+                                                    Term(
+                                                      FactorNumConst(
+                                                       4
+                                                      ) [FactorNumConst]
+                                                      NoTermAfterFactor(
+                                                      ) [NoTermAfterFactor]
+                                                    ) [Term]
+                                                    NoExprAfterTerm(
+                                                    ) [NoExprAfterTerm]
+                                                  ) [DontHaveMinusExpr]
+                                                  NoExprForPrint(
+                                                  ) [NoExprForPrint]
+                                                ) [PrintStatement]
+                                              ) [SingleStatementNoLabel]
+                                            ) [IfThenElseStatement]
+                                          ) [SingleStatementNoLabel]
+                                        ) [StatListDecl]
+                                        SingleStatementNoLabel(
+                                          ReadStatement(
+                                            DesignatorDecl(
+                                              DesignatorName(
+                                               niz
+                                              ) [DesignatorName]
+                                              DesignatorListDecl(
+                                                NoDesignatorList(
+                                                ) [NoDesignatorList]
+                                                DesignListElemSingleSecond(
+                                                  DontHaveMinusExpr(
+                                                    Term(
+                                                      FactorNumConst(
+                                                       0
+                                                      ) [FactorNumConst]
+                                                      NoTermAfterFactor(
+                                                      ) [NoTermAfterFactor]
+                                                    ) [Term]
+                                                    NoExprAfterTerm(
+                                                    ) [NoExprAfterTerm]
+                                                  ) [DontHaveMinusExpr]
+                                                ) [DesignListElemSingleSecond]
+                                              ) [DesignatorListDecl]
+                                            ) [DesignatorDecl]
+                                          ) [ReadStatement]
+                                        ) [SingleStatementNoLabel]
+                                      ) [StatListDecl]
+                                      SingleStatementNoLabel(
+                                        ReadStatement(
+                                          DesignatorDecl(
+                                            DesignatorName(
+                                             niz
+                                            ) [DesignatorName]
+                                            DesignatorListDecl(
+                                              NoDesignatorList(
+                                              ) [NoDesignatorList]
+                                              DesignListElemSingleSecond(
+                                                DontHaveMinusExpr(
+                                                  Term(
+                                                    FactorNumConst(
+                                                     1
+                                                    ) [FactorNumConst]
+                                                    NoTermAfterFactor(
+                                                    ) [NoTermAfterFactor]
+                                                  ) [Term]
+                                                  NoExprAfterTerm(
+                                                  ) [NoExprAfterTerm]
+                                                ) [DontHaveMinusExpr]
+                                              ) [DesignListElemSingleSecond]
+                                            ) [DesignatorListDecl]
+                                          ) [DesignatorDecl]
+                                        ) [ReadStatement]
+                                      ) [SingleStatementNoLabel]
+                                    ) [StatListDecl]
+                                    SingleStatementNoLabel(
+                                      ReadStatement(
+                                        DesignatorDecl(
+                                          DesignatorName(
+                                           niz
+                                          ) [DesignatorName]
+                                          DesignatorListDecl(
+                                            NoDesignatorList(
+                                            ) [NoDesignatorList]
+                                            DesignListElemSingleSecond(
+                                              DontHaveMinusExpr(
+                                                Term(
+                                                  FactorNumConst(
+                                                   2
+                                                  ) [FactorNumConst]
+                                                  NoTermAfterFactor(
+                                                  ) [NoTermAfterFactor]
+                                                ) [Term]
+                                                NoExprAfterTerm(
+                                                ) [NoExprAfterTerm]
+                                              ) [DontHaveMinusExpr]
+                                            ) [DesignListElemSingleSecond]
+                                          ) [DesignatorListDecl]
+                                        ) [DesignatorDecl]
+                                      ) [ReadStatement]
+                                    ) [SingleStatementNoLabel]
+                                  ) [StatListDecl]
+                                  SingleStatementNoLabel(
+                                    PrintStatement(
+                                      DontHaveMinusExpr(
+                                        Term(
+                                          FactorDesignatorNoParam(
+                                            DesignatorDecl(
+                                              DesignatorName(
+                                               eol
+                                              ) [DesignatorName]
+                                              NoDesignatorList(
+                                              ) [NoDesignatorList]
+                                            ) [DesignatorDecl]
+                                          ) [FactorDesignatorNoParam]
+                                          NoTermAfterFactor(
+                                          ) [NoTermAfterFactor]
+                                        ) [Term]
+                                        NoExprAfterTerm(
+                                        ) [NoExprAfterTerm]
+                                      ) [DontHaveMinusExpr]
+                                      NoExprForPrint(
+                                      ) [NoExprForPrint]
+                                    ) [PrintStatement]
+                                  ) [SingleStatementNoLabel]
+                                ) [StatListDecl]
+                                SingleStatementNoLabel(
+                                  PrintStatement(
+                                    DontHaveMinusExpr(
+                                      Term(
+                                        FactorDesignatorParam(
+                                          DesignatorDecl(
+                                            DesignatorName(
+                                             sum
+                                            ) [DesignatorName]
+                                            NoDesignatorList(
+                                            ) [NoDesignatorList]
+                                          ) [DesignatorDecl]
+                                          AfterFactorDesigWithActPars(
+                                            AfterParsWithList(
+                                              DontHaveMinusExpr(
+                                                Term(
+                                                  FactorDesignatorParam(
+                                                    DesignatorDecl(
+                                                      DesignatorName(
+                                                       sum
+                                                      ) [DesignatorName]
+                                                      NoDesignatorList(
+                                                      ) [NoDesignatorList]
+                                                    ) [DesignatorDecl]
+                                                    AfterFactorDesigWithActPars(
+                                                      AfterParsWithList(
+                                                        DontHaveMinusExpr(
+                                                          Term(
+                                                            FactorDesignatorNoParam(
+                                                              DesignatorDecl(
+                                                                DesignatorName(
+                                                                 niz
+                                                                ) [DesignatorName]
+                                                                DesignatorListDecl(
+                                                                  NoDesignatorList(
+                                                                  ) [NoDesignatorList]
+                                                                  DesignListElemSingleSecond(
+                                                                    DontHaveMinusExpr(
+                                                                      Term(
+                                                                        FactorNumConst(
+                                                                         0
+                                                                        ) [FactorNumConst]
+                                                                        NoTermAfterFactor(
+                                                                        ) [NoTermAfterFactor]
+                                                                      ) [Term]
+                                                                      NoExprAfterTerm(
+                                                                      ) [NoExprAfterTerm]
+                                                                    ) [DontHaveMinusExpr]
+                                                                  ) [DesignListElemSingleSecond]
+                                                                ) [DesignatorListDecl]
+                                                              ) [DesignatorDecl]
+                                                            ) [FactorDesignatorNoParam]
+                                                            NoTermAfterFactor(
+                                                            ) [NoTermAfterFactor]
+                                                          ) [Term]
+                                                          NoExprAfterTerm(
+                                                          ) [NoExprAfterTerm]
+                                                        ) [DontHaveMinusExpr]
+                                                        WithAfterParsExprList(
+                                                          NoAfterParsExpr(
+                                                          ) [NoAfterParsExpr]
+                                                          AfterParsExprSingle(
+                                                            DontHaveMinusExpr(
+                                                              Term(
+                                                                FactorDesignatorNoParam(
+                                                                  DesignatorDecl(
+                                                                    DesignatorName(
+                                                                     niz
+                                                                    ) [DesignatorName]
+                                                                    DesignatorListDecl(
+                                                                      NoDesignatorList(
+                                                                      ) [NoDesignatorList]
+                                                                      DesignListElemSingleSecond(
+                                                                        DontHaveMinusExpr(
+                                                                          Term(
+                                                                            FactorNumConst(
+                                                                             1
+                                                                            ) [FactorNumConst]
+                                                                            NoTermAfterFactor(
+                                                                            ) [NoTermAfterFactor]
+                                                                          ) [Term]
+                                                                          NoExprAfterTerm(
+                                                                          ) [NoExprAfterTerm]
+                                                                        ) [DontHaveMinusExpr]
+                                                                      ) [DesignListElemSingleSecond]
+                                                                    ) [DesignatorListDecl]
+                                                                  ) [DesignatorDecl]
+                                                                ) [FactorDesignatorNoParam]
+                                                                NoTermAfterFactor(
+                                                                ) [NoTermAfterFactor]
+                                                              ) [Term]
+                                                              NoExprAfterTerm(
+                                                              ) [NoExprAfterTerm]
+                                                            ) [DontHaveMinusExpr]
+                                                          ) [AfterParsExprSingle]
+                                                        ) [WithAfterParsExprList]
+                                                      ) [AfterParsWithList]
+                                                    ) [AfterFactorDesigWithActPars]
+                                                  ) [FactorDesignatorParam]
+                                                  NoTermAfterFactor(
+                                                  ) [NoTermAfterFactor]
+                                                ) [Term]
+                                                NoExprAfterTerm(
+                                                ) [NoExprAfterTerm]
+                                              ) [DontHaveMinusExpr]
+                                              WithAfterParsExprList(
+                                                NoAfterParsExpr(
+                                                ) [NoAfterParsExpr]
+                                                AfterParsExprSingle(
+                                                  DontHaveMinusExpr(
+                                                    Term(
+                                                      FactorDesignatorNoParam(
+                                                        DesignatorDecl(
+                                                          DesignatorName(
+                                                           niz
+                                                          ) [DesignatorName]
+                                                          DesignatorListDecl(
+                                                            NoDesignatorList(
+                                                            ) [NoDesignatorList]
+                                                            DesignListElemSingleSecond(
+                                                              DontHaveMinusExpr(
+                                                                Term(
+                                                                  FactorNumConst(
+                                                                   2
+                                                                  ) [FactorNumConst]
+                                                                  NoTermAfterFactor(
+                                                                  ) [NoTermAfterFactor]
+                                                                ) [Term]
+                                                                NoExprAfterTerm(
+                                                                ) [NoExprAfterTerm]
+                                                              ) [DontHaveMinusExpr]
+                                                            ) [DesignListElemSingleSecond]
+                                                          ) [DesignatorListDecl]
+                                                        ) [DesignatorDecl]
+                                                      ) [FactorDesignatorNoParam]
+                                                      NoTermAfterFactor(
+                                                      ) [NoTermAfterFactor]
+                                                    ) [Term]
+                                                    NoExprAfterTerm(
+                                                    ) [NoExprAfterTerm]
+                                                  ) [DontHaveMinusExpr]
+                                                ) [AfterParsExprSingle]
+                                              ) [WithAfterParsExprList]
+                                            ) [AfterParsWithList]
+                                          ) [AfterFactorDesigWithActPars]
+                                        ) [FactorDesignatorParam]
+                                        NoTermAfterFactor(
+                                        ) [NoTermAfterFactor]
+                                      ) [Term]
+                                      NoExprAfterTerm(
+                                      ) [NoExprAfterTerm]
+                                    ) [DontHaveMinusExpr]
+                                    NoExprForPrint(
+                                    ) [NoExprForPrint]
+                                  ) [PrintStatement]
+                                ) [SingleStatementNoLabel]
+                              ) [StatListDecl]
+                              SingleStatementNoLabel(
+                                PrintStatement(
+                                  DontHaveMinusExpr(
+                                    Term(
+                                      FactorDesignatorNoParam(
+                                        DesignatorDecl(
+                                          DesignatorName(
+                                           eol
+                                          ) [DesignatorName]
+                                          NoDesignatorList(
+                                          ) [NoDesignatorList]
+                                        ) [DesignatorDecl]
+                                      ) [FactorDesignatorNoParam]
+                                      NoTermAfterFactor(
+                                      ) [NoTermAfterFactor]
+                                    ) [Term]
+                                    NoExprAfterTerm(
+                                    ) [NoExprAfterTerm]
+                                  ) [DontHaveMinusExpr]
+                                  NoExprForPrint(
+                                  ) [NoExprForPrint]
+                                ) [PrintStatement]
+                              ) [SingleStatementNoLabel]
+                            ) [StatListDecl]
+                            SingleStatementNoLabel(
+                              PrintStatement(
+                                DontHaveMinusExpr(
+                                  Term(
+                                    FactorDesignatorParam(
+                                      DesignatorDecl(
+                                        DesignatorName(
+                                         inkrement
+                                        ) [DesignatorName]
+                                        NoDesignatorList(
+                                        ) [NoDesignatorList]
+                                      ) [DesignatorDecl]
+                                      AfterFactorDesigWithActPars(
+                                        AfterParsWithList(
+                                          DontHaveMinusExpr(
+                                            Term(
+                                              FactorDesignatorNoParam(
+                                                DesignatorDecl(
+                                                  DesignatorName(
+                                                   niz
+                                                  ) [DesignatorName]
+                                                  DesignatorListDecl(
+                                                    NoDesignatorList(
+                                                    ) [NoDesignatorList]
+                                                    DesignListElemSingleSecond(
+                                                      DontHaveMinusExpr(
+                                                        Term(
+                                                          FactorNumConst(
+                                                           2
+                                                          ) [FactorNumConst]
+                                                          NoTermAfterFactor(
+                                                          ) [NoTermAfterFactor]
+                                                        ) [Term]
+                                                        NoExprAfterTerm(
+                                                        ) [NoExprAfterTerm]
+                                                      ) [DontHaveMinusExpr]
+                                                    ) [DesignListElemSingleSecond]
+                                                  ) [DesignatorListDecl]
+                                                ) [DesignatorDecl]
+                                              ) [FactorDesignatorNoParam]
+                                              NoTermAfterFactor(
+                                              ) [NoTermAfterFactor]
+                                            ) [Term]
+                                            NoExprAfterTerm(
+                                            ) [NoExprAfterTerm]
+                                          ) [DontHaveMinusExpr]
+                                          WithAfterParsExprList(
+                                            NoAfterParsExpr(
+                                            ) [NoAfterParsExpr]
+                                            AfterParsExprSingle(
+                                              DontHaveMinusExpr(
+                                                Term(
+                                                  FactorNumConst(
+                                                   2
+                                                  ) [FactorNumConst]
+                                                  NoTermAfterFactor(
+                                                  ) [NoTermAfterFactor]
+                                                ) [Term]
+                                                NoExprAfterTerm(
+                                                ) [NoExprAfterTerm]
+                                              ) [DontHaveMinusExpr]
+                                            ) [AfterParsExprSingle]
+                                          ) [WithAfterParsExprList]
+                                        ) [AfterParsWithList]
+                                      ) [AfterFactorDesigWithActPars]
+                                    ) [FactorDesignatorParam]
+                                    NoTermAfterFactor(
+                                    ) [NoTermAfterFactor]
+                                  ) [Term]
+                                  NoExprAfterTerm(
+                                  ) [NoExprAfterTerm]
+                                ) [DontHaveMinusExpr]
+                                NoExprForPrint(
+                                ) [NoExprForPrint]
+                              ) [PrintStatement]
+                            ) [SingleStatementNoLabel]
+                          ) [StatListDecl]
+                          SingleStatementNoLabel(
+                            SingleStatementDesignator(
+                              DesignatorStatementFirst(
+                                DesignatorDecl(
+                                  DesignatorName(
+                                   niz1
+                                  ) [DesignatorName]
+                                  NoDesignatorList(
+                                  ) [NoDesignatorList]
+                                ) [DesignatorDecl]
+                                AssignopExpr(
+                                  AssignopDecl(
+                                  ) [AssignopDecl]
+                                  DontHaveMinusExpr(
+                                    Term(
+                                      FactorDesignatorNoParam(
+                                        DesignatorDecl(
+                                          DesignatorName(
+                                           niz
+                                          ) [DesignatorName]
+                                          NoDesignatorList(
+                                          ) [NoDesignatorList]
+                                        ) [DesignatorDecl]
+                                      ) [FactorDesignatorNoParam]
+                                      TermAfterFactorList(
+                                        NoTermAfterFactor(
+                                        ) [NoTermAfterFactor]
+                                        TermAfterFactorSingle(
+                                          MulopMultiply(
+                                          ) [MulopMultiply]
+                                          FactorNumConst(
+                                           2
+                                          ) [FactorNumConst]
+                                        ) [TermAfterFactorSingle]
+                                      ) [TermAfterFactorList]
+                                    ) [Term]
+                                    NoExprAfterTerm(
+                                    ) [NoExprAfterTerm]
+                                  ) [DontHaveMinusExpr]
+                                ) [AssignopExpr]
+                              ) [DesignatorStatementFirst]
+                            ) [SingleStatementDesignator]
+                          ) [SingleStatementNoLabel]
+                        ) [StatListDecl]
+                        SingleStatementNoLabel(
+                          PrintStatement(
+                            DontHaveMinusExpr(
+                              Term(
+                                FactorDesignatorNoParam(
+                                  DesignatorDecl(
+                                    DesignatorName(
+                                     niz1
+                                    ) [DesignatorName]
+                                    DesignatorListDecl(
+                                      NoDesignatorList(
+                                      ) [NoDesignatorList]
+                                      DesignListElemSingleSecond(
+                                        DontHaveMinusExpr(
+                                          Term(
+                                            FactorNumConst(
+                                             0
+                                            ) [FactorNumConst]
+                                            NoTermAfterFactor(
+                                            ) [NoTermAfterFactor]
+                                          ) [Term]
+                                          NoExprAfterTerm(
+                                          ) [NoExprAfterTerm]
+                                        ) [DontHaveMinusExpr]
+                                      ) [DesignListElemSingleSecond]
+                                    ) [DesignatorListDecl]
+                                  ) [DesignatorDecl]
+                                ) [FactorDesignatorNoParam]
+                                NoTermAfterFactor(
+                                ) [NoTermAfterFactor]
+                              ) [Term]
+                              NoExprAfterTerm(
+                              ) [NoExprAfterTerm]
+                            ) [DontHaveMinusExpr]
+                            NoExprForPrint(
+                            ) [NoExprForPrint]
+                          ) [PrintStatement]
+                        ) [SingleStatementNoLabel]
+                      ) [StatListDecl]
+                      SingleStatementNoLabel(
+                        PrintStatement(
+                          DontHaveMinusExpr(
+                            Term(
+                              FactorDesignatorNoParam(
+                                DesignatorDecl(
+                                  DesignatorName(
+                                   niz1
+                                  ) [DesignatorName]
+                                  DesignatorListDecl(
+                                    NoDesignatorList(
+                                    ) [NoDesignatorList]
+                                    DesignListElemSingleSecond(
+                                      DontHaveMinusExpr(
+                                        Term(
+                                          FactorNumConst(
+                                           1
+                                          ) [FactorNumConst]
+                                          NoTermAfterFactor(
+                                          ) [NoTermAfterFactor]
+                                        ) [Term]
+                                        NoExprAfterTerm(
+                                        ) [NoExprAfterTerm]
+                                      ) [DontHaveMinusExpr]
+                                    ) [DesignListElemSingleSecond]
+                                  ) [DesignatorListDecl]
+                                ) [DesignatorDecl]
+                              ) [FactorDesignatorNoParam]
+                              NoTermAfterFactor(
+                              ) [NoTermAfterFactor]
+                            ) [Term]
+                            NoExprAfterTerm(
+                            ) [NoExprAfterTerm]
+                          ) [DontHaveMinusExpr]
+                          NoExprForPrint(
+                          ) [NoExprForPrint]
+                        ) [PrintStatement]
+                      ) [SingleStatementNoLabel]
+                    ) [StatListDecl]
+                    SingleStatementNoLabel(
+                      PrintStatement(
+                        DontHaveMinusExpr(
+                          Term(
+                            FactorDesignatorNoParam(
+                              DesignatorDecl(
+                                DesignatorName(
+                                 niz1
+                                ) [DesignatorName]
+                                DesignatorListDecl(
+                                  NoDesignatorList(
+                                  ) [NoDesignatorList]
+                                  DesignListElemSingleSecond(
+                                    DontHaveMinusExpr(
+                                      Term(
+                                        FactorNumConst(
+                                         2
+                                        ) [FactorNumConst]
+                                        NoTermAfterFactor(
+                                        ) [NoTermAfterFactor]
+                                      ) [Term]
+                                      NoExprAfterTerm(
+                                      ) [NoExprAfterTerm]
+                                    ) [DontHaveMinusExpr]
+                                  ) [DesignListElemSingleSecond]
+                                ) [DesignatorListDecl]
+                              ) [DesignatorDecl]
+                            ) [FactorDesignatorNoParam]
+                            NoTermAfterFactor(
+                            ) [NoTermAfterFactor]
+                          ) [Term]
+                          NoExprAfterTerm(
+                          ) [NoExprAfterTerm]
+                        ) [DontHaveMinusExpr]
+                        NoExprForPrint(
+                        ) [NoExprForPrint]
+                      ) [PrintStatement]
+                    ) [SingleStatementNoLabel]
+                  ) [StatListDecl]
+                  SingleStatementNoLabel(
+                    PrintStatement(
+                      DontHaveMinusExpr(
+                        Term(
+                          FactorDesignatorNoParam(
+                            DesignatorDecl(
+                              DesignatorName(
+                               eol
+                              ) [DesignatorName]
+                              NoDesignatorList(
+                              ) [NoDesignatorList]
+                            ) [DesignatorDecl]
+                          ) [FactorDesignatorNoParam]
+                          NoTermAfterFactor(
+                          ) [NoTermAfterFactor]
+                        ) [Term]
+                        NoExprAfterTerm(
+                        ) [NoExprAfterTerm]
+                      ) [DontHaveMinusExpr]
+                      NoExprForPrint(
+                      ) [NoExprForPrint]
+                    ) [PrintStatement]
+                  ) [SingleStatementNoLabel]
+                ) [StatListDecl]
+                SingleStatementNoLabel(
+                  SingleStatementDesignator(
+                    DesignatorStatementFirst(
+                      DesignatorDecl(
+                        DesignatorName(
+                         niz2
+                        ) [DesignatorName]
+                        NoDesignatorList(
+                        ) [NoDesignatorList]
+                      ) [DesignatorDecl]
+                      AssignopExpr(
+                        AssignopDecl(
+                        ) [AssignopDecl]
+                        DontHaveMinusExpr(
+                          Term(
+                            FactorDesignatorNoParam(
+                              DesignatorDecl(
+                                DesignatorName(
+                                 niz
+                                ) [DesignatorName]
+                                NoDesignatorList(
+                                ) [NoDesignatorList]
+                              ) [DesignatorDecl]
+                            ) [FactorDesignatorNoParam]
+                            TermAfterFactorList(
+                              NoTermAfterFactor(
+                              ) [NoTermAfterFactor]
+                              TermAfterFactorSingle(
+                                MulopMultiply(
+                                ) [MulopMultiply]
+                                FactorDesignatorNoParam(
+                                  DesignatorDecl(
+                                    DesignatorName(
+                                     niz1
+                                    ) [DesignatorName]
+                                    NoDesignatorList(
+                                    ) [NoDesignatorList]
+                                  ) [DesignatorDecl]
+                                ) [FactorDesignatorNoParam]
+                              ) [TermAfterFactorSingle]
+                            ) [TermAfterFactorList]
+                          ) [Term]
+                          NoExprAfterTerm(
+                          ) [NoExprAfterTerm]
+                        ) [DontHaveMinusExpr]
+                      ) [AssignopExpr]
+                    ) [DesignatorStatementFirst]
+                  ) [SingleStatementDesignator]
+                ) [SingleStatementNoLabel]
+              ) [StatListDecl]
+              SingleStatementNoLabel(
+                PrintStatement(
+                  DontHaveMinusExpr(
+                    Term(
+                      FactorDesignatorNoParam(
+                        DesignatorDecl(
+                          DesignatorName(
+                           niz2
+                          ) [DesignatorName]
+                          NoDesignatorList(
+                          ) [NoDesignatorList]
+                        ) [DesignatorDecl]
+                      ) [FactorDesignatorNoParam]
+                      NoTermAfterFactor(
+                      ) [NoTermAfterFactor]
+                    ) [Term]
+                    NoExprAfterTerm(
+                    ) [NoExprAfterTerm]
+                  ) [DontHaveMinusExpr]
+                  NoExprForPrint(
+                  ) [NoExprForPrint]
+                ) [PrintStatement]
+              ) [SingleStatementNoLabel]
+            ) [StatListDecl]
+            SingleStatementNoLabel(
+              PrintStatement(
+                DontHaveMinusExpr(
+                  Term(
+                    FactorDesignatorNoParam(
+                      DesignatorDecl(
+                        DesignatorName(
+                         eol
+                        ) [DesignatorName]
+                        NoDesignatorList(
+                        ) [NoDesignatorList]
+                      ) [DesignatorDecl]
+                    ) [FactorDesignatorNoParam]
+                    NoTermAfterFactor(
+                    ) [NoTermAfterFactor]
+                  ) [Term]
+                  NoExprAfterTerm(
+                  ) [NoExprAfterTerm]
+                ) [DontHaveMinusExpr]
+                NoExprForPrint(
+                ) [NoExprForPrint]
+              ) [PrintStatement]
+            ) [SingleStatementNoLabel]
+          ) [StatListDecl]
+        ) [MethodAfterParentheses]
+      ) [MethodAfterTypeWithoutFormPars]
+    ) [MethodDeclarationsVoid]
+  ) [MethodDeclarationsList]
+) [Program]
+INFO  14:22:18,095 - ===================================
+INFO  14:22:18,099 - ===================================
+INFO  14:22:18,099 - Parsiranje uspesno zavrseno!

@@ -1,0 +1,972 @@
+INFO  23:34:42,620 - Compiling source file: C:\pp\workspace\MJCompiler\test\program2.mj
+INFO  23:34:42,689 - #2 program
+INFO  23:34:42,689 - #3 MJProgram
+INFO  23:34:42,690 - #4 {
+INFO  23:34:42,691 - #16 void
+INFO  23:34:42,693 - #3 main
+INFO  23:34:42,694 - #12 (
+INFO  23:34:42,695 - #9 )
+INFO  23:34:42,695 - #3 int
+INFO  23:34:42,696 - #3 x
+INFO  23:34:42,697 - #25 ;
+INFO  23:34:42,697 - #4 {
+INFO  23:34:42,698 - #3 x
+INFO  23:34:42,698 - #47 =
+INFO  23:34:42,699 - #27 -
+INFO  23:34:42,700 - #32 3
+INFO  23:34:42,701 - #28 *
+INFO  23:34:42,701 - #12 (
+INFO  23:34:42,702 - #12 (
+INFO  23:34:42,703 - #27 -
+INFO  23:34:42,703 - #32 8
+INFO  23:34:42,703 - #31 +
+INFO  23:34:42,703 - #12 (
+INFO  23:34:42,704 - #12 (
+INFO  23:34:42,705 - #12 (
+INFO  23:34:42,705 - #32 2
+INFO  23:34:42,705 - #9 )
+INFO  23:34:42,706 - #9 )
+INFO  23:34:42,707 - #9 )
+INFO  23:34:42,707 - #28 *
+INFO  23:34:42,707 - #32 2
+INFO  23:34:42,708 - #27 -
+INFO  23:34:42,708 - #12 (
+INFO  23:34:42,709 - #12 (
+INFO  23:34:42,709 - #12 (
+INFO  23:34:42,709 - #32 3
+INFO  23:34:42,709 - #27 -
+INFO  23:34:42,709 - #32 1
+INFO  23:34:42,709 - #9 )
+INFO  23:34:42,710 - #28 *
+INFO  23:34:42,710 - #12 (
+INFO  23:34:42,710 - #32 2
+INFO  23:34:42,710 - #31 +
+INFO  23:34:42,710 - #12 (
+INFO  23:34:42,710 - #32 4
+INFO  23:34:42,710 - #28 *
+INFO  23:34:42,710 - #32 3
+INFO  23:34:42,710 - #31 +
+INFO  23:34:42,711 - #32 5
+INFO  23:34:42,711 - #28 *
+INFO  23:34:42,711 - #32 2
+INFO  23:34:42,711 - #9 )
+INFO  23:34:42,711 - #28 *
+INFO  23:34:42,711 - #12 (
+INFO  23:34:42,711 - #32 1
+INFO  23:34:42,711 - #31 +
+INFO  23:34:42,711 - #32 2
+INFO  23:34:42,711 - #9 )
+INFO  23:34:42,712 - #27 -
+INFO  23:34:42,712 - #12 (
+INFO  23:34:42,712 - #32 1
+INFO  23:34:42,712 - #28 *
+INFO  23:34:42,712 - #32 2
+INFO  23:34:42,712 - #9 )
+INFO  23:34:42,712 - #31 +
+INFO  23:34:42,712 - #32 4
+INFO  23:34:42,713 - #27 -
+INFO  23:34:42,713 - #32 3
+INFO  23:34:42,713 - #28 *
+INFO  23:34:42,713 - #32 10
+INFO  23:34:42,713 - #9 )
+INFO  23:34:42,713 - #9 )
+INFO  23:34:42,713 - #27 -
+INFO  23:34:42,713 - #12 (
+INFO  23:34:42,713 - #32 3
+INFO  23:34:42,713 - #28 *
+INFO  23:34:42,713 - #32 4
+INFO  23:34:42,713 - #28 *
+INFO  23:34:42,713 - #12 (
+INFO  23:34:42,713 - #27 -
+INFO  23:34:42,713 - #12 (
+INFO  23:34:42,714 - #32 2
+INFO  23:34:42,714 - #9 )
+INFO  23:34:42,714 - #9 )
+INFO  23:34:42,714 - #9 )
+INFO  23:34:42,714 - #27 -
+INFO  23:34:42,714 - #32 4
+INFO  23:34:42,714 - #9 )
+INFO  23:34:42,714 - #31 +
+INFO  23:34:42,714 - #12 (
+INFO  23:34:42,714 - #27 -
+INFO  23:34:42,714 - #32 4
+INFO  23:34:42,714 - #28 *
+INFO  23:34:42,715 - #12 (
+INFO  23:34:42,715 - #27 -
+INFO  23:34:42,715 - #32 1
+INFO  23:34:42,715 - #9 )
+INFO  23:34:42,715 - #9 )
+INFO  23:34:42,715 - #9 )
+INFO  23:34:42,715 - #28 *
+INFO  23:34:42,715 - #12 (
+INFO  23:34:42,715 - #27 -
+INFO  23:34:42,715 - #12 (
+INFO  23:34:42,716 - #32 2
+INFO  23:34:42,716 - #27 -
+INFO  23:34:42,716 - #12 (
+INFO  23:34:42,716 - #32 3
+INFO  23:34:42,716 - #28 *
+INFO  23:34:42,716 - #32 4
+INFO  23:34:42,716 - #9 )
+INFO  23:34:42,716 - #9 )
+INFO  23:34:42,716 - #9 )
+INFO  23:34:42,717 - #9 )
+INFO  23:34:42,717 - #29 /
+INFO  23:34:42,717 - #32 10
+INFO  23:34:42,718 - #27 -
+INFO  23:34:42,718 - #32 3
+INFO  23:34:42,718 - #28 *
+INFO  23:34:42,718 - #32 4
+INFO  23:34:42,718 - #30 %
+INFO  23:34:42,718 - #32 10
+INFO  23:34:42,719 - #31 +
+INFO  23:34:42,719 - #32 10
+INFO  23:34:42,719 - #31 +
+INFO  23:34:42,719 - #12 (
+INFO  23:34:42,719 - #27 -
+INFO  23:34:42,720 - #32 1
+INFO  23:34:42,720 - #28 *
+INFO  23:34:42,720 - #12 (
+INFO  23:34:42,720 - #32 2
+INFO  23:34:42,720 - #9 )
+INFO  23:34:42,720 - #28 *
+INFO  23:34:42,720 - #12 (
+INFO  23:34:42,720 - #32 50
+INFO  23:34:42,720 - #29 /
+INFO  23:34:42,720 - #32 5
+INFO  23:34:42,721 - #30 %
+INFO  23:34:42,721 - #32 6
+INFO  23:34:42,721 - #9 )
+INFO  23:34:42,721 - #31 +
+INFO  23:34:42,721 - #32 1
+INFO  23:34:42,721 - #9 )
+INFO  23:34:42,721 - #27 -
+INFO  23:34:42,721 - #32 1
+INFO  23:34:42,721 - #27 -
+INFO  23:34:42,721 - #32 3
+INFO  23:34:42,721 - #28 *
+INFO  23:34:42,722 - #32 4
+INFO  23:34:42,722 - #31 +
+INFO  23:34:42,722 - #12 (
+INFO  23:34:42,722 - #32 4
+INFO  23:34:42,722 - #28 *
+INFO  23:34:42,722 - #32 5
+INFO  23:34:42,722 - #9 )
+INFO  23:34:42,722 - #27 -
+INFO  23:34:42,722 - #12 (
+INFO  23:34:42,722 - #12 (
+INFO  23:34:42,722 - #12 (
+INFO  23:34:42,722 - #32 1
+INFO  23:34:42,722 - #9 )
+INFO  23:34:42,723 - #9 )
+INFO  23:34:42,723 - #9 )
+INFO  23:34:42,723 - #27 -
+INFO  23:34:42,723 - #12 (
+INFO  23:34:42,723 - #12 (
+INFO  23:34:42,723 - #32 7
+INFO  23:34:42,723 - #9 )
+INFO  23:34:42,723 - #9 )
+INFO  23:34:42,723 - #25 ;
+INFO  23:34:42,724 - #3 x
+INFO  23:34:42,724 - #47 =
+INFO  23:34:42,724 - #32 2
+INFO  23:34:42,725 - #25 ;
+INFO  23:34:42,725 - #5 }
+INFO  23:34:42,725 - #5 }
+INFO  23:34:42,738 - Program(
+  ProgName(
+   MJProgram
+  ) [ProgName]
+  NoDecl(
+  ) [NoDecl]
+  MethodDeclarationsList(
+    NoMethodDeclarations(
+    ) [NoMethodDeclarations]
+    MethodDeclaration(
+      MethodDeclarationsVoid(
+      ) [MethodDeclarationsVoid]
+      MethodName(
+       main
+      ) [MethodName]
+      MethodAfterTypeWithoutFormPars(
+      ) [MethodAfterTypeWithoutFormPars]
+      VarDeclarations(
+        NoVarDecl(
+        ) [NoVarDecl]
+        VarDeclDecl(
+          Type(
+           int
+          ) [Type]
+          VarNotHaveBracket(
+           x
+          ) [VarNotHaveBracket]
+          NoVarDeclList(
+          ) [NoVarDeclList]
+        ) [VarDeclDecl]
+      ) [VarDeclarations]
+      StatListDecl(
+        StatListDecl(
+          NoStatementList(
+          ) [NoStatementList]
+          SingleStatementNoLabel(
+            SingleStatementDesignator(
+              AssignopExpr(
+                CleanDesignator(
+                 x
+                ) [CleanDesignator]
+                AssignopDecl(
+                ) [AssignopDecl]
+                NegativeTerm(
+                  Neg(
+                  ) [Neg]
+                  TermList(
+                    TermList(
+                      TermList(
+                        TermList(
+                          TermList(
+                            TermList(
+                              TermList(
+                                TermList(
+                                  OneTerm(
+                                    TermStmt(
+                                      TermStmt(
+                                        TermStmtOnly(
+                                          FactorNumConst(
+                                           3
+                                          ) [FactorNumConst]
+                                        ) [TermStmtOnly]
+                                        MulopMultiply(
+                                        ) [MulopMultiply]
+                                        FactorExpr(
+                                          ParanthesesBegin(
+                                          ) [ParanthesesBegin]
+                                          AddOperationTerm(
+                                            OneTerm(
+                                              TermStmt(
+                                                TermStmtOnly(
+                                                  FactorExpr(
+                                                    ParanthesesBegin(
+                                                    ) [ParanthesesBegin]
+                                                    NegativeTerm(
+                                                      Neg(
+                                                      ) [Neg]
+                                                      TermList(
+                                                        TermList(
+                                                          TermList(
+                                                            OneTerm(
+                                                              TermStmtOnly(
+                                                                FactorNumConst(
+                                                                 8
+                                                                ) [FactorNumConst]
+                                                              ) [TermStmtOnly]
+                                                            ) [OneTerm]
+                                                            AddopPlus(
+                                                            ) [AddopPlus]
+                                                            TermStmt(
+                                                              TermStmtOnly(
+                                                                FactorExpr(
+                                                                  ParanthesesBegin(
+                                                                  ) [ParanthesesBegin]
+                                                                  AddOperationTerm(
+                                                                    OneTerm(
+                                                                      TermStmtOnly(
+                                                                        FactorExpr(
+                                                                          ParanthesesBegin(
+                                                                          ) [ParanthesesBegin]
+                                                                          AddOperationTerm(
+                                                                            OneTerm(
+                                                                              TermStmtOnly(
+                                                                                FactorExpr(
+                                                                                  ParanthesesBegin(
+                                                                                  ) [ParanthesesBegin]
+                                                                                  AddOperationTerm(
+                                                                                    OneTerm(
+                                                                                      TermStmtOnly(
+                                                                                        FactorNumConst(
+                                                                                         2
+                                                                                        ) [FactorNumConst]
+                                                                                      ) [TermStmtOnly]
+                                                                                    ) [OneTerm]
+                                                                                  ) [AddOperationTerm]
+                                                                                  ParanthesesEnd(
+                                                                                  ) [ParanthesesEnd]
+                                                                                ) [FactorExpr]
+                                                                              ) [TermStmtOnly]
+                                                                            ) [OneTerm]
+                                                                          ) [AddOperationTerm]
+                                                                          ParanthesesEnd(
+                                                                          ) [ParanthesesEnd]
+                                                                        ) [FactorExpr]
+                                                                      ) [TermStmtOnly]
+                                                                    ) [OneTerm]
+                                                                  ) [AddOperationTerm]
+                                                                  ParanthesesEnd(
+                                                                  ) [ParanthesesEnd]
+                                                                ) [FactorExpr]
+                                                              ) [TermStmtOnly]
+                                                              MulopMultiply(
+                                                              ) [MulopMultiply]
+                                                              FactorNumConst(
+                                                               2
+                                                              ) [FactorNumConst]
+                                                            ) [TermStmt]
+                                                          ) [TermList]
+                                                          AddopMinus(
+                                                          ) [AddopMinus]
+                                                          TermStmtOnly(
+                                                            FactorExpr(
+                                                              ParanthesesBegin(
+                                                              ) [ParanthesesBegin]
+                                                              AddOperationTerm(
+                                                                TermList(
+                                                                  TermList(
+                                                                    OneTerm(
+                                                                      TermStmtOnly(
+                                                                        FactorExpr(
+                                                                          ParanthesesBegin(
+                                                                          ) [ParanthesesBegin]
+                                                                          AddOperationTerm(
+                                                                            OneTerm(
+                                                                              TermStmt(
+                                                                                TermStmtOnly(
+                                                                                  FactorExpr(
+                                                                                    ParanthesesBegin(
+                                                                                    ) [ParanthesesBegin]
+                                                                                    AddOperationTerm(
+                                                                                      TermList(
+                                                                                        OneTerm(
+                                                                                          TermStmtOnly(
+                                                                                            FactorNumConst(
+                                                                                             3
+                                                                                            ) [FactorNumConst]
+                                                                                          ) [TermStmtOnly]
+                                                                                        ) [OneTerm]
+                                                                                        AddopMinus(
+                                                                                        ) [AddopMinus]
+                                                                                        TermStmtOnly(
+                                                                                          FactorNumConst(
+                                                                                           1
+                                                                                          ) [FactorNumConst]
+                                                                                        ) [TermStmtOnly]
+                                                                                      ) [TermList]
+                                                                                    ) [AddOperationTerm]
+                                                                                    ParanthesesEnd(
+                                                                                    ) [ParanthesesEnd]
+                                                                                  ) [FactorExpr]
+                                                                                ) [TermStmtOnly]
+                                                                                MulopMultiply(
+                                                                                ) [MulopMultiply]
+                                                                                FactorExpr(
+                                                                                  ParanthesesBegin(
+                                                                                  ) [ParanthesesBegin]
+                                                                                  AddOperationTerm(
+                                                                                    TermList(
+                                                                                      TermList(
+                                                                                        TermList(
+                                                                                          TermList(
+                                                                                            OneTerm(
+                                                                                              TermStmtOnly(
+                                                                                                FactorNumConst(
+                                                                                                 2
+                                                                                                ) [FactorNumConst]
+                                                                                              ) [TermStmtOnly]
+                                                                                            ) [OneTerm]
+                                                                                            AddopPlus(
+                                                                                            ) [AddopPlus]
+                                                                                            TermStmt(
+                                                                                              TermStmtOnly(
+                                                                                                FactorExpr(
+                                                                                                  ParanthesesBegin(
+                                                                                                  ) [ParanthesesBegin]
+                                                                                                  AddOperationTerm(
+                                                                                                    TermList(
+                                                                                                      OneTerm(
+                                                                                                        TermStmt(
+                                                                                                          TermStmtOnly(
+                                                                                                            FactorNumConst(
+                                                                                                             4
+                                                                                                            ) [FactorNumConst]
+                                                                                                          ) [TermStmtOnly]
+                                                                                                          MulopMultiply(
+                                                                                                          ) [MulopMultiply]
+                                                                                                          FactorNumConst(
+                                                                                                           3
+                                                                                                          ) [FactorNumConst]
+                                                                                                        ) [TermStmt]
+                                                                                                      ) [OneTerm]
+                                                                                                      AddopPlus(
+                                                                                                      ) [AddopPlus]
+                                                                                                      TermStmt(
+                                                                                                        TermStmtOnly(
+                                                                                                          FactorNumConst(
+                                                                                                           5
+                                                                                                          ) [FactorNumConst]
+                                                                                                        ) [TermStmtOnly]
+                                                                                                        MulopMultiply(
+                                                                                                        ) [MulopMultiply]
+                                                                                                        FactorNumConst(
+                                                                                                         2
+                                                                                                        ) [FactorNumConst]
+                                                                                                      ) [TermStmt]
+                                                                                                    ) [TermList]
+                                                                                                  ) [AddOperationTerm]
+                                                                                                  ParanthesesEnd(
+                                                                                                  ) [ParanthesesEnd]
+                                                                                                ) [FactorExpr]
+                                                                                              ) [TermStmtOnly]
+                                                                                              MulopMultiply(
+                                                                                              ) [MulopMultiply]
+                                                                                              FactorExpr(
+                                                                                                ParanthesesBegin(
+                                                                                                ) [ParanthesesBegin]
+                                                                                                AddOperationTerm(
+                                                                                                  TermList(
+                                                                                                    OneTerm(
+                                                                                                      TermStmtOnly(
+                                                                                                        FactorNumConst(
+                                                                                                         1
+                                                                                                        ) [FactorNumConst]
+                                                                                                      ) [TermStmtOnly]
+                                                                                                    ) [OneTerm]
+                                                                                                    AddopPlus(
+                                                                                                    ) [AddopPlus]
+                                                                                                    TermStmtOnly(
+                                                                                                      FactorNumConst(
+                                                                                                       2
+                                                                                                      ) [FactorNumConst]
+                                                                                                    ) [TermStmtOnly]
+                                                                                                  ) [TermList]
+                                                                                                ) [AddOperationTerm]
+                                                                                                ParanthesesEnd(
+                                                                                                ) [ParanthesesEnd]
+                                                                                              ) [FactorExpr]
+                                                                                            ) [TermStmt]
+                                                                                          ) [TermList]
+                                                                                          AddopMinus(
+                                                                                          ) [AddopMinus]
+                                                                                          TermStmtOnly(
+                                                                                            FactorExpr(
+                                                                                              ParanthesesBegin(
+                                                                                              ) [ParanthesesBegin]
+                                                                                              AddOperationTerm(
+                                                                                                OneTerm(
+                                                                                                  TermStmt(
+                                                                                                    TermStmtOnly(
+                                                                                                      FactorNumConst(
+                                                                                                       1
+                                                                                                      ) [FactorNumConst]
+                                                                                                    ) [TermStmtOnly]
+                                                                                                    MulopMultiply(
+                                                                                                    ) [MulopMultiply]
+                                                                                                    FactorNumConst(
+                                                                                                     2
+                                                                                                    ) [FactorNumConst]
+                                                                                                  ) [TermStmt]
+                                                                                                ) [OneTerm]
+                                                                                              ) [AddOperationTerm]
+                                                                                              ParanthesesEnd(
+                                                                                              ) [ParanthesesEnd]
+                                                                                            ) [FactorExpr]
+                                                                                          ) [TermStmtOnly]
+                                                                                        ) [TermList]
+                                                                                        AddopPlus(
+                                                                                        ) [AddopPlus]
+                                                                                        TermStmtOnly(
+                                                                                          FactorNumConst(
+                                                                                           4
+                                                                                          ) [FactorNumConst]
+                                                                                        ) [TermStmtOnly]
+                                                                                      ) [TermList]
+                                                                                      AddopMinus(
+                                                                                      ) [AddopMinus]
+                                                                                      TermStmt(
+                                                                                        TermStmtOnly(
+                                                                                          FactorNumConst(
+                                                                                           3
+                                                                                          ) [FactorNumConst]
+                                                                                        ) [TermStmtOnly]
+                                                                                        MulopMultiply(
+                                                                                        ) [MulopMultiply]
+                                                                                        FactorNumConst(
+                                                                                         10
+                                                                                        ) [FactorNumConst]
+                                                                                      ) [TermStmt]
+                                                                                    ) [TermList]
+                                                                                  ) [AddOperationTerm]
+                                                                                  ParanthesesEnd(
+                                                                                  ) [ParanthesesEnd]
+                                                                                ) [FactorExpr]
+                                                                              ) [TermStmt]
+                                                                            ) [OneTerm]
+                                                                          ) [AddOperationTerm]
+                                                                          ParanthesesEnd(
+                                                                          ) [ParanthesesEnd]
+                                                                        ) [FactorExpr]
+                                                                      ) [TermStmtOnly]
+                                                                    ) [OneTerm]
+                                                                    AddopMinus(
+                                                                    ) [AddopMinus]
+                                                                    TermStmtOnly(
+                                                                      FactorExpr(
+                                                                        ParanthesesBegin(
+                                                                        ) [ParanthesesBegin]
+                                                                        AddOperationTerm(
+                                                                          OneTerm(
+                                                                            TermStmt(
+                                                                              TermStmt(
+                                                                                TermStmtOnly(
+                                                                                  FactorNumConst(
+                                                                                   3
+                                                                                  ) [FactorNumConst]
+                                                                                ) [TermStmtOnly]
+                                                                                MulopMultiply(
+                                                                                ) [MulopMultiply]
+                                                                                FactorNumConst(
+                                                                                 4
+                                                                                ) [FactorNumConst]
+                                                                              ) [TermStmt]
+                                                                              MulopMultiply(
+                                                                              ) [MulopMultiply]
+                                                                              FactorExpr(
+                                                                                ParanthesesBegin(
+                                                                                ) [ParanthesesBegin]
+                                                                                NegativeTerm(
+                                                                                  Neg(
+                                                                                  ) [Neg]
+                                                                                  OneTerm(
+                                                                                    TermStmtOnly(
+                                                                                      FactorExpr(
+                                                                                        ParanthesesBegin(
+                                                                                        ) [ParanthesesBegin]
+                                                                                        AddOperationTerm(
+                                                                                          OneTerm(
+                                                                                            TermStmtOnly(
+                                                                                              FactorNumConst(
+                                                                                               2
+                                                                                              ) [FactorNumConst]
+                                                                                            ) [TermStmtOnly]
+                                                                                          ) [OneTerm]
+                                                                                        ) [AddOperationTerm]
+                                                                                        ParanthesesEnd(
+                                                                                        ) [ParanthesesEnd]
+                                                                                      ) [FactorExpr]
+                                                                                    ) [TermStmtOnly]
+                                                                                  ) [OneTerm]
+                                                                                ) [NegativeTerm]
+                                                                                ParanthesesEnd(
+                                                                                ) [ParanthesesEnd]
+                                                                              ) [FactorExpr]
+                                                                            ) [TermStmt]
+                                                                          ) [OneTerm]
+                                                                        ) [AddOperationTerm]
+                                                                        ParanthesesEnd(
+                                                                        ) [ParanthesesEnd]
+                                                                      ) [FactorExpr]
+                                                                    ) [TermStmtOnly]
+                                                                  ) [TermList]
+                                                                  AddopMinus(
+                                                                  ) [AddopMinus]
+                                                                  TermStmtOnly(
+                                                                    FactorNumConst(
+                                                                     4
+                                                                    ) [FactorNumConst]
+                                                                  ) [TermStmtOnly]
+                                                                ) [TermList]
+                                                              ) [AddOperationTerm]
+                                                              ParanthesesEnd(
+                                                              ) [ParanthesesEnd]
+                                                            ) [FactorExpr]
+                                                          ) [TermStmtOnly]
+                                                        ) [TermList]
+                                                        AddopPlus(
+                                                        ) [AddopPlus]
+                                                        TermStmtOnly(
+                                                          FactorExpr(
+                                                            ParanthesesBegin(
+                                                            ) [ParanthesesBegin]
+                                                            NegativeTerm(
+                                                              Neg(
+                                                              ) [Neg]
+                                                              OneTerm(
+                                                                TermStmt(
+                                                                  TermStmtOnly(
+                                                                    FactorNumConst(
+                                                                     4
+                                                                    ) [FactorNumConst]
+                                                                  ) [TermStmtOnly]
+                                                                  MulopMultiply(
+                                                                  ) [MulopMultiply]
+                                                                  FactorExpr(
+                                                                    ParanthesesBegin(
+                                                                    ) [ParanthesesBegin]
+                                                                    NegativeTerm(
+                                                                      Neg(
+                                                                      ) [Neg]
+                                                                      OneTerm(
+                                                                        TermStmtOnly(
+                                                                          FactorNumConst(
+                                                                           1
+                                                                          ) [FactorNumConst]
+                                                                        ) [TermStmtOnly]
+                                                                      ) [OneTerm]
+                                                                    ) [NegativeTerm]
+                                                                    ParanthesesEnd(
+                                                                    ) [ParanthesesEnd]
+                                                                  ) [FactorExpr]
+                                                                ) [TermStmt]
+                                                              ) [OneTerm]
+                                                            ) [NegativeTerm]
+                                                            ParanthesesEnd(
+                                                            ) [ParanthesesEnd]
+                                                          ) [FactorExpr]
+                                                        ) [TermStmtOnly]
+                                                      ) [TermList]
+                                                    ) [NegativeTerm]
+                                                    ParanthesesEnd(
+                                                    ) [ParanthesesEnd]
+                                                  ) [FactorExpr]
+                                                ) [TermStmtOnly]
+                                                MulopMultiply(
+                                                ) [MulopMultiply]
+                                                FactorExpr(
+                                                  ParanthesesBegin(
+                                                  ) [ParanthesesBegin]
+                                                  NegativeTerm(
+                                                    Neg(
+                                                    ) [Neg]
+                                                    OneTerm(
+                                                      TermStmtOnly(
+                                                        FactorExpr(
+                                                          ParanthesesBegin(
+                                                          ) [ParanthesesBegin]
+                                                          AddOperationTerm(
+                                                            TermList(
+                                                              OneTerm(
+                                                                TermStmtOnly(
+                                                                  FactorNumConst(
+                                                                   2
+                                                                  ) [FactorNumConst]
+                                                                ) [TermStmtOnly]
+                                                              ) [OneTerm]
+                                                              AddopMinus(
+                                                              ) [AddopMinus]
+                                                              TermStmtOnly(
+                                                                FactorExpr(
+                                                                  ParanthesesBegin(
+                                                                  ) [ParanthesesBegin]
+                                                                  AddOperationTerm(
+                                                                    OneTerm(
+                                                                      TermStmt(
+                                                                        TermStmtOnly(
+                                                                          FactorNumConst(
+                                                                           3
+                                                                          ) [FactorNumConst]
+                                                                        ) [TermStmtOnly]
+                                                                        MulopMultiply(
+                                                                        ) [MulopMultiply]
+                                                                        FactorNumConst(
+                                                                         4
+                                                                        ) [FactorNumConst]
+                                                                      ) [TermStmt]
+                                                                    ) [OneTerm]
+                                                                  ) [AddOperationTerm]
+                                                                  ParanthesesEnd(
+                                                                  ) [ParanthesesEnd]
+                                                                ) [FactorExpr]
+                                                              ) [TermStmtOnly]
+                                                            ) [TermList]
+                                                          ) [AddOperationTerm]
+                                                          ParanthesesEnd(
+                                                          ) [ParanthesesEnd]
+                                                        ) [FactorExpr]
+                                                      ) [TermStmtOnly]
+                                                    ) [OneTerm]
+                                                  ) [NegativeTerm]
+                                                  ParanthesesEnd(
+                                                  ) [ParanthesesEnd]
+                                                ) [FactorExpr]
+                                              ) [TermStmt]
+                                            ) [OneTerm]
+                                          ) [AddOperationTerm]
+                                          ParanthesesEnd(
+                                          ) [ParanthesesEnd]
+                                        ) [FactorExpr]
+                                      ) [TermStmt]
+                                      MulopDevide(
+                                      ) [MulopDevide]
+                                      FactorNumConst(
+                                       10
+                                      ) [FactorNumConst]
+                                    ) [TermStmt]
+                                  ) [OneTerm]
+                                  AddopMinus(
+                                  ) [AddopMinus]
+                                  TermStmt(
+                                    TermStmt(
+                                      TermStmtOnly(
+                                        FactorNumConst(
+                                         3
+                                        ) [FactorNumConst]
+                                      ) [TermStmtOnly]
+                                      MulopMultiply(
+                                      ) [MulopMultiply]
+                                      FactorNumConst(
+                                       4
+                                      ) [FactorNumConst]
+                                    ) [TermStmt]
+                                    MulopModulo(
+                                    ) [MulopModulo]
+                                    FactorNumConst(
+                                     10
+                                    ) [FactorNumConst]
+                                  ) [TermStmt]
+                                ) [TermList]
+                                AddopPlus(
+                                ) [AddopPlus]
+                                TermStmtOnly(
+                                  FactorNumConst(
+                                   10
+                                  ) [FactorNumConst]
+                                ) [TermStmtOnly]
+                              ) [TermList]
+                              AddopPlus(
+                              ) [AddopPlus]
+                              TermStmtOnly(
+                                FactorExpr(
+                                  ParanthesesBegin(
+                                  ) [ParanthesesBegin]
+                                  NegativeTerm(
+                                    Neg(
+                                    ) [Neg]
+                                    TermList(
+                                      OneTerm(
+                                        TermStmt(
+                                          TermStmt(
+                                            TermStmtOnly(
+                                              FactorNumConst(
+                                               1
+                                              ) [FactorNumConst]
+                                            ) [TermStmtOnly]
+                                            MulopMultiply(
+                                            ) [MulopMultiply]
+                                            FactorExpr(
+                                              ParanthesesBegin(
+                                              ) [ParanthesesBegin]
+                                              AddOperationTerm(
+                                                OneTerm(
+                                                  TermStmtOnly(
+                                                    FactorNumConst(
+                                                     2
+                                                    ) [FactorNumConst]
+                                                  ) [TermStmtOnly]
+                                                ) [OneTerm]
+                                              ) [AddOperationTerm]
+                                              ParanthesesEnd(
+                                              ) [ParanthesesEnd]
+                                            ) [FactorExpr]
+                                          ) [TermStmt]
+                                          MulopMultiply(
+                                          ) [MulopMultiply]
+                                          FactorExpr(
+                                            ParanthesesBegin(
+                                            ) [ParanthesesBegin]
+                                            AddOperationTerm(
+                                              OneTerm(
+                                                TermStmt(
+                                                  TermStmt(
+                                                    TermStmtOnly(
+                                                      FactorNumConst(
+                                                       50
+                                                      ) [FactorNumConst]
+                                                    ) [TermStmtOnly]
+                                                    MulopDevide(
+                                                    ) [MulopDevide]
+                                                    FactorNumConst(
+                                                     5
+                                                    ) [FactorNumConst]
+                                                  ) [TermStmt]
+                                                  MulopModulo(
+                                                  ) [MulopModulo]
+                                                  FactorNumConst(
+                                                   6
+                                                  ) [FactorNumConst]
+                                                ) [TermStmt]
+                                              ) [OneTerm]
+                                            ) [AddOperationTerm]
+                                            ParanthesesEnd(
+                                            ) [ParanthesesEnd]
+                                          ) [FactorExpr]
+                                        ) [TermStmt]
+                                      ) [OneTerm]
+                                      AddopPlus(
+                                      ) [AddopPlus]
+                                      TermStmtOnly(
+                                        FactorNumConst(
+                                         1
+                                        ) [FactorNumConst]
+                                      ) [TermStmtOnly]
+                                    ) [TermList]
+                                  ) [NegativeTerm]
+                                  ParanthesesEnd(
+                                  ) [ParanthesesEnd]
+                                ) [FactorExpr]
+                              ) [TermStmtOnly]
+                            ) [TermList]
+                            AddopMinus(
+                            ) [AddopMinus]
+                            TermStmtOnly(
+                              FactorNumConst(
+                               1
+                              ) [FactorNumConst]
+                            ) [TermStmtOnly]
+                          ) [TermList]
+                          AddopMinus(
+                          ) [AddopMinus]
+                          TermStmt(
+                            TermStmtOnly(
+                              FactorNumConst(
+                               3
+                              ) [FactorNumConst]
+                            ) [TermStmtOnly]
+                            MulopMultiply(
+                            ) [MulopMultiply]
+                            FactorNumConst(
+                             4
+                            ) [FactorNumConst]
+                          ) [TermStmt]
+                        ) [TermList]
+                        AddopPlus(
+                        ) [AddopPlus]
+                        TermStmtOnly(
+                          FactorExpr(
+                            ParanthesesBegin(
+                            ) [ParanthesesBegin]
+                            AddOperationTerm(
+                              OneTerm(
+                                TermStmt(
+                                  TermStmtOnly(
+                                    FactorNumConst(
+                                     4
+                                    ) [FactorNumConst]
+                                  ) [TermStmtOnly]
+                                  MulopMultiply(
+                                  ) [MulopMultiply]
+                                  FactorNumConst(
+                                   5
+                                  ) [FactorNumConst]
+                                ) [TermStmt]
+                              ) [OneTerm]
+                            ) [AddOperationTerm]
+                            ParanthesesEnd(
+                            ) [ParanthesesEnd]
+                          ) [FactorExpr]
+                        ) [TermStmtOnly]
+                      ) [TermList]
+                      AddopMinus(
+                      ) [AddopMinus]
+                      TermStmtOnly(
+                        FactorExpr(
+                          ParanthesesBegin(
+                          ) [ParanthesesBegin]
+                          AddOperationTerm(
+                            OneTerm(
+                              TermStmtOnly(
+                                FactorExpr(
+                                  ParanthesesBegin(
+                                  ) [ParanthesesBegin]
+                                  AddOperationTerm(
+                                    OneTerm(
+                                      TermStmtOnly(
+                                        FactorExpr(
+                                          ParanthesesBegin(
+                                          ) [ParanthesesBegin]
+                                          AddOperationTerm(
+                                            OneTerm(
+                                              TermStmtOnly(
+                                                FactorNumConst(
+                                                 1
+                                                ) [FactorNumConst]
+                                              ) [TermStmtOnly]
+                                            ) [OneTerm]
+                                          ) [AddOperationTerm]
+                                          ParanthesesEnd(
+                                          ) [ParanthesesEnd]
+                                        ) [FactorExpr]
+                                      ) [TermStmtOnly]
+                                    ) [OneTerm]
+                                  ) [AddOperationTerm]
+                                  ParanthesesEnd(
+                                  ) [ParanthesesEnd]
+                                ) [FactorExpr]
+                              ) [TermStmtOnly]
+                            ) [OneTerm]
+                          ) [AddOperationTerm]
+                          ParanthesesEnd(
+                          ) [ParanthesesEnd]
+                        ) [FactorExpr]
+                      ) [TermStmtOnly]
+                    ) [TermList]
+                    AddopMinus(
+                    ) [AddopMinus]
+                    TermStmtOnly(
+                      FactorExpr(
+                        ParanthesesBegin(
+                        ) [ParanthesesBegin]
+                        AddOperationTerm(
+                          OneTerm(
+                            TermStmtOnly(
+                              FactorExpr(
+                                ParanthesesBegin(
+                                ) [ParanthesesBegin]
+                                AddOperationTerm(
+                                  OneTerm(
+                                    TermStmtOnly(
+                                      FactorNumConst(
+                                       7
+                                      ) [FactorNumConst]
+                                    ) [TermStmtOnly]
+                                  ) [OneTerm]
+                                ) [AddOperationTerm]
+                                ParanthesesEnd(
+                                ) [ParanthesesEnd]
+                              ) [FactorExpr]
+                            ) [TermStmtOnly]
+                          ) [OneTerm]
+                        ) [AddOperationTerm]
+                        ParanthesesEnd(
+                        ) [ParanthesesEnd]
+                      ) [FactorExpr]
+                    ) [TermStmtOnly]
+                  ) [TermList]
+                ) [NegativeTerm]
+              ) [AssignopExpr]
+            ) [SingleStatementDesignator]
+          ) [SingleStatementNoLabel]
+        ) [StatListDecl]
+        SingleStatementNoLabel(
+          SingleStatementDesignator(
+            AssignopExpr(
+              CleanDesignator(
+               x
+              ) [CleanDesignator]
+              AssignopDecl(
+              ) [AssignopDecl]
+              AddOperationTerm(
+                OneTerm(
+                  TermStmtOnly(
+                    FactorNumConst(
+                     2
+                    ) [FactorNumConst]
+                  ) [TermStmtOnly]
+                ) [OneTerm]
+              ) [AddOperationTerm]
+            ) [AssignopExpr]
+          ) [SingleStatementDesignator]
+        ) [SingleStatementNoLabel]
+      ) [StatListDecl]
+    ) [MethodDeclaration]
+  ) [MethodDeclarationsList]
+) [Program]
+INFO  23:34:42,742 - ===================================
+INFO  23:34:42,747 - ===================================
+INFO  23:34:42,754 - Parsiranje uspesno zavrseno!

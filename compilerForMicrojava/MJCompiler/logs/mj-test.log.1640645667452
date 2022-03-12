@@ -1,0 +1,177 @@
+INFO  23:54:12,001 - Compiling source file: C:\ppdomaci\workspace\MJCompiler\test\program.mj
+INFO  23:54:12,059 - #2 program
+INFO  23:54:12,059 - #3 TestTest
+INFO  23:54:12,059 - #3 int
+INFO  23:54:12,060 - #3 x
+INFO  23:54:12,061 - #36 ,
+INFO  23:54:12,062 - #3 y
+INFO  23:54:12,062 - #25 ;
+INFO  23:54:12,063 - #6 const
+INFO  23:54:12,063 - #3 int
+INFO  23:54:12,064 - #3 pi
+INFO  23:54:12,064 - #47 =
+INFO  23:54:12,064 - #32 7
+INFO  23:54:12,064 - #25 ;
+INFO  23:54:12,064 - #6 const
+INFO  23:54:12,065 - #3 bool
+INFO  23:54:12,065 - #3 w
+INFO  23:54:12,065 - #47 =
+INFO  23:54:12,065 - #34 1
+INFO  23:54:12,065 - #25 ;
+INFO  23:54:12,065 - #3 bool
+INFO  23:54:12,065 - #3 flag
+INFO  23:54:12,066 - #25 ;
+INFO  23:54:12,070 - #4 {
+INFO  23:54:12,070 - #16 void
+INFO  23:54:12,071 - #3 main
+INFO  23:54:12,071 - #12 (
+INFO  23:54:12,072 - #9 )
+INFO  23:54:12,072 - #3 int
+INFO  23:54:12,073 - #3 t
+INFO  23:54:12,073 - #25 ;
+INFO  23:54:12,073 - #4 {
+INFO  23:54:12,073 - #3 t
+INFO  23:54:12,074 - #47 =
+INFO  23:54:12,075 - #32 0
+INFO  23:54:12,076 - #25 ;
+INFO  23:54:12,077 - #5 }
+INFO  23:54:12,078 - #5 }
+INFO  23:54:12,084 - Program(
+  ProgName(
+   TestTest
+  ) [ProgName]
+  DeclarationsList(
+    DeclarationsList(
+      DeclarationsList(
+        DeclarationsList(
+          NoDecl(
+          ) [NoDecl]
+          VarDeclaration(
+            VarDeclDecl(
+              Type(
+               int
+              ) [Type]
+              VarDeclNoBrackes(
+                VarDeclName(
+                 x
+                ) [VarDeclName]
+              ) [VarDeclNoBrackes]
+              VarDeclListDecl(
+                VarDeclListSingle(
+                  VarNotHaveBracket(
+                   y
+                  ) [VarNotHaveBracket]
+                ) [VarDeclListSingle]
+                NoVarDeclList(
+                ) [NoVarDeclList]
+              ) [VarDeclListDecl]
+            ) [VarDeclDecl]
+          ) [VarDeclaration]
+        ) [DeclarationsList]
+        ConstDeclaration(
+          ConstDeclDecl(
+            Type(
+             int
+            ) [Type]
+           pi
+            NumConstDecl(
+             7
+            ) [NumConstDecl]
+            NoConstDeclList(
+            ) [NoConstDeclList]
+          ) [ConstDeclDecl]
+        ) [ConstDeclaration]
+      ) [DeclarationsList]
+      ConstDeclaration(
+        ConstDeclDecl(
+          Type(
+           bool
+          ) [Type]
+         w
+          BoolConstDecl(
+           1
+          ) [BoolConstDecl]
+          NoConstDeclList(
+          ) [NoConstDeclList]
+        ) [ConstDeclDecl]
+      ) [ConstDeclaration]
+    ) [DeclarationsList]
+    VarDeclaration(
+      VarDeclDecl(
+        Type(
+         bool
+        ) [Type]
+        VarDeclNoBrackes(
+          VarDeclName(
+           flag
+          ) [VarDeclName]
+        ) [VarDeclNoBrackes]
+        NoVarDeclList(
+        ) [NoVarDeclList]
+      ) [VarDeclDecl]
+    ) [VarDeclaration]
+  ) [DeclarationsList]
+  MethodDeclarationsList(
+    NoMethodDeclarations(
+    ) [NoMethodDeclarations]
+    MethodDeclaration(
+      MethodDeclarationsVoid(
+      ) [MethodDeclarationsVoid]
+      MethodName(
+       main
+      ) [MethodName]
+      MethodAfterTypeWithoutFormPars(
+      ) [MethodAfterTypeWithoutFormPars]
+      VarDeclarations(
+        NoVarDecl(
+        ) [NoVarDecl]
+        VarDeclDecl(
+          Type(
+           int
+          ) [Type]
+          VarDeclNoBrackes(
+            VarDeclName(
+             t
+            ) [VarDeclName]
+          ) [VarDeclNoBrackes]
+          NoVarDeclList(
+          ) [NoVarDeclList]
+        ) [VarDeclDecl]
+      ) [VarDeclarations]
+      StatListDecl(
+        NoStatementList(
+        ) [NoStatementList]
+        SingleStatementNoLabel(
+          SingleStatementDesignator(
+            AssignopExpr(
+              DesignatorDecl(
+                DesignatorName(
+                 t
+                ) [DesignatorName]
+                NoDesignatorList(
+                ) [NoDesignatorList]
+              ) [DesignatorDecl]
+              AssignopDecl(
+              ) [AssignopDecl]
+              DontHaveMinusExpr(
+                Term(
+                  FactorNumConst(
+                   0
+                  ) [FactorNumConst]
+                  NoTermAfterFactor(
+                  ) [NoTermAfterFactor]
+                ) [Term]
+                NoExprAfterTerm(
+                ) [NoExprAfterTerm]
+              ) [DontHaveMinusExpr]
+            ) [AssignopExpr]
+          ) [SingleStatementDesignator]
+        ) [SingleStatementNoLabel]
+      ) [StatListDecl]
+    ) [MethodDeclaration]
+  ) [MethodDeclarationsList]
+) [Program]
+INFO  23:54:12,085 - ===================================
+INFO  23:54:12,088 - Deklarisana promenljiva y na liniji 2
+INFO  23:54:12,088 - ===================================
+INFO  23:54:12,089 - Parsiranje uspesno zavrseno!

@@ -1,0 +1,96 @@
+INFO  19:36:21,105 - Compiling source file: C:\pp\workspace\MJCompiler\test\program3.mj
+INFO  19:36:21,163 - #2 program
+INFO  19:36:21,163 - #3 MJProgram
+INFO  19:36:21,163 - #4 {
+INFO  19:36:21,165 - #16 void
+INFO  19:36:21,165 - #3 main
+INFO  19:36:21,166 - #12 (
+INFO  19:36:21,167 - #9 )
+INFO  19:36:21,168 - #3 int
+INFO  19:36:21,169 - #3 niz
+INFO  19:36:21,170 - #11 [
+INFO  19:36:21,170 - #10 ]
+INFO  19:36:21,170 - #25 ;
+INFO  19:36:21,171 - #4 {
+INFO  19:36:21,171 - #3 niz
+INFO  19:36:21,172 - #47 =
+INFO  19:36:21,172 - #15 new
+INFO  19:36:21,173 - #3 int
+INFO  19:36:21,174 - #11 [
+INFO  19:36:21,174 - #32 7
+INFO  19:36:21,174 - #10 ]
+INFO  19:36:21,174 - #25 ;
+INFO  19:36:21,175 - #5 }
+INFO  19:36:21,175 - #5 }
+INFO  19:36:21,187 - Program(
+  ProgName(
+   MJProgram
+  ) [ProgName]
+  NoDecl(
+  ) [NoDecl]
+  MethodDeclarationsList(
+    NoMethodDeclarations(
+    ) [NoMethodDeclarations]
+    MethodDeclaration(
+      MethodDeclarationsVoid(
+      ) [MethodDeclarationsVoid]
+      MethodName(
+       main
+      ) [MethodName]
+      MethodAfterTypeWithoutFormPars(
+      ) [MethodAfterTypeWithoutFormPars]
+      VarDeclarations(
+        NoVarDecl(
+        ) [NoVarDecl]
+        VarDeclDecl(
+          Type(
+           int
+          ) [Type]
+          VarHaveBracket(
+           niz
+          ) [VarHaveBracket]
+          NoVarDeclList(
+          ) [NoVarDeclList]
+        ) [VarDeclDecl]
+      ) [VarDeclarations]
+      StatListDecl(
+        NoStatementList(
+        ) [NoStatementList]
+        SingleStatementNoLabel(
+          SingleStatementDesignator(
+            AssignopExpr(
+              CleanDesignator(
+               niz
+              ) [CleanDesignator]
+              AssignopDecl(
+              ) [AssignopDecl]
+              AddOperationTerm(
+                OneTerm(
+                  TermStmtOnly(
+                    FactorNewExpr(
+                      Type(
+                       int
+                      ) [Type]
+                      AddOperationTerm(
+                        OneTerm(
+                          TermStmtOnly(
+                            FactorNumConst(
+                             7
+                            ) [FactorNumConst]
+                          ) [TermStmtOnly]
+                        ) [OneTerm]
+                      ) [AddOperationTerm]
+                    ) [FactorNewExpr]
+                  ) [TermStmtOnly]
+                ) [OneTerm]
+              ) [AddOperationTerm]
+            ) [AssignopExpr]
+          ) [SingleStatementDesignator]
+        ) [SingleStatementNoLabel]
+      ) [StatListDecl]
+    ) [MethodDeclaration]
+  ) [MethodDeclarationsList]
+) [Program]
+INFO  19:36:21,188 - ===================================
+INFO  19:36:21,191 - ===================================
+INFO  19:36:21,195 - Parsiranje uspesno zavrseno!

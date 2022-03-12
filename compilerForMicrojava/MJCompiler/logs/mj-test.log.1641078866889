@@ -1,0 +1,60 @@
+INFO  00:12:15,838 - Compiling source file: C:\ppdomaci\workspace\MJCompiler\test\program2.mj
+INFO  00:12:15,899 - #2 program
+INFO  00:12:15,899 - #3 MJProgram
+INFO  00:12:15,899 - #4 {
+INFO  00:12:15,900 - #16 void
+INFO  00:12:15,901 - #3 main
+INFO  00:12:15,902 - #12 (
+INFO  00:12:15,902 - #9 )
+INFO  00:12:15,903 - #4 {
+INFO  00:12:15,905 - #14 print
+INFO  00:12:15,905 - #12 (
+INFO  00:12:15,906 - #32 1
+INFO  00:12:15,906 - #9 )
+INFO  00:12:15,907 - #25 ;
+INFO  00:12:15,907 - #5 }
+INFO  00:12:15,907 - #5 }
+INFO  00:12:15,916 - Program(
+  ProgName(
+   MJProgram
+  ) [ProgName]
+  NoDecl(
+  ) [NoDecl]
+  MethodDeclarationsList(
+    NoMethodDeclarations(
+    ) [NoMethodDeclarations]
+    MethodDeclaration(
+      MethodDeclarationsVoid(
+      ) [MethodDeclarationsVoid]
+      MethodNameDecl(
+       main
+      ) [MethodNameDecl]
+      MethodAfterTypeWithoutFormPars(
+      ) [MethodAfterTypeWithoutFormPars]
+      NoVarDecl(
+      ) [NoVarDecl]
+      StatListDecl(
+        NoStatementList(
+        ) [NoStatementList]
+        SingleStatementNoLabel(
+          PrintStatement(
+            AddOperationTerm(
+              OneTerm(
+                TermStmtOnly(
+                  FactorNumConst(
+                   1
+                  ) [FactorNumConst]
+                ) [TermStmtOnly]
+              ) [OneTerm]
+            ) [AddOperationTerm]
+            NoExprForPrint(
+            ) [NoExprForPrint]
+          ) [PrintStatement]
+        ) [SingleStatementNoLabel]
+      ) [StatListDecl]
+    ) [MethodDeclaration]
+  ) [MethodDeclarationsList]
+) [Program]
+INFO  00:12:15,917 - ===================================
+INFO  00:12:15,920 - ===================================
+INFO  00:12:15,925 - Parsiranje uspesno zavrseno!

@@ -1,0 +1,68 @@
+INFO  11:50:15,750 - Compiling source file: C:\ppdomaci\workspace\MJCompiler\test\program.mj
+INFO  11:50:15,809 - #2 program
+INFO  11:50:15,810 - #3 MJProgram
+INFO  11:50:15,810 - #3 int
+INFO  11:50:15,812 - #3 x
+INFO  11:50:15,813 - #36 ,
+INFO  11:50:15,814 - #3 y
+INFO  11:50:15,814 - #25 ;
+INFO  11:50:15,817 - #4 {
+INFO  11:50:15,818 - #16 void
+INFO  11:50:15,819 - #3 main
+INFO  11:50:15,819 - #12 (
+INFO  11:50:15,820 - #9 )
+INFO  11:50:15,820 - #4 {
+INFO  11:50:15,820 - #5 }
+INFO  11:50:15,821 - #5 }
+INFO  11:50:15,832 - Program(
+  ProgName(
+   MJProgram
+  ) [ProgName]
+  DeclarationsList(
+    NoDecl(
+    ) [NoDecl]
+    VarDeclaration(
+      VarDeclDecl(
+        Type(
+         int
+        ) [Type]
+        VarDeclName(
+         x
+        ) [VarDeclName]
+        VarDeclNoBrackes(
+          VarDeclListDecl(
+            VarDeclListSingle(
+              VarDeclListSingleElem(
+               y
+              ) [VarDeclListSingleElem]
+              VarNotHaveBracket(
+              ) [VarNotHaveBracket]
+            ) [VarDeclListSingle]
+            NoVarDeclList(
+            ) [NoVarDeclList]
+          ) [VarDeclListDecl]
+        ) [VarDeclNoBrackes]
+      ) [VarDeclDecl]
+    ) [VarDeclaration]
+  ) [DeclarationsList]
+  MethodDeclarationsList(
+    NoMethodDeclarations(
+    ) [NoMethodDeclarations]
+    MethodDeclarationsVoid(
+      MethodVoid(
+       main
+      ) [MethodVoid]
+      MethodAfterTypeWithoutFormPars(
+        MethodAfterParentheses(
+          NoVarDecl(
+          ) [NoVarDecl]
+          NoStatementList(
+          ) [NoStatementList]
+        ) [MethodAfterParentheses]
+      ) [MethodAfterTypeWithoutFormPars]
+    ) [MethodDeclarationsVoid]
+  ) [MethodDeclarationsList]
+) [Program]
+INFO  11:50:15,834 - ===================================
+INFO  11:50:15,837 - ===================================
+INFO  11:50:15,837 - Parsiranje uspesno zavrseno!

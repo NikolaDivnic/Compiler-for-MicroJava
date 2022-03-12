@@ -1,0 +1,144 @@
+INFO  20:42:57,201 - Compiling source file: C:\pp\workspace\MJCompiler\test\program3.mj
+INFO  20:42:57,237 - #2 program
+INFO  20:42:57,237 - #3 MJProgram
+INFO  20:42:57,237 - #3 int
+INFO  20:42:57,238 - #3 x
+INFO  20:42:57,238 - #36 ,
+INFO  20:42:57,238 - #3 y
+INFO  20:42:57,239 - #25 ;
+INFO  20:42:57,240 - #4 {
+INFO  20:42:57,240 - #16 void
+INFO  20:42:57,240 - #3 main
+INFO  20:42:57,241 - #12 (
+INFO  20:42:57,241 - #9 )
+INFO  20:42:57,242 - #3 int
+INFO  20:42:57,242 - #3 niz
+INFO  20:42:57,242 - #11 [
+INFO  20:42:57,243 - #10 ]
+INFO  20:42:57,243 - #25 ;
+INFO  20:42:57,243 - #4 {
+INFO  20:42:57,243 - #3 x
+INFO  20:42:57,243 - #47 =
+INFO  20:42:57,244 - #32 3
+INFO  20:42:57,244 - #25 ;
+INFO  20:42:57,245 - #3 labela1
+INFO  20:42:57,246 - #17 :
+INFO  20:42:57,246 - #14 print
+INFO  20:42:57,246 - #12 (
+INFO  20:42:57,246 - #32 7
+INFO  20:42:57,247 - #9 )
+INFO  20:42:57,247 - #25 ;
+INFO  20:42:57,247 - #26 goto
+INFO  20:42:57,247 - #3 labela1
+INFO  20:42:57,247 - #25 ;
+INFO  20:42:57,247 - #5 }
+INFO  20:42:57,247 - #5 }
+INFO  20:42:57,252 - Program(
+  ProgName(
+   MJProgram
+  ) [ProgName]
+  DeclarationsList(
+    NoDecl(
+    ) [NoDecl]
+    VarDeclaration(
+      VarDeclDecl(
+        Type(
+         int
+        ) [Type]
+        VarNotHaveBracket(
+         x
+        ) [VarNotHaveBracket]
+        VarDeclListDecl(
+          VarDeclListSingle(
+            VarNotHaveBracket(
+             y
+            ) [VarNotHaveBracket]
+          ) [VarDeclListSingle]
+          NoVarDeclList(
+          ) [NoVarDeclList]
+        ) [VarDeclListDecl]
+      ) [VarDeclDecl]
+    ) [VarDeclaration]
+  ) [DeclarationsList]
+  MethodDeclarationsList(
+    NoMethodDeclarations(
+    ) [NoMethodDeclarations]
+    MethodDeclaration(
+      MethodDeclarationsVoid(
+      ) [MethodDeclarationsVoid]
+      MethodName(
+       main
+      ) [MethodName]
+      MethodAfterTypeWithoutFormPars(
+      ) [MethodAfterTypeWithoutFormPars]
+      VarDeclarations(
+        NoVarDecl(
+        ) [NoVarDecl]
+        VarDeclDecl(
+          Type(
+           int
+          ) [Type]
+          VarHaveBracket(
+           niz
+          ) [VarHaveBracket]
+          NoVarDeclList(
+          ) [NoVarDeclList]
+        ) [VarDeclDecl]
+      ) [VarDeclarations]
+      StatListDecl(
+        StatListDecl(
+          StatListDecl(
+            NoStatementList(
+            ) [NoStatementList]
+            SingleStatementNoLabel(
+              SingleStatementDesignator(
+                AssignopExpr(
+                  CleanDesignator(
+                   x
+                  ) [CleanDesignator]
+                  AssignopDecl(
+                  ) [AssignopDecl]
+                  AddOperationTerm(
+                    OneTerm(
+                      TermStmtOnly(
+                        FactorNumConst(
+                         3
+                        ) [FactorNumConst]
+                      ) [TermStmtOnly]
+                    ) [OneTerm]
+                  ) [AddOperationTerm]
+                ) [AssignopExpr]
+              ) [SingleStatementDesignator]
+            ) [SingleStatementNoLabel]
+          ) [StatListDecl]
+          StatementWithLabel(
+            Label(
+             labela1
+            ) [Label]
+            PrintStatement(
+              AddOperationTerm(
+                OneTerm(
+                  TermStmtOnly(
+                    FactorNumConst(
+                     7
+                    ) [FactorNumConst]
+                  ) [TermStmtOnly]
+                ) [OneTerm]
+              ) [AddOperationTerm]
+              NoExprForPrint(
+              ) [NoExprForPrint]
+            ) [PrintStatement]
+          ) [StatementWithLabel]
+        ) [StatListDecl]
+        SingleStatementNoLabel(
+          GoToStatement(
+            Label(
+             labela1
+            ) [Label]
+          ) [GoToStatement]
+        ) [SingleStatementNoLabel]
+      ) [StatListDecl]
+    ) [MethodDeclaration]
+  ) [MethodDeclarationsList]
+) [Program]
+INFO  20:42:57,253 - ===================================

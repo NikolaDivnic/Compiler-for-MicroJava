@@ -1,0 +1,145 @@
+INFO  23:52:18,252 - Compiling source file: C:\pp\workspace\MJCompiler\test\program3.mj
+INFO  23:52:18,311 - #2 program
+INFO  23:52:18,311 - #3 MJProgram
+INFO  23:52:18,311 - #4 {
+INFO  23:52:18,313 - #16 void
+INFO  23:52:18,313 - #3 main
+INFO  23:52:18,315 - #12 (
+INFO  23:52:18,316 - #9 )
+INFO  23:52:18,317 - #4 {
+INFO  23:52:18,318 - #14 print
+INFO  23:52:18,319 - #12 (
+INFO  23:52:18,319 - #32 1
+INFO  23:52:18,319 - #9 )
+INFO  23:52:18,320 - #25 ;
+INFO  23:52:18,321 - #14 print
+INFO  23:52:18,321 - #12 (
+INFO  23:52:18,321 - #32 3
+INFO  23:52:18,321 - #9 )
+INFO  23:52:18,322 - #25 ;
+INFO  23:52:18,322 - #3 labela1
+INFO  23:52:18,322 - #17 :
+INFO  23:52:18,323 - #14 print
+INFO  23:52:18,323 - #12 (
+INFO  23:52:18,329 - #32 6
+INFO  23:52:18,329 - #9 )
+INFO  23:52:18,329 - #25 ;
+INFO  23:52:18,329 - #14 print
+INFO  23:52:18,330 - #12 (
+INFO  23:52:18,330 - #32 2
+INFO  23:52:18,330 - #9 )
+INFO  23:52:18,330 - #25 ;
+INFO  23:52:18,330 - #26 goto
+INFO  23:52:18,330 - #3 labela1
+INFO  23:52:18,330 - #25 ;
+INFO  23:52:18,330 - #5 }
+INFO  23:52:18,331 - #5 }
+INFO  23:52:18,341 - Program(
+  ProgName(
+   MJProgram
+  ) [ProgName]
+  NoDecl(
+  ) [NoDecl]
+  MethodDeclarationsList(
+    NoMethodDeclarations(
+    ) [NoMethodDeclarations]
+    MethodDeclaration(
+      MethodDeclarationsVoid(
+      ) [MethodDeclarationsVoid]
+      MethodName(
+       main
+      ) [MethodName]
+      MethodAfterTypeWithoutFormPars(
+      ) [MethodAfterTypeWithoutFormPars]
+      NoVarDecl(
+      ) [NoVarDecl]
+      StatListDecl(
+        StatListDecl(
+          StatListDecl(
+            StatListDecl(
+              StatListDecl(
+                NoStatementList(
+                ) [NoStatementList]
+                SingleStatementNoLabel(
+                  PrintStatement(
+                    AddOperationTerm(
+                      OneTerm(
+                        TermStmtOnly(
+                          FactorNumConst(
+                           1
+                          ) [FactorNumConst]
+                        ) [TermStmtOnly]
+                      ) [OneTerm]
+                    ) [AddOperationTerm]
+                    NoExprForPrint(
+                    ) [NoExprForPrint]
+                  ) [PrintStatement]
+                ) [SingleStatementNoLabel]
+              ) [StatListDecl]
+              SingleStatementNoLabel(
+                PrintStatement(
+                  AddOperationTerm(
+                    OneTerm(
+                      TermStmtOnly(
+                        FactorNumConst(
+                         3
+                        ) [FactorNumConst]
+                      ) [TermStmtOnly]
+                    ) [OneTerm]
+                  ) [AddOperationTerm]
+                  NoExprForPrint(
+                  ) [NoExprForPrint]
+                ) [PrintStatement]
+              ) [SingleStatementNoLabel]
+            ) [StatListDecl]
+            StatementWithLabel(
+              Label(
+               labela1
+              ) [Label]
+              PrintStatement(
+                AddOperationTerm(
+                  OneTerm(
+                    TermStmtOnly(
+                      FactorNumConst(
+                       6
+                      ) [FactorNumConst]
+                    ) [TermStmtOnly]
+                  ) [OneTerm]
+                ) [AddOperationTerm]
+                NoExprForPrint(
+                ) [NoExprForPrint]
+              ) [PrintStatement]
+            ) [StatementWithLabel]
+          ) [StatListDecl]
+          SingleStatementNoLabel(
+            PrintStatement(
+              AddOperationTerm(
+                OneTerm(
+                  TermStmtOnly(
+                    FactorNumConst(
+                     2
+                    ) [FactorNumConst]
+                  ) [TermStmtOnly]
+                ) [OneTerm]
+              ) [AddOperationTerm]
+              NoExprForPrint(
+              ) [NoExprForPrint]
+            ) [PrintStatement]
+          ) [SingleStatementNoLabel]
+        ) [StatListDecl]
+        SingleStatementNoLabel(
+          GoToStatement(
+            Label(
+             labela1
+            ) [Label]
+          ) [GoToStatement]
+        ) [SingleStatementNoLabel]
+      ) [StatListDecl]
+    ) [MethodDeclaration]
+  ) [MethodDeclarationsList]
+) [Program]
+INFO  23:52:18,341 - ===================================
+INFO  23:52:18,345 - ===================================
+INFO  23:52:18,349 - PC labela16 na liniji 7
+INFO  23:52:18,349 - PC goto19 na liniji 9
+INFO  23:52:18,350 - Parsiranje uspesno zavrseno!

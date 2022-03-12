@@ -1,0 +1,146 @@
+INFO  20:25:16,418 - Compiling source file: C:\pp\workspace\MJCompiler\test\program3.mj
+INFO  20:25:16,452 - #2 program
+INFO  20:25:16,452 - #3 MJProgram
+INFO  20:25:16,452 - #3 int
+INFO  20:25:16,453 - #3 x
+INFO  20:25:16,453 - #36 ,
+INFO  20:25:16,453 - #3 y
+INFO  20:25:16,453 - #25 ;
+INFO  20:25:16,455 - #4 {
+INFO  20:25:16,455 - #16 void
+INFO  20:25:16,456 - #3 main
+INFO  20:25:16,456 - #12 (
+INFO  20:25:16,457 - #9 )
+INFO  20:25:16,458 - #3 int
+INFO  20:25:16,459 - #3 niz
+INFO  20:25:16,459 - #11 [
+INFO  20:25:16,459 - #10 ]
+INFO  20:25:16,459 - #25 ;
+INFO  20:25:16,459 - #4 {
+INFO  20:25:16,459 - #3 x
+INFO  20:25:16,460 - #47 =
+INFO  20:25:16,460 - #32 3
+INFO  20:25:16,461 - #25 ;
+INFO  20:25:16,461 - #3 labela1
+INFO  20:25:16,462 - #17 :
+INFO  20:25:16,463 - #14 print
+INFO  20:25:16,463 - #12 (
+INFO  20:25:16,463 - #32 7
+INFO  20:25:16,463 - #9 )
+INFO  20:25:16,463 - #25 ;
+INFO  20:25:16,463 - #26 goto
+INFO  20:25:16,464 - #3 labela1
+INFO  20:25:16,464 - #25 ;
+INFO  20:25:16,464 - #5 }
+INFO  20:25:16,464 - #5 }
+INFO  20:25:16,469 - Program(
+  ProgName(
+   MJProgram
+  ) [ProgName]
+  DeclarationsList(
+    NoDecl(
+    ) [NoDecl]
+    VarDeclaration(
+      VarDeclDecl(
+        Type(
+         int
+        ) [Type]
+        VarNotHaveBracket(
+         x
+        ) [VarNotHaveBracket]
+        VarDeclListDecl(
+          VarDeclListSingle(
+            VarNotHaveBracket(
+             y
+            ) [VarNotHaveBracket]
+          ) [VarDeclListSingle]
+          NoVarDeclList(
+          ) [NoVarDeclList]
+        ) [VarDeclListDecl]
+      ) [VarDeclDecl]
+    ) [VarDeclaration]
+  ) [DeclarationsList]
+  MethodDeclarationsList(
+    NoMethodDeclarations(
+    ) [NoMethodDeclarations]
+    MethodDeclaration(
+      MethodDeclarationsVoid(
+      ) [MethodDeclarationsVoid]
+      MethodName(
+       main
+      ) [MethodName]
+      MethodAfterTypeWithoutFormPars(
+      ) [MethodAfterTypeWithoutFormPars]
+      VarDeclarations(
+        NoVarDecl(
+        ) [NoVarDecl]
+        VarDeclDecl(
+          Type(
+           int
+          ) [Type]
+          VarHaveBracket(
+           niz
+          ) [VarHaveBracket]
+          NoVarDeclList(
+          ) [NoVarDeclList]
+        ) [VarDeclDecl]
+      ) [VarDeclarations]
+      StatListDecl(
+        StatListDecl(
+          StatListDecl(
+            NoStatementList(
+            ) [NoStatementList]
+            SingleStatementNoLabel(
+              SingleStatementDesignator(
+                AssignopExpr(
+                  CleanDesignator(
+                   x
+                  ) [CleanDesignator]
+                  AssignopDecl(
+                  ) [AssignopDecl]
+                  AddOperationTerm(
+                    OneTerm(
+                      TermStmtOnly(
+                        FactorNumConst(
+                         3
+                        ) [FactorNumConst]
+                      ) [TermStmtOnly]
+                    ) [OneTerm]
+                  ) [AddOperationTerm]
+                ) [AssignopExpr]
+              ) [SingleStatementDesignator]
+            ) [SingleStatementNoLabel]
+          ) [StatListDecl]
+          StatementWithLabel(
+            Label(
+             labela1
+            ) [Label]
+            PrintStatement(
+              AddOperationTerm(
+                OneTerm(
+                  TermStmtOnly(
+                    FactorNumConst(
+                     7
+                    ) [FactorNumConst]
+                  ) [TermStmtOnly]
+                ) [OneTerm]
+              ) [AddOperationTerm]
+              NoExprForPrint(
+              ) [NoExprForPrint]
+            ) [PrintStatement]
+          ) [StatementWithLabel]
+        ) [StatListDecl]
+        SingleStatementNoLabel(
+          GoToStatement(
+            Label(
+             labela1
+            ) [Label]
+          ) [GoToStatement]
+        ) [SingleStatementNoLabel]
+      ) [StatListDecl]
+    ) [MethodDeclaration]
+  ) [MethodDeclarationsList]
+) [Program]
+INFO  20:25:16,470 - ===================================
+INFO  20:25:16,472 - ===================================
+INFO  20:25:16,475 - Parsiranje uspesno zavrseno!

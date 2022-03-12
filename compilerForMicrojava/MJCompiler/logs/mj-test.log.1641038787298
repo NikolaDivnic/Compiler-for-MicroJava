@@ -1,0 +1,77 @@
+INFO  12:38:00,256 - Compiling source file: C:\ppdomaci\workspace\MJCompiler\test\program2.mj
+INFO  12:38:00,327 - #2 program
+INFO  12:38:00,327 - #3 MJProgram
+INFO  12:38:00,327 - #3 int
+INFO  12:38:00,328 - #3 x
+INFO  12:38:00,329 - #25 ;
+INFO  12:38:00,331 - #4 {
+INFO  12:38:00,331 - #16 void
+INFO  12:38:00,332 - #3 main
+INFO  12:38:00,333 - #12 (
+INFO  12:38:00,334 - #9 )
+INFO  12:38:00,334 - #4 {
+INFO  12:38:00,335 - #14 print
+INFO  12:38:00,336 - #12 (
+INFO  12:38:00,336 - #32 1
+INFO  12:38:00,336 - #9 )
+INFO  12:38:00,337 - #25 ;
+INFO  12:38:00,337 - #5 }
+INFO  12:38:00,338 - #5 }
+INFO  12:38:00,345 - Program(
+  ProgName(
+   MJProgram
+  ) [ProgName]
+  DeclarationsList(
+    NoDecl(
+    ) [NoDecl]
+    VarDeclaration(
+      VarDeclDecl(
+        Type(
+         int
+        ) [Type]
+        VarNotHaveBracket(
+         x
+        ) [VarNotHaveBracket]
+        NoVarDeclList(
+        ) [NoVarDeclList]
+      ) [VarDeclDecl]
+    ) [VarDeclaration]
+  ) [DeclarationsList]
+  MethodDeclarationsList(
+    NoMethodDeclarations(
+    ) [NoMethodDeclarations]
+    MethodDeclaration(
+      MethodDeclarationsVoid(
+      ) [MethodDeclarationsVoid]
+      MethodNameDecl(
+       main
+      ) [MethodNameDecl]
+      MethodAfterTypeWithoutFormPars(
+      ) [MethodAfterTypeWithoutFormPars]
+      NoVarDecl(
+      ) [NoVarDecl]
+      StatListDecl(
+        NoStatementList(
+        ) [NoStatementList]
+        SingleStatementNoLabel(
+          PrintStatement(
+            AddOperationTerm(
+              OneTerm(
+                TermStmtOnly(
+                  FactorNumConst(
+                   1
+                  ) [FactorNumConst]
+                ) [TermStmtOnly]
+              ) [OneTerm]
+            ) [AddOperationTerm]
+            NoExprForPrint(
+            ) [NoExprForPrint]
+          ) [PrintStatement]
+        ) [SingleStatementNoLabel]
+      ) [StatListDecl]
+    ) [MethodDeclaration]
+  ) [MethodDeclarationsList]
+) [Program]
+INFO  12:38:00,351 - ===================================
+INFO  12:38:00,354 - ===================================
+INFO  12:38:00,358 - Parsiranje uspesno zavrseno!

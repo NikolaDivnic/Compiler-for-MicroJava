@@ -1,0 +1,138 @@
+INFO  13:56:40,880 - Compiling source file: C:\pp\workspace\MJCompiler\test\program3.mj
+INFO  13:56:40,946 - #2 program
+INFO  13:56:40,946 - #3 MJProgram
+INFO  13:56:40,946 - #3 char
+INFO  13:56:40,948 - #3 niz
+INFO  13:56:40,949 - #11 [
+INFO  13:56:40,949 - #10 ]
+INFO  13:56:40,949 - #25 ;
+INFO  13:56:40,950 - #4 {
+INFO  13:56:40,950 - #16 void
+INFO  13:56:40,951 - #3 main
+INFO  13:56:40,951 - #12 (
+INFO  13:56:40,952 - #9 )
+INFO  13:56:40,953 - #4 {
+INFO  13:56:40,954 - #3 niz
+INFO  13:56:40,955 - #47 =
+INFO  13:56:40,955 - #15 new
+INFO  13:56:40,956 - #3 char
+INFO  13:56:40,956 - #11 [
+INFO  13:56:40,956 - #32 3
+INFO  13:56:40,956 - #10 ]
+INFO  13:56:40,957 - #25 ;
+INFO  13:56:40,957 - #3 niz
+INFO  13:56:40,957 - #11 [
+INFO  13:56:40,963 - #32 1
+INFO  13:56:40,963 - #10 ]
+INFO  13:56:40,963 - #47 =
+INFO  13:56:40,963 - #33 a
+INFO  13:56:40,963 - #25 ;
+INFO  13:56:40,963 - #5 }
+INFO  13:56:40,964 - #5 }
+INFO  13:56:40,970 - Program(
+  ProgName(
+   MJProgram
+  ) [ProgName]
+  DeclarationsList(
+    NoDecl(
+    ) [NoDecl]
+    VarDeclaration(
+      VarDeclDecl(
+        Type(
+         char
+        ) [Type]
+        VarHaveBracket(
+         niz
+        ) [VarHaveBracket]
+        NoVarDeclList(
+        ) [NoVarDeclList]
+      ) [VarDeclDecl]
+    ) [VarDeclaration]
+  ) [DeclarationsList]
+  MethodDeclarationsList(
+    NoMethodDeclarations(
+    ) [NoMethodDeclarations]
+    MethodDeclaration(
+      MethodDeclarationsVoid(
+      ) [MethodDeclarationsVoid]
+      MethodName(
+       main
+      ) [MethodName]
+      MethodAfterTypeWithoutFormPars(
+      ) [MethodAfterTypeWithoutFormPars]
+      NoVarDecl(
+      ) [NoVarDecl]
+      StatListDecl(
+        StatListDecl(
+          NoStatementList(
+          ) [NoStatementList]
+          SingleStatementNoLabel(
+            SingleStatementDesignator(
+              AssignopExpr(
+                CleanDesignator(
+                 niz
+                ) [CleanDesignator]
+                AssignopDecl(
+                ) [AssignopDecl]
+                AddOperationTerm(
+                  OneTerm(
+                    TermStmtOnly(
+                      FactorNewExpr(
+                        Type(
+                         char
+                        ) [Type]
+                        AddOperationTerm(
+                          OneTerm(
+                            TermStmtOnly(
+                              FactorNumConst(
+                               3
+                              ) [FactorNumConst]
+                            ) [TermStmtOnly]
+                          ) [OneTerm]
+                        ) [AddOperationTerm]
+                      ) [FactorNewExpr]
+                    ) [TermStmtOnly]
+                  ) [OneTerm]
+                ) [AddOperationTerm]
+              ) [AssignopExpr]
+            ) [SingleStatementDesignator]
+          ) [SingleStatementNoLabel]
+        ) [StatListDecl]
+        SingleStatementNoLabel(
+          SingleStatementDesignator(
+            AssignopExpr(
+              ArrayElementAccessDesignator(
+                CleanDesignator(
+                 niz
+                ) [CleanDesignator]
+                AddOperationTerm(
+                  OneTerm(
+                    TermStmtOnly(
+                      FactorNumConst(
+                       1
+                      ) [FactorNumConst]
+                    ) [TermStmtOnly]
+                  ) [OneTerm]
+                ) [AddOperationTerm]
+              ) [ArrayElementAccessDesignator]
+              AssignopDecl(
+              ) [AssignopDecl]
+              AddOperationTerm(
+                OneTerm(
+                  TermStmtOnly(
+                    FactorCharConst(
+                     a
+                    ) [FactorCharConst]
+                  ) [TermStmtOnly]
+                ) [OneTerm]
+              ) [AddOperationTerm]
+            ) [AssignopExpr]
+          ) [SingleStatementDesignator]
+        ) [SingleStatementNoLabel]
+      ) [StatListDecl]
+    ) [MethodDeclaration]
+  ) [MethodDeclarationsList]
+) [Program]
+INFO  13:56:40,971 - ===================================
+INFO  13:56:40,973 - ===================================
+INFO  13:56:40,977 - Parsiranje uspesno zavrseno!

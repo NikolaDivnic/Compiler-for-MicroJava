@@ -1,0 +1,1283 @@
+INFO  14:22:05,595 - Compiling source file: C:\ppdomaci\workspace\MJCompiler\test\program.mj
+INFO  14:22:05,666 - #2 program
+INFO  14:22:05,666 - #3 MJProgram
+INFO  14:22:05,667 - #6 const
+INFO  14:22:05,669 - #3 int
+INFO  14:22:05,669 - #3 x
+INFO  14:22:05,670 - #47 =
+INFO  14:22:05,671 - #32 200
+INFO  14:22:05,671 - #25 ;
+INFO  14:22:05,672 - #6 const
+INFO  14:22:05,672 - #3 int
+INFO  14:22:05,672 - #3 y
+INFO  14:22:05,673 - #47 =
+INFO  14:22:05,673 - #32 200
+INFO  14:22:05,673 - #36 ,
+INFO  14:22:05,673 - #3 xa
+INFO  14:22:05,673 - #47 =
+INFO  14:22:05,674 - #32 5
+INFO  14:22:05,674 - #25 ;
+INFO  14:22:05,674 - #3 int
+INFO  14:22:05,675 - #3 zg1
+INFO  14:22:05,675 - #36 ,
+INFO  14:22:05,676 - #3 zg2
+INFO  14:22:05,681 - #36 ,
+INFO  14:22:05,685 - #3 zg3
+INFO  14:22:05,685 - #11 [
+INFO  14:22:05,685 - #10 ]
+INFO  14:22:05,685 - #25 ;
+INFO  14:22:05,688 - #7 class
+INFO  14:22:05,688 - #3 Pametnica
+INFO  14:22:05,688 - #4 {
+INFO  14:22:05,689 - #3 int
+INFO  14:22:05,689 - #3 y
+INFO  14:22:05,689 - #25 ;
+INFO  14:22:05,689 - #4 {
+INFO  14:22:05,689 - #16 void
+INFO  14:22:05,690 - #3 dohvati_iq
+INFO  14:22:05,690 - #12 (
+INFO  14:22:05,692 - #3 int
+INFO  14:22:05,692 - #3 xpa
+INFO  14:22:05,692 - #9 )
+INFO  14:22:05,695 - #4 {
+INFO  14:22:05,696 - #4 {
+INFO  14:22:05,697 - #24 return
+INFO  14:22:05,697 - #33 A
+INFO  14:22:05,697 - #25 ;
+INFO  14:22:05,699 - #5 }
+INFO  14:22:05,700 - #5 }
+INFO  14:22:05,700 - #5 }
+INFO  14:22:05,702 - #5 }
+INFO  14:22:05,702 - #7 class
+INFO  14:22:05,703 - #3 Ivona
+INFO  14:22:05,703 - #8 extends
+INFO  14:22:05,703 - #3 Pametnica
+INFO  14:22:05,703 - #4 {
+INFO  14:22:05,703 - #3 int
+INFO  14:22:05,703 - #3 x
+INFO  14:22:05,703 - #36 ,
+INFO  14:22:05,703 - #3 xi
+INFO  14:22:05,704 - #25 ;
+INFO  14:22:05,704 - #3 Pametnica
+INFO  14:22:05,704 - #3 p
+INFO  14:22:05,704 - #36 ,
+INFO  14:22:05,704 - #3 ps
+INFO  14:22:05,704 - #11 [
+INFO  14:22:05,704 - #10 ]
+INFO  14:22:05,704 - #25 ;
+INFO  14:22:05,704 - #4 {
+INFO  14:22:05,705 - #16 void
+INFO  14:22:05,705 - #3 baci_foru
+INFO  14:22:05,705 - #12 (
+INFO  14:22:05,705 - #3 int
+INFO  14:22:05,705 - #3 jacina
+INFO  14:22:05,705 - #9 )
+INFO  14:22:05,705 - #4 {
+INFO  14:22:05,705 - #4 {
+INFO  14:22:05,705 - #24 return
+INFO  14:22:05,705 - #25 ;
+INFO  14:22:05,706 - #3 jacina
+INFO  14:22:05,706 - #46 ++
+INFO  14:22:05,708 - #25 ;
+INFO  14:22:05,710 - #3 ps
+INFO  14:22:05,710 - #11 [
+INFO  14:22:05,711 - #32 1
+INFO  14:22:05,711 - #10 ]
+INFO  14:22:05,711 - #35 .
+INFO  14:22:05,711 - #3 y
+INFO  14:22:05,712 - #46 ++
+INFO  14:22:05,712 - #25 ;
+INFO  14:22:05,712 - #3 Pametnica
+INFO  14:22:05,712 - #47 =
+INFO  14:22:05,713 - #32 200
+INFO  14:22:05,714 - #25 ;
+INFO  14:22:05,714 - #5 }
+INFO  14:22:05,714 - #5 }
+INFO  14:22:05,714 - #3 int
+INFO  14:22:05,714 - #3 ukljuci_vredjalicu
+INFO  14:22:05,714 - #12 (
+INFO  14:22:05,715 - #3 int
+INFO  14:22:05,715 - #3 meta
+INFO  14:22:05,715 - #11 [
+INFO  14:22:05,715 - #10 ]
+INFO  14:22:05,715 - #36 ,
+INFO  14:22:05,715 - #3 int
+INFO  14:22:05,716 - #3 jacina
+INFO  14:22:05,716 - #9 )
+INFO  14:22:05,718 - #4 {
+INFO  14:22:05,718 - #4 {
+INFO  14:22:05,718 - #24 return
+INFO  14:22:05,718 - #32 200
+INFO  14:22:05,718 - #25 ;
+INFO  14:22:05,718 - #3 jacina
+INFO  14:22:05,718 - #47 =
+INFO  14:22:05,718 - #3 meta
+INFO  14:22:05,719 - #11 [
+INFO  14:22:05,719 - #32 1
+INFO  14:22:05,719 - #31 +
+INFO  14:22:05,719 - #32 2
+INFO  14:22:05,720 - #10 ]
+INFO  14:22:05,720 - #25 ;
+INFO  14:22:05,720 - #5 }
+INFO  14:22:05,720 - #5 }
+INFO  14:22:05,720 - #5 }
+INFO  14:22:05,721 - #5 }
+INFO  14:22:05,721 - #4 {
+INFO  14:22:05,721 - #3 int
+INFO  14:22:05,721 - #3 baci_foru
+INFO  14:22:05,721 - #12 (
+INFO  14:22:05,721 - #9 )
+INFO  14:22:05,721 - #4 {
+INFO  14:22:05,721 - #24 return
+INFO  14:22:05,721 - #32 200
+INFO  14:22:05,721 - #25 ;
+INFO  14:22:05,721 - #5 }
+INFO  14:22:05,722 - #16 void
+INFO  14:22:05,722 - #3 main
+INFO  14:22:05,722 - #12 (
+INFO  14:22:05,722 - #9 )
+INFO  14:22:05,722 - #4 {
+INFO  14:22:05,722 - #4 {
+INFO  14:22:05,722 - #18 if
+INFO  14:22:05,722 - #12 (
+INFO  14:22:05,722 - #32 400
+INFO  14:22:05,722 - #41 >
+INFO  14:22:05,722 - #32 550
+INFO  14:22:05,723 - #44 ||
+INFO  14:22:05,725 - #32 500
+INFO  14:22:05,725 - #42 <
+INFO  14:22:05,725 - #32 600
+INFO  14:22:05,726 - #45 &&
+INFO  14:22:05,726 - #32 101
+INFO  14:22:05,726 - #42 <
+INFO  14:22:05,726 - #32 102
+INFO  14:22:05,726 - #44 ||
+INFO  14:22:05,727 - #32 700
+INFO  14:22:05,727 - #41 >
+INFO  14:22:05,727 - #32 800
+INFO  14:22:05,727 - #9 )
+INFO  14:22:05,727 - #4 {
+INFO  14:22:05,727 - #14 print
+INFO  14:22:05,728 - #12 (
+INFO  14:22:05,728 - #32 3
+INFO  14:22:05,728 - #28 *
+INFO  14:22:05,728 - #32 5
+INFO  14:22:05,729 - #27 -
+INFO  14:22:05,729 - #12 (
+INFO  14:22:05,730 - #32 2
+INFO  14:22:05,730 - #31 +
+INFO  14:22:05,730 - #32 3
+INFO  14:22:05,730 - #28 *
+INFO  14:22:05,730 - #32 2
+INFO  14:22:05,730 - #9 )
+INFO  14:22:05,730 - #27 -
+INFO  14:22:05,730 - #32 1
+INFO  14:22:05,731 - #9 )
+INFO  14:22:05,731 - #25 ;
+INFO  14:22:05,731 - #5 }
+INFO  14:22:05,731 - #24 return
+INFO  14:22:05,732 - #25 ;
+INFO  14:22:05,732 - #5 }
+INFO  14:22:05,732 - #5 }
+INFO  14:22:05,732 - #16 void
+INFO  14:22:05,732 - #3 baci_foru
+INFO  14:22:05,732 - #12 (
+INFO  14:22:05,732 - #3 int
+INFO  14:22:05,732 - #3 jacina
+INFO  14:22:05,732 - #9 )
+INFO  14:22:05,732 - #3 int
+INFO  14:22:05,732 - #3 xint
+INFO  14:22:05,732 - #25 ;
+INFO  14:22:05,732 - #4 {
+INFO  14:22:05,733 - #4 {
+INFO  14:22:05,733 - #3 baci_foru
+INFO  14:22:05,733 - #12 (
+INFO  14:22:05,733 - #32 100
+INFO  14:22:05,733 - #9 )
+INFO  14:22:05,734 - #25 ;
+INFO  14:22:05,734 - #20 do
+INFO  14:22:05,734 - #4 {
+INFO  14:22:05,734 - #3 baci_foru
+INFO  14:22:05,734 - #12 (
+INFO  14:22:05,734 - #32 100
+INFO  14:22:05,734 - #9 )
+INFO  14:22:05,734 - #25 ;
+INFO  14:22:05,734 - #22 break
+INFO  14:22:05,734 - #25 ;
+INFO  14:22:05,734 - #5 }
+INFO  14:22:05,735 - #21 while
+INFO  14:22:05,735 - #12 (
+INFO  14:22:05,735 - #34 1
+INFO  14:22:05,735 - #9 )
+INFO  14:22:05,735 - #25 ;
+INFO  14:22:05,735 - #22 break
+INFO  14:22:05,735 - #25 ;
+INFO  14:22:05,735 - #23 continue
+INFO  14:22:05,735 - #25 ;
+INFO  14:22:05,736 - #3 xint
+INFO  14:22:05,736 - #47 =
+INFO  14:22:05,736 - #32 8
+INFO  14:22:05,737 - #31 +
+INFO  14:22:05,737 - #32 2
+INFO  14:22:05,737 - #31 +
+INFO  14:22:05,737 - #32 5
+INFO  14:22:05,737 - #28 *
+INFO  14:22:05,737 - #32 34
+INFO  14:22:05,737 - #25 ;
+INFO  14:22:05,737 - #3 baci_foru
+INFO  14:22:05,737 - #12 (
+INFO  14:22:05,737 - #27 -
+INFO  14:22:05,737 - #32 200
+INFO  14:22:05,737 - #9 )
+INFO  14:22:05,737 - #25 ;
+INFO  14:22:05,737 - #5 }
+INFO  14:22:05,737 - #5 }
+INFO  14:22:05,737 - #5 }
+INFO  14:22:05,748 - Program(
+  ProgName(
+   MJProgram
+  ) [ProgName]
+  DeclarationsList(
+    DeclarationsList(
+      DeclarationsList(
+        DeclarationsList(
+          DeclarationsList(
+            NoDecl(
+            ) [NoDecl]
+            ConstDeclaration(
+              ConstDeclDecl(
+                Type(
+                 int
+                ) [Type]
+                ConstDeclName(
+                 x
+                ) [ConstDeclName]
+                NumConstDecl(
+                 200
+                ) [NumConstDecl]
+                NoConstDeclList(
+                ) [NoConstDeclList]
+              ) [ConstDeclDecl]
+            ) [ConstDeclaration]
+          ) [DeclarationsList]
+          ConstDeclaration(
+            ConstDeclDecl(
+              Type(
+               int
+              ) [Type]
+              ConstDeclName(
+               y
+              ) [ConstDeclName]
+              NumConstDecl(
+               200
+              ) [NumConstDecl]
+              ConstDeclListDecl(
+                NoConstDeclList(
+                ) [NoConstDeclList]
+                ConstDeclListSingleDecl(
+                  ConstDeclListSingleName(
+                   xa
+                  ) [ConstDeclListSingleName]
+                  Num(
+                   5
+                  ) [Num]
+                ) [ConstDeclListSingleDecl]
+              ) [ConstDeclListDecl]
+            ) [ConstDeclDecl]
+          ) [ConstDeclaration]
+        ) [DeclarationsList]
+        VarDeclaration(
+          VarDeclDecl(
+            Type(
+             int
+            ) [Type]
+            VarDeclName(
+             zg1
+            ) [VarDeclName]
+            VarDeclNoBrackes(
+              VarDeclListDecl(
+                VarDeclListSingle(
+                  VarDeclListSingleElem(
+                   zg2
+                  ) [VarDeclListSingleElem]
+                  VarNotHaveBracket(
+                  ) [VarNotHaveBracket]
+                ) [VarDeclListSingle]
+                VarDeclListDecl(
+                  VarDeclListSingle(
+                    VarDeclListSingleElem(
+                     zg3
+                    ) [VarDeclListSingleElem]
+                    VarHaveBracket(
+                    ) [VarHaveBracket]
+                  ) [VarDeclListSingle]
+                  NoVarDeclList(
+                  ) [NoVarDeclList]
+                ) [VarDeclListDecl]
+              ) [VarDeclListDecl]
+            ) [VarDeclNoBrackes]
+          ) [VarDeclDecl]
+        ) [VarDeclaration]
+      ) [DeclarationsList]
+      ClassDeclarations(
+        RootClass(
+         Pametnica
+        ) [RootClass]
+        ClassTelo(
+          VarDeclDecl(
+            Type(
+             int
+            ) [Type]
+            VarDeclName(
+             y
+            ) [VarDeclName]
+            VarDeclNoBrackes(
+              NoVarDeclList(
+              ) [NoVarDeclList]
+            ) [VarDeclNoBrackes]
+          ) [VarDeclDecl]
+          AfterVarDeclarations(
+            HaveSomethingInClass(
+              ClassWithConstructor(
+                MethodDeclarationsList(
+                  NoMethodDeclarations(
+                  ) [NoMethodDeclarations]
+                  MethodDeclarationsVoid(
+                    MethodVoid(
+                     dohvati_iq
+                    ) [MethodVoid]
+                    MethodAfterTypeWithFormPars(
+                      FormParsDecl(
+                        Type(
+                         int
+                        ) [Type]
+                        FormParsName(
+                         xpa
+                        ) [FormParsName]
+                        FormParamNoBrackes(
+                          NoFormParsList(
+                          ) [NoFormParsList]
+                        ) [FormParamNoBrackes]
+                      ) [FormParsDecl]
+                      MethodAfterParentheses(
+                        NoVarDecl(
+                        ) [NoVarDecl]
+                        StatListDecl(
+                          NoStatementList(
+                          ) [NoStatementList]
+                          StatementLis(
+                            StatementListDeclaration(
+                              StatListDecl(
+                                NoStatementList(
+                                ) [NoStatementList]
+                                SingleStatementNoLabel(
+                                  ReturnStatementExpr(
+                                    DontHaveMinusExpr(
+                                      Term(
+                                        FactorCharConst(
+                                         A
+                                        ) [FactorCharConst]
+                                        NoTermAfterFactor(
+                                        ) [NoTermAfterFactor]
+                                      ) [Term]
+                                      NoExprAfterTerm(
+                                      ) [NoExprAfterTerm]
+                                    ) [DontHaveMinusExpr]
+                                  ) [ReturnStatementExpr]
+                                ) [SingleStatementNoLabel]
+                              ) [StatListDecl]
+                            ) [StatementListDeclaration]
+                          ) [StatementLis]
+                        ) [StatListDecl]
+                      ) [MethodAfterParentheses]
+                    ) [MethodAfterTypeWithFormPars]
+                  ) [MethodDeclarationsVoid]
+                ) [MethodDeclarationsList]
+              ) [ClassWithConstructor]
+            ) [HaveSomethingInClass]
+          ) [AfterVarDeclarations]
+        ) [ClassTelo]
+      ) [ClassDeclarations]
+    ) [DeclarationsList]
+    ClassDeclarations(
+      ChildClass(
+       Ivona
+        Type(
+         Pametnica
+        ) [Type]
+      ) [ChildClass]
+      ClassTelo(
+        VarDeclDecl(
+          Type(
+           int
+          ) [Type]
+          VarDeclName(
+           x
+          ) [VarDeclName]
+          VarDeclNoBrackes(
+            VarDeclListDecl(
+              VarDeclListSingle(
+                VarDeclListSingleElem(
+                 xi
+                ) [VarDeclListSingleElem]
+                VarNotHaveBracket(
+                ) [VarNotHaveBracket]
+              ) [VarDeclListSingle]
+              NoVarDeclList(
+              ) [NoVarDeclList]
+            ) [VarDeclListDecl]
+          ) [VarDeclNoBrackes]
+        ) [VarDeclDecl]
+        ClassTelo(
+          VarDeclDecl(
+            Type(
+             Pametnica
+            ) [Type]
+            VarDeclName(
+             p
+            ) [VarDeclName]
+            VarDeclNoBrackes(
+              VarDeclListDecl(
+                VarDeclListSingle(
+                  VarDeclListSingleElem(
+                   ps
+                  ) [VarDeclListSingleElem]
+                  VarHaveBracket(
+                  ) [VarHaveBracket]
+                ) [VarDeclListSingle]
+                NoVarDeclList(
+                ) [NoVarDeclList]
+              ) [VarDeclListDecl]
+            ) [VarDeclNoBrackes]
+          ) [VarDeclDecl]
+          AfterVarDeclarations(
+            HaveSomethingInClass(
+              ClassWithConstructor(
+                MethodDeclarationsList(
+                  MethodDeclarationsList(
+                    NoMethodDeclarations(
+                    ) [NoMethodDeclarations]
+                    MethodDeclarationsVoid(
+                      MethodVoid(
+                       baci_foru
+                      ) [MethodVoid]
+                      MethodAfterTypeWithFormPars(
+                        FormParsDecl(
+                          Type(
+                           int
+                          ) [Type]
+                          FormParsName(
+                           jacina
+                          ) [FormParsName]
+                          FormParamNoBrackes(
+                            NoFormParsList(
+                            ) [NoFormParsList]
+                          ) [FormParamNoBrackes]
+                        ) [FormParsDecl]
+                        MethodAfterParentheses(
+                          NoVarDecl(
+                          ) [NoVarDecl]
+                          StatListDecl(
+                            NoStatementList(
+                            ) [NoStatementList]
+                            StatementLis(
+                              StatementListDeclaration(
+                                StatListDecl(
+                                  StatListDecl(
+                                    StatListDecl(
+                                      StatListDecl(
+                                        NoStatementList(
+                                        ) [NoStatementList]
+                                        SingleStatementNoLabel(
+                                          ReturnStatementNoExpr(
+                                          ) [ReturnStatementNoExpr]
+                                        ) [SingleStatementNoLabel]
+                                      ) [StatListDecl]
+                                      SingleStatementNoLabel(
+                                        SingleStatementDesignator(
+                                          DesignatorStatementFirst(
+                                            DesignatorDecl(
+                                              DesignatorName(
+                                               jacina
+                                              ) [DesignatorName]
+                                              NoDesignatorList(
+                                              ) [NoDesignatorList]
+                                            ) [DesignatorDecl]
+                                            DesignatorStatIncrement(
+                                            ) [DesignatorStatIncrement]
+                                          ) [DesignatorStatementFirst]
+                                        ) [SingleStatementDesignator]
+                                      ) [SingleStatementNoLabel]
+                                    ) [StatListDecl]
+                                    SingleStatementNoLabel(
+                                      SingleStatementDesignator(
+                                        DesignatorStatementFirst(
+                                          DesignatorDecl(
+                                            DesignatorName(
+                                             ps
+                                            ) [DesignatorName]
+                                            DesignatorListDecl(
+                                              DesignatorListDecl(
+                                                NoDesignatorList(
+                                                ) [NoDesignatorList]
+                                                DesignListElemSingleSecond(
+                                                  DontHaveMinusExpr(
+                                                    Term(
+                                                      FactorNumConst(
+                                                       1
+                                                      ) [FactorNumConst]
+                                                      NoTermAfterFactor(
+                                                      ) [NoTermAfterFactor]
+                                                    ) [Term]
+                                                    NoExprAfterTerm(
+                                                    ) [NoExprAfterTerm]
+                                                  ) [DontHaveMinusExpr]
+                                                ) [DesignListElemSingleSecond]
+                                              ) [DesignatorListDecl]
+                                              DesignListElemSingleFirst(
+                                                DesignListElemSingleName(
+                                                 y
+                                                ) [DesignListElemSingleName]
+                                              ) [DesignListElemSingleFirst]
+                                            ) [DesignatorListDecl]
+                                          ) [DesignatorDecl]
+                                          DesignatorStatIncrement(
+                                          ) [DesignatorStatIncrement]
+                                        ) [DesignatorStatementFirst]
+                                      ) [SingleStatementDesignator]
+                                    ) [SingleStatementNoLabel]
+                                  ) [StatListDecl]
+                                  SingleStatementNoLabel(
+                                    SingleStatementDesignator(
+                                      DesignatorStatementFirst(
+                                        DesignatorDecl(
+                                          DesignatorName(
+                                           Pametnica
+                                          ) [DesignatorName]
+                                          NoDesignatorList(
+                                          ) [NoDesignatorList]
+                                        ) [DesignatorDecl]
+                                        AssignopExpr(
+                                          AssignopDecl(
+                                          ) [AssignopDecl]
+                                          DontHaveMinusExpr(
+                                            Term(
+                                              FactorNumConst(
+                                               200
+                                              ) [FactorNumConst]
+                                              NoTermAfterFactor(
+                                              ) [NoTermAfterFactor]
+                                            ) [Term]
+                                            NoExprAfterTerm(
+                                            ) [NoExprAfterTerm]
+                                          ) [DontHaveMinusExpr]
+                                        ) [AssignopExpr]
+                                      ) [DesignatorStatementFirst]
+                                    ) [SingleStatementDesignator]
+                                  ) [SingleStatementNoLabel]
+                                ) [StatListDecl]
+                              ) [StatementListDeclaration]
+                            ) [StatementLis]
+                          ) [StatListDecl]
+                        ) [MethodAfterParentheses]
+                      ) [MethodAfterTypeWithFormPars]
+                    ) [MethodDeclarationsVoid]
+                  ) [MethodDeclarationsList]
+                  MethodDeclarationsType(
+                    Type(
+                     int
+                    ) [Type]
+                    MethodTypeName(
+                     ukljuci_vredjalicu
+                    ) [MethodTypeName]
+                    MethodAfterTypeWithFormPars(
+                      FormParsDecl(
+                        Type(
+                         int
+                        ) [Type]
+                        FormParsName(
+                         meta
+                        ) [FormParsName]
+                        FormParamBrackes(
+                          FormParsListDecl(
+                            NoFormParsList(
+                            ) [NoFormParsList]
+                            FormParsListSingle(
+                              Type(
+                               int
+                              ) [Type]
+                              FormParsListSingleElem(
+                               jacina
+                              ) [FormParsListSingleElem]
+                              FormSingleNoHaveBr(
+                              ) [FormSingleNoHaveBr]
+                            ) [FormParsListSingle]
+                          ) [FormParsListDecl]
+                        ) [FormParamBrackes]
+                      ) [FormParsDecl]
+                      MethodAfterParentheses(
+                        NoVarDecl(
+                        ) [NoVarDecl]
+                        StatListDecl(
+                          NoStatementList(
+                          ) [NoStatementList]
+                          StatementLis(
+                            StatementListDeclaration(
+                              StatListDecl(
+                                StatListDecl(
+                                  NoStatementList(
+                                  ) [NoStatementList]
+                                  SingleStatementNoLabel(
+                                    ReturnStatementExpr(
+                                      DontHaveMinusExpr(
+                                        Term(
+                                          FactorNumConst(
+                                           200
+                                          ) [FactorNumConst]
+                                          NoTermAfterFactor(
+                                          ) [NoTermAfterFactor]
+                                        ) [Term]
+                                        NoExprAfterTerm(
+                                        ) [NoExprAfterTerm]
+                                      ) [DontHaveMinusExpr]
+                                    ) [ReturnStatementExpr]
+                                  ) [SingleStatementNoLabel]
+                                ) [StatListDecl]
+                                SingleStatementNoLabel(
+                                  SingleStatementDesignator(
+                                    DesignatorStatementFirst(
+                                      DesignatorDecl(
+                                        DesignatorName(
+                                         jacina
+                                        ) [DesignatorName]
+                                        NoDesignatorList(
+                                        ) [NoDesignatorList]
+                                      ) [DesignatorDecl]
+                                      AssignopExpr(
+                                        AssignopDecl(
+                                        ) [AssignopDecl]
+                                        DontHaveMinusExpr(
+                                          Term(
+                                            FactorDesignatorNoParam(
+                                              DesignatorDecl(
+                                                DesignatorName(
+                                                 meta
+                                                ) [DesignatorName]
+                                                DesignatorListDecl(
+                                                  NoDesignatorList(
+                                                  ) [NoDesignatorList]
+                                                  DesignListElemSingleSecond(
+                                                    DontHaveMinusExpr(
+                                                      Term(
+                                                        FactorNumConst(
+                                                         1
+                                                        ) [FactorNumConst]
+                                                        NoTermAfterFactor(
+                                                        ) [NoTermAfterFactor]
+                                                      ) [Term]
+                                                      ExprAfterTermList(
+                                                        NoExprAfterTerm(
+                                                        ) [NoExprAfterTerm]
+                                                        ExprAfterTermSing(
+                                                          AddopPlus(
+                                                          ) [AddopPlus]
+                                                          Term(
+                                                            FactorNumConst(
+                                                             2
+                                                            ) [FactorNumConst]
+                                                            NoTermAfterFactor(
+                                                            ) [NoTermAfterFactor]
+                                                          ) [Term]
+                                                        ) [ExprAfterTermSing]
+                                                      ) [ExprAfterTermList]
+                                                    ) [DontHaveMinusExpr]
+                                                  ) [DesignListElemSingleSecond]
+                                                ) [DesignatorListDecl]
+                                              ) [DesignatorDecl]
+                                            ) [FactorDesignatorNoParam]
+                                            NoTermAfterFactor(
+                                            ) [NoTermAfterFactor]
+                                          ) [Term]
+                                          NoExprAfterTerm(
+                                          ) [NoExprAfterTerm]
+                                        ) [DontHaveMinusExpr]
+                                      ) [AssignopExpr]
+                                    ) [DesignatorStatementFirst]
+                                  ) [SingleStatementDesignator]
+                                ) [SingleStatementNoLabel]
+                              ) [StatListDecl]
+                            ) [StatementListDeclaration]
+                          ) [StatementLis]
+                        ) [StatListDecl]
+                      ) [MethodAfterParentheses]
+                    ) [MethodAfterTypeWithFormPars]
+                  ) [MethodDeclarationsType]
+                ) [MethodDeclarationsList]
+              ) [ClassWithConstructor]
+            ) [HaveSomethingInClass]
+          ) [AfterVarDeclarations]
+        ) [ClassTelo]
+      ) [ClassTelo]
+    ) [ClassDeclarations]
+  ) [DeclarationsList]
+  MethodDeclarationsList(
+    MethodDeclarationsList(
+      MethodDeclarationsList(
+        NoMethodDeclarations(
+        ) [NoMethodDeclarations]
+        MethodDeclarationsType(
+          Type(
+           int
+          ) [Type]
+          MethodTypeName(
+           baci_foru
+          ) [MethodTypeName]
+          MethodAfterTypeWithoutFormPars(
+            MethodAfterParentheses(
+              NoVarDecl(
+              ) [NoVarDecl]
+              StatListDecl(
+                NoStatementList(
+                ) [NoStatementList]
+                SingleStatementNoLabel(
+                  ReturnStatementExpr(
+                    DontHaveMinusExpr(
+                      Term(
+                        FactorNumConst(
+                         200
+                        ) [FactorNumConst]
+                        NoTermAfterFactor(
+                        ) [NoTermAfterFactor]
+                      ) [Term]
+                      NoExprAfterTerm(
+                      ) [NoExprAfterTerm]
+                    ) [DontHaveMinusExpr]
+                  ) [ReturnStatementExpr]
+                ) [SingleStatementNoLabel]
+              ) [StatListDecl]
+            ) [MethodAfterParentheses]
+          ) [MethodAfterTypeWithoutFormPars]
+        ) [MethodDeclarationsType]
+      ) [MethodDeclarationsList]
+      MethodDeclarationsVoid(
+        MethodVoid(
+         main
+        ) [MethodVoid]
+        MethodAfterTypeWithoutFormPars(
+          MethodAfterParentheses(
+            NoVarDecl(
+            ) [NoVarDecl]
+            StatListDecl(
+              NoStatementList(
+              ) [NoStatementList]
+              StatementLis(
+                StatementListDeclaration(
+                  StatListDecl(
+                    StatListDecl(
+                      NoStatementList(
+                      ) [NoStatementList]
+                      SingleStatementNoLabel(
+                        IfThenStatement(
+                          ConditionDecl(
+                            CondTermDecl(
+                              CondFactWithRelop(
+                                DontHaveMinusExpr(
+                                  Term(
+                                    FactorNumConst(
+                                     400
+                                    ) [FactorNumConst]
+                                    NoTermAfterFactor(
+                                    ) [NoTermAfterFactor]
+                                  ) [Term]
+                                  NoExprAfterTerm(
+                                  ) [NoExprAfterTerm]
+                                ) [DontHaveMinusExpr]
+                                RelopLargerThan(
+                                ) [RelopLargerThan]
+                                DontHaveMinusExpr(
+                                  Term(
+                                    FactorNumConst(
+                                     550
+                                    ) [FactorNumConst]
+                                    NoTermAfterFactor(
+                                    ) [NoTermAfterFactor]
+                                  ) [Term]
+                                  NoExprAfterTerm(
+                                  ) [NoExprAfterTerm]
+                                ) [DontHaveMinusExpr]
+                              ) [CondFactWithRelop]
+                              NoCondTermAfter(
+                              ) [NoCondTermAfter]
+                            ) [CondTermDecl]
+                            ConditionAfterList(
+                              ConditionAfterList(
+                                NoConditionAfter(
+                                ) [NoConditionAfter]
+                                ConditionAfterSingleDecl(
+                                  CondTermDecl(
+                                    CondFactWithRelop(
+                                      DontHaveMinusExpr(
+                                        Term(
+                                          FactorNumConst(
+                                           500
+                                          ) [FactorNumConst]
+                                          NoTermAfterFactor(
+                                          ) [NoTermAfterFactor]
+                                        ) [Term]
+                                        NoExprAfterTerm(
+                                        ) [NoExprAfterTerm]
+                                      ) [DontHaveMinusExpr]
+                                      RelopLessThan(
+                                      ) [RelopLessThan]
+                                      DontHaveMinusExpr(
+                                        Term(
+                                          FactorNumConst(
+                                           600
+                                          ) [FactorNumConst]
+                                          NoTermAfterFactor(
+                                          ) [NoTermAfterFactor]
+                                        ) [Term]
+                                        NoExprAfterTerm(
+                                        ) [NoExprAfterTerm]
+                                      ) [DontHaveMinusExpr]
+                                    ) [CondFactWithRelop]
+                                    CondTermAfterList(
+                                      NoCondTermAfter(
+                                      ) [NoCondTermAfter]
+                                      CondTermAfterSingleDecl(
+                                        CondFactWithRelop(
+                                          DontHaveMinusExpr(
+                                            Term(
+                                              FactorNumConst(
+                                               101
+                                              ) [FactorNumConst]
+                                              NoTermAfterFactor(
+                                              ) [NoTermAfterFactor]
+                                            ) [Term]
+                                            NoExprAfterTerm(
+                                            ) [NoExprAfterTerm]
+                                          ) [DontHaveMinusExpr]
+                                          RelopLessThan(
+                                          ) [RelopLessThan]
+                                          DontHaveMinusExpr(
+                                            Term(
+                                              FactorNumConst(
+                                               102
+                                              ) [FactorNumConst]
+                                              NoTermAfterFactor(
+                                              ) [NoTermAfterFactor]
+                                            ) [Term]
+                                            NoExprAfterTerm(
+                                            ) [NoExprAfterTerm]
+                                          ) [DontHaveMinusExpr]
+                                        ) [CondFactWithRelop]
+                                      ) [CondTermAfterSingleDecl]
+                                    ) [CondTermAfterList]
+                                  ) [CondTermDecl]
+                                ) [ConditionAfterSingleDecl]
+                              ) [ConditionAfterList]
+                              ConditionAfterSingleDecl(
+                                CondTermDecl(
+                                  CondFactWithRelop(
+                                    DontHaveMinusExpr(
+                                      Term(
+                                        FactorNumConst(
+                                         700
+                                        ) [FactorNumConst]
+                                        NoTermAfterFactor(
+                                        ) [NoTermAfterFactor]
+                                      ) [Term]
+                                      NoExprAfterTerm(
+                                      ) [NoExprAfterTerm]
+                                    ) [DontHaveMinusExpr]
+                                    RelopLargerThan(
+                                    ) [RelopLargerThan]
+                                    DontHaveMinusExpr(
+                                      Term(
+                                        FactorNumConst(
+                                         800
+                                        ) [FactorNumConst]
+                                        NoTermAfterFactor(
+                                        ) [NoTermAfterFactor]
+                                      ) [Term]
+                                      NoExprAfterTerm(
+                                      ) [NoExprAfterTerm]
+                                    ) [DontHaveMinusExpr]
+                                  ) [CondFactWithRelop]
+                                  NoCondTermAfter(
+                                  ) [NoCondTermAfter]
+                                ) [CondTermDecl]
+                              ) [ConditionAfterSingleDecl]
+                            ) [ConditionAfterList]
+                          ) [ConditionDecl]
+                          StatementLis(
+                            StatementListDeclaration(
+                              StatListDecl(
+                                NoStatementList(
+                                ) [NoStatementList]
+                                SingleStatementNoLabel(
+                                  PrintStatement(
+                                    DontHaveMinusExpr(
+                                      Term(
+                                        FactorNumConst(
+                                         3
+                                        ) [FactorNumConst]
+                                        TermAfterFactorList(
+                                          NoTermAfterFactor(
+                                          ) [NoTermAfterFactor]
+                                          TermAfterFactorSingle(
+                                            MulopMultiply(
+                                            ) [MulopMultiply]
+                                            FactorNumConst(
+                                             5
+                                            ) [FactorNumConst]
+                                          ) [TermAfterFactorSingle]
+                                        ) [TermAfterFactorList]
+                                      ) [Term]
+                                      ExprAfterTermList(
+                                        ExprAfterTermList(
+                                          NoExprAfterTerm(
+                                          ) [NoExprAfterTerm]
+                                          ExprAfterTermSing(
+                                            AddopMinus(
+                                            ) [AddopMinus]
+                                            Term(
+                                              FactorExpr(
+                                                DontHaveMinusExpr(
+                                                  Term(
+                                                    FactorNumConst(
+                                                     2
+                                                    ) [FactorNumConst]
+                                                    NoTermAfterFactor(
+                                                    ) [NoTermAfterFactor]
+                                                  ) [Term]
+                                                  ExprAfterTermList(
+                                                    NoExprAfterTerm(
+                                                    ) [NoExprAfterTerm]
+                                                    ExprAfterTermSing(
+                                                      AddopPlus(
+                                                      ) [AddopPlus]
+                                                      Term(
+                                                        FactorNumConst(
+                                                         3
+                                                        ) [FactorNumConst]
+                                                        TermAfterFactorList(
+                                                          NoTermAfterFactor(
+                                                          ) [NoTermAfterFactor]
+                                                          TermAfterFactorSingle(
+                                                            MulopMultiply(
+                                                            ) [MulopMultiply]
+                                                            FactorNumConst(
+                                                             2
+                                                            ) [FactorNumConst]
+                                                          ) [TermAfterFactorSingle]
+                                                        ) [TermAfterFactorList]
+                                                      ) [Term]
+                                                    ) [ExprAfterTermSing]
+                                                  ) [ExprAfterTermList]
+                                                ) [DontHaveMinusExpr]
+                                              ) [FactorExpr]
+                                              NoTermAfterFactor(
+                                              ) [NoTermAfterFactor]
+                                            ) [Term]
+                                          ) [ExprAfterTermSing]
+                                        ) [ExprAfterTermList]
+                                        ExprAfterTermSing(
+                                          AddopMinus(
+                                          ) [AddopMinus]
+                                          Term(
+                                            FactorNumConst(
+                                             1
+                                            ) [FactorNumConst]
+                                            NoTermAfterFactor(
+                                            ) [NoTermAfterFactor]
+                                          ) [Term]
+                                        ) [ExprAfterTermSing]
+                                      ) [ExprAfterTermList]
+                                    ) [DontHaveMinusExpr]
+                                    NoExprForPrint(
+                                    ) [NoExprForPrint]
+                                  ) [PrintStatement]
+                                ) [SingleStatementNoLabel]
+                              ) [StatListDecl]
+                            ) [StatementListDeclaration]
+                          ) [StatementLis]
+                        ) [IfThenStatement]
+                      ) [SingleStatementNoLabel]
+                    ) [StatListDecl]
+                    SingleStatementNoLabel(
+                      ReturnStatementNoExpr(
+                      ) [ReturnStatementNoExpr]
+                    ) [SingleStatementNoLabel]
+                  ) [StatListDecl]
+                ) [StatementListDeclaration]
+              ) [StatementLis]
+            ) [StatListDecl]
+          ) [MethodAfterParentheses]
+        ) [MethodAfterTypeWithoutFormPars]
+      ) [MethodDeclarationsVoid]
+    ) [MethodDeclarationsList]
+    MethodDeclarationsVoid(
+      MethodVoid(
+       baci_foru
+      ) [MethodVoid]
+      MethodAfterTypeWithFormPars(
+        FormParsDecl(
+          Type(
+           int
+          ) [Type]
+          FormParsName(
+           jacina
+          ) [FormParsName]
+          FormParamNoBrackes(
+            NoFormParsList(
+            ) [NoFormParsList]
+          ) [FormParamNoBrackes]
+        ) [FormParsDecl]
+        MethodAfterParentheses(
+          VarDeclarations(
+            NoVarDecl(
+            ) [NoVarDecl]
+            VarDeclDecl(
+              Type(
+               int
+              ) [Type]
+              VarDeclName(
+               xint
+              ) [VarDeclName]
+              VarDeclNoBrackes(
+                NoVarDeclList(
+                ) [NoVarDeclList]
+              ) [VarDeclNoBrackes]
+            ) [VarDeclDecl]
+          ) [VarDeclarations]
+          StatListDecl(
+            NoStatementList(
+            ) [NoStatementList]
+            StatementLis(
+              StatementListDeclaration(
+                StatListDecl(
+                  StatListDecl(
+                    StatListDecl(
+                      StatListDecl(
+                        StatListDecl(
+                          StatListDecl(
+                            NoStatementList(
+                            ) [NoStatementList]
+                            SingleStatementNoLabel(
+                              SingleStatementDesignator(
+                                DesignatorStatementFirst(
+                                  DesignatorDecl(
+                                    DesignatorName(
+                                     baci_foru
+                                    ) [DesignatorName]
+                                    NoDesignatorList(
+                                    ) [NoDesignatorList]
+                                  ) [DesignatorDecl]
+                                  DesigStatementActPars(
+                                    AfterParsWithList(
+                                      DontHaveMinusExpr(
+                                        Term(
+                                          FactorNumConst(
+                                           100
+                                          ) [FactorNumConst]
+                                          NoTermAfterFactor(
+                                          ) [NoTermAfterFactor]
+                                        ) [Term]
+                                        NoExprAfterTerm(
+                                        ) [NoExprAfterTerm]
+                                      ) [DontHaveMinusExpr]
+                                      NoAfterParsExpr(
+                                      ) [NoAfterParsExpr]
+                                    ) [AfterParsWithList]
+                                  ) [DesigStatementActPars]
+                                ) [DesignatorStatementFirst]
+                              ) [SingleStatementDesignator]
+                            ) [SingleStatementNoLabel]
+                          ) [StatListDecl]
+                          SingleStatementNoLabel(
+                            DoWhileStatement(
+                              StatementLis(
+                                StatementListDeclaration(
+                                  StatListDecl(
+                                    StatListDecl(
+                                      NoStatementList(
+                                      ) [NoStatementList]
+                                      SingleStatementNoLabel(
+                                        SingleStatementDesignator(
+                                          DesignatorStatementFirst(
+                                            DesignatorDecl(
+                                              DesignatorName(
+                                               baci_foru
+                                              ) [DesignatorName]
+                                              NoDesignatorList(
+                                              ) [NoDesignatorList]
+                                            ) [DesignatorDecl]
+                                            DesigStatementActPars(
+                                              AfterParsWithList(
+                                                DontHaveMinusExpr(
+                                                  Term(
+                                                    FactorNumConst(
+                                                     100
+                                                    ) [FactorNumConst]
+                                                    NoTermAfterFactor(
+                                                    ) [NoTermAfterFactor]
+                                                  ) [Term]
+                                                  NoExprAfterTerm(
+                                                  ) [NoExprAfterTerm]
+                                                ) [DontHaveMinusExpr]
+                                                NoAfterParsExpr(
+                                                ) [NoAfterParsExpr]
+                                              ) [AfterParsWithList]
+                                            ) [DesigStatementActPars]
+                                          ) [DesignatorStatementFirst]
+                                        ) [SingleStatementDesignator]
+                                      ) [SingleStatementNoLabel]
+                                    ) [StatListDecl]
+                                    SingleStatementNoLabel(
+                                      BreakStatement(
+                                      ) [BreakStatement]
+                                    ) [SingleStatementNoLabel]
+                                  ) [StatListDecl]
+                                ) [StatementListDeclaration]
+                              ) [StatementLis]
+                              ConditionDecl(
+                                CondTermDecl(
+                                  CondFactWithoutRelop(
+                                    DontHaveMinusExpr(
+                                      Term(
+                                        FactorBoolConst(
+                                         1
+                                        ) [FactorBoolConst]
+                                        NoTermAfterFactor(
+                                        ) [NoTermAfterFactor]
+                                      ) [Term]
+                                      NoExprAfterTerm(
+                                      ) [NoExprAfterTerm]
+                                    ) [DontHaveMinusExpr]
+                                  ) [CondFactWithoutRelop]
+                                  NoCondTermAfter(
+                                  ) [NoCondTermAfter]
+                                ) [CondTermDecl]
+                                NoConditionAfter(
+                                ) [NoConditionAfter]
+                              ) [ConditionDecl]
+                            ) [DoWhileStatement]
+                          ) [SingleStatementNoLabel]
+                        ) [StatListDecl]
+                        SingleStatementNoLabel(
+                          BreakStatement(
+                          ) [BreakStatement]
+                        ) [SingleStatementNoLabel]
+                      ) [StatListDecl]
+                      SingleStatementNoLabel(
+                        ContinueStatement(
+                        ) [ContinueStatement]
+                      ) [SingleStatementNoLabel]
+                    ) [StatListDecl]
+                    SingleStatementNoLabel(
+                      SingleStatementDesignator(
+                        DesignatorStatementFirst(
+                          DesignatorDecl(
+                            DesignatorName(
+                             xint
+                            ) [DesignatorName]
+                            NoDesignatorList(
+                            ) [NoDesignatorList]
+                          ) [DesignatorDecl]
+                          AssignopExpr(
+                            AssignopDecl(
+                            ) [AssignopDecl]
+                            DontHaveMinusExpr(
+                              Term(
+                                FactorNumConst(
+                                 8
+                                ) [FactorNumConst]
+                                NoTermAfterFactor(
+                                ) [NoTermAfterFactor]
+                              ) [Term]
+                              ExprAfterTermList(
+                                ExprAfterTermList(
+                                  NoExprAfterTerm(
+                                  ) [NoExprAfterTerm]
+                                  ExprAfterTermSing(
+                                    AddopPlus(
+                                    ) [AddopPlus]
+                                    Term(
+                                      FactorNumConst(
+                                       2
+                                      ) [FactorNumConst]
+                                      NoTermAfterFactor(
+                                      ) [NoTermAfterFactor]
+                                    ) [Term]
+                                  ) [ExprAfterTermSing]
+                                ) [ExprAfterTermList]
+                                ExprAfterTermSing(
+                                  AddopPlus(
+                                  ) [AddopPlus]
+                                  Term(
+                                    FactorNumConst(
+                                     5
+                                    ) [FactorNumConst]
+                                    TermAfterFactorList(
+                                      NoTermAfterFactor(
+                                      ) [NoTermAfterFactor]
+                                      TermAfterFactorSingle(
+                                        MulopMultiply(
+                                        ) [MulopMultiply]
+                                        FactorNumConst(
+                                         34
+                                        ) [FactorNumConst]
+                                      ) [TermAfterFactorSingle]
+                                    ) [TermAfterFactorList]
+                                  ) [Term]
+                                ) [ExprAfterTermSing]
+                              ) [ExprAfterTermList]
+                            ) [DontHaveMinusExpr]
+                          ) [AssignopExpr]
+                        ) [DesignatorStatementFirst]
+                      ) [SingleStatementDesignator]
+                    ) [SingleStatementNoLabel]
+                  ) [StatListDecl]
+                  SingleStatementNoLabel(
+                    SingleStatementDesignator(
+                      DesignatorStatementFirst(
+                        DesignatorDecl(
+                          DesignatorName(
+                           baci_foru
+                          ) [DesignatorName]
+                          NoDesignatorList(
+                          ) [NoDesignatorList]
+                        ) [DesignatorDecl]
+                        DesigStatementActPars(
+                          AfterParsWithList(
+                            HaveMinusExpr(
+                              Term(
+                                FactorNumConst(
+                                 200
+                                ) [FactorNumConst]
+                                NoTermAfterFactor(
+                                ) [NoTermAfterFactor]
+                              ) [Term]
+                              NoExprAfterTerm(
+                              ) [NoExprAfterTerm]
+                            ) [HaveMinusExpr]
+                            NoAfterParsExpr(
+                            ) [NoAfterParsExpr]
+                          ) [AfterParsWithList]
+                        ) [DesigStatementActPars]
+                      ) [DesignatorStatementFirst]
+                    ) [SingleStatementDesignator]
+                  ) [SingleStatementNoLabel]
+                ) [StatListDecl]
+              ) [StatementListDeclaration]
+            ) [StatementLis]
+          ) [StatListDecl]
+        ) [MethodAfterParentheses]
+      ) [MethodAfterTypeWithFormPars]
+    ) [MethodDeclarationsVoid]
+  ) [MethodDeclarationsList]
+) [Program]
+INFO  14:22:05,751 - ===================================
+INFO  14:22:05,755 - ===================================
+INFO  14:22:05,756 - Parsiranje uspesno zavrseno!

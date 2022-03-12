@@ -1,0 +1,96 @@
+INFO  12:14:58,413 - Compiling source file: C:\ppdomaci\workspace\MJCompiler\test\program2.mj
+INFO  12:14:58,469 - #2 program
+INFO  12:14:58,470 - #3 MJProgram
+INFO  12:14:58,470 - #6 const
+INFO  12:14:58,471 - #3 int
+INFO  12:14:58,471 - #3 broj3
+INFO  12:14:58,472 - #47 =
+INFO  12:14:58,472 - #32 0
+INFO  12:14:58,472 - #25 ;
+INFO  12:14:58,473 - #4 {
+INFO  12:14:58,474 - #16 void
+INFO  12:14:58,475 - #3 main
+INFO  12:14:58,476 - #12 (
+INFO  12:14:58,476 - #9 )
+INFO  12:14:58,477 - #3 int
+INFO  12:14:58,478 - #3 x
+INFO  12:14:58,478 - #25 ;
+INFO  12:14:58,479 - #4 {
+INFO  12:14:58,480 - #14 print
+INFO  12:14:58,481 - #12 (
+INFO  12:14:58,481 - #32 6
+INFO  12:14:58,481 - #9 )
+INFO  12:14:58,483 - #25 ;
+INFO  12:14:58,488 - #5 }
+INFO  12:14:58,488 - #5 }
+INFO  12:14:58,500 - Program(
+  ProgName(
+   MJProgram
+  ) [ProgName]
+  DeclarationsList(
+    NoDecl(
+    ) [NoDecl]
+    ConstDeclaration(
+      ConstDeclDecl(
+        Type(
+         int
+        ) [Type]
+       broj3
+        NumConstDecl(
+         0
+        ) [NumConstDecl]
+        NoConstDeclList(
+        ) [NoConstDeclList]
+      ) [ConstDeclDecl]
+    ) [ConstDeclaration]
+  ) [DeclarationsList]
+  MethodDeclarationsList(
+    NoMethodDeclarations(
+    ) [NoMethodDeclarations]
+    MethodDeclaration(
+      MethodDeclarationsVoid(
+      ) [MethodDeclarationsVoid]
+      MethodNameDecl(
+       main
+      ) [MethodNameDecl]
+      MethodAfterTypeWithoutFormPars(
+      ) [MethodAfterTypeWithoutFormPars]
+      VarDeclarations(
+        NoVarDecl(
+        ) [NoVarDecl]
+        VarDeclDecl(
+          Type(
+           int
+          ) [Type]
+          VarNotHaveBracket(
+           x
+          ) [VarNotHaveBracket]
+          NoVarDeclList(
+          ) [NoVarDeclList]
+        ) [VarDeclDecl]
+      ) [VarDeclarations]
+      StatListDecl(
+        NoStatementList(
+        ) [NoStatementList]
+        SingleStatementNoLabel(
+          PrintStatement(
+            AddOperationTerm(
+              OneTerm(
+                TermStmtOnly(
+                  FactorNumConst(
+                   6
+                  ) [FactorNumConst]
+                ) [TermStmtOnly]
+              ) [OneTerm]
+            ) [AddOperationTerm]
+            NoExprForPrint(
+            ) [NoExprForPrint]
+          ) [PrintStatement]
+        ) [SingleStatementNoLabel]
+      ) [StatListDecl]
+    ) [MethodDeclaration]
+  ) [MethodDeclarationsList]
+) [Program]
+INFO  12:14:58,501 - ===================================
+INFO  12:14:58,504 - ===================================
+INFO  12:14:58,509 - Parsiranje uspesno zavrseno!

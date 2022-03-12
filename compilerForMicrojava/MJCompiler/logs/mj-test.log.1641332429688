@@ -1,0 +1,101 @@
+INFO  22:39:52,097 - Compiling source file: C:\pp\workspace\MJCompiler\test\program3.mj
+INFO  22:39:52,170 - #2 program
+INFO  22:39:52,170 - #3 MJProgram
+INFO  22:39:52,170 - #4 {
+INFO  22:39:52,172 - #16 void
+INFO  22:39:52,174 - #3 main
+INFO  22:39:52,175 - #12 (
+INFO  22:39:52,177 - #9 )
+INFO  22:39:52,178 - #4 {
+INFO  22:39:52,179 - #14 print
+INFO  22:39:52,180 - #12 (
+INFO  22:39:52,180 - #32 1
+INFO  22:39:52,181 - #9 )
+INFO  22:39:52,183 - #25 ;
+INFO  22:39:52,183 - #26 goto
+INFO  22:39:52,184 - #3 labela1
+INFO  22:39:52,184 - #25 ;
+INFO  22:39:52,185 - #3 labela1
+INFO  22:39:52,185 - #17 :
+INFO  22:39:52,185 - #14 print
+INFO  22:39:52,185 - #12 (
+INFO  22:39:52,186 - #32 6
+INFO  22:39:52,186 - #9 )
+INFO  22:39:52,191 - #25 ;
+INFO  22:39:52,191 - #5 }
+INFO  22:39:52,191 - #5 }
+INFO  22:39:52,198 - Program(
+  ProgName(
+   MJProgram
+  ) [ProgName]
+  NoDecl(
+  ) [NoDecl]
+  MethodDeclarationsList(
+    NoMethodDeclarations(
+    ) [NoMethodDeclarations]
+    MethodDeclaration(
+      MethodDeclarationsVoid(
+      ) [MethodDeclarationsVoid]
+      MethodName(
+       main
+      ) [MethodName]
+      MethodAfterTypeWithoutFormPars(
+      ) [MethodAfterTypeWithoutFormPars]
+      NoVarDecl(
+      ) [NoVarDecl]
+      StatListDecl(
+        StatListDecl(
+          StatListDecl(
+            NoStatementList(
+            ) [NoStatementList]
+            SingleStatementNoLabel(
+              PrintStatement(
+                AddOperationTerm(
+                  OneTerm(
+                    TermStmtOnly(
+                      FactorNumConst(
+                       1
+                      ) [FactorNumConst]
+                    ) [TermStmtOnly]
+                  ) [OneTerm]
+                ) [AddOperationTerm]
+                NoExprForPrint(
+                ) [NoExprForPrint]
+              ) [PrintStatement]
+            ) [SingleStatementNoLabel]
+          ) [StatListDecl]
+          SingleStatementNoLabel(
+            GoToStatement(
+              Label(
+               labela1
+              ) [Label]
+            ) [GoToStatement]
+          ) [SingleStatementNoLabel]
+        ) [StatListDecl]
+        StatementWithLabel(
+          Label(
+           labela1
+          ) [Label]
+          PrintStatement(
+            AddOperationTerm(
+              OneTerm(
+                TermStmtOnly(
+                  FactorNumConst(
+                   6
+                  ) [FactorNumConst]
+                ) [TermStmtOnly]
+              ) [OneTerm]
+            ) [AddOperationTerm]
+            NoExprForPrint(
+            ) [NoExprForPrint]
+          ) [PrintStatement]
+        ) [StatementWithLabel]
+      ) [StatListDecl]
+    ) [MethodDeclaration]
+  ) [MethodDeclarationsList]
+) [Program]
+INFO  22:39:52,198 - ===================================
+INFO  22:39:52,203 - ===================================
+INFO  22:39:52,206 - designator.getLine()  5 na liniji 5
+INFO  22:39:52,206 - gde treba  15 na liniji 5
+INFO  22:39:52,208 - Parsiranje uspesno zavrseno!

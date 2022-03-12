@@ -1,0 +1,53 @@
+INFO  13:50:53,390 - Compiling source file: C:\ppdomaci\workspace\MJCompiler\test\program2.mj
+INFO  13:50:53,457 - #2 program
+INFO  13:50:53,457 - #3 MJProgram
+INFO  13:50:53,457 - #4 {
+INFO  13:50:53,459 - #16 void
+INFO  13:50:53,460 - #3 main
+INFO  13:50:53,461 - #12 (
+INFO  13:50:53,461 - #9 )
+INFO  13:50:53,462 - #3 int
+INFO  13:50:53,463 - #3 x
+INFO  13:50:53,464 - #25 ;
+INFO  13:50:53,465 - #4 {
+INFO  13:50:53,465 - #5 }
+INFO  13:50:53,466 - #5 }
+INFO  13:50:53,474 - Program(
+  ProgName(
+   MJProgram
+  ) [ProgName]
+  NoDecl(
+  ) [NoDecl]
+  MethodDeclarationsList(
+    NoMethodDeclarations(
+    ) [NoMethodDeclarations]
+    MethodDeclaration(
+      MethodDeclarationsVoid(
+      ) [MethodDeclarationsVoid]
+      MethodNameDecl(
+       main
+      ) [MethodNameDecl]
+      MethodAfterTypeWithoutFormPars(
+      ) [MethodAfterTypeWithoutFormPars]
+      VarDeclarations(
+        NoVarDecl(
+        ) [NoVarDecl]
+        VarDeclDecl(
+          Type(
+           int
+          ) [Type]
+          VarNotHaveBracket(
+           x
+          ) [VarNotHaveBracket]
+          NoVarDeclList(
+          ) [NoVarDeclList]
+        ) [VarDeclDecl]
+      ) [VarDeclarations]
+      NoStatementList(
+      ) [NoStatementList]
+    ) [MethodDeclaration]
+  ) [MethodDeclarationsList]
+) [Program]
+INFO  13:50:53,479 - ===================================
+INFO  13:50:53,482 - ===================================
+INFO  13:50:53,485 - Parsiranje uspesno zavrseno!

@@ -1,0 +1,152 @@
+INFO  00:11:15,831 - Compiling source file: C:\pp\workspace\MJCompiler\test\program3.mj
+INFO  00:11:15,872 - #2 program
+INFO  00:11:15,872 - #3 MJProgram
+INFO  00:11:15,872 - #4 {
+INFO  00:11:15,873 - #16 void
+INFO  00:11:15,874 - #3 main
+INFO  00:11:15,874 - #12 (
+INFO  00:11:15,875 - #9 )
+INFO  00:11:15,875 - #3 char
+INFO  00:11:15,876 - #3 niz
+INFO  00:11:15,877 - #11 [
+INFO  00:11:15,877 - #10 ]
+INFO  00:11:15,877 - #25 ;
+INFO  00:11:15,877 - #3 char
+INFO  00:11:15,878 - #3 c
+INFO  00:11:15,878 - #25 ;
+INFO  00:11:15,878 - #4 {
+INFO  00:11:15,878 - #3 niz
+INFO  00:11:15,878 - #47 =
+INFO  00:11:15,879 - #15 new
+INFO  00:11:15,879 - #3 int
+INFO  00:11:15,879 - #11 [
+INFO  00:11:15,880 - #32 3
+INFO  00:11:15,880 - #10 ]
+INFO  00:11:15,880 - #25 ;
+INFO  00:11:15,880 - #3 niz
+INFO  00:11:15,880 - #11 [
+INFO  00:11:15,881 - #32 1
+INFO  00:11:15,881 - #10 ]
+INFO  00:11:15,881 - #47 =
+INFO  00:11:15,881 - #33 a
+INFO  00:11:15,881 - #25 ;
+INFO  00:11:15,881 - #5 }
+INFO  00:11:15,881 - #5 }
+INFO  00:11:15,887 - Program(
+  ProgName(
+   MJProgram
+  ) [ProgName]
+  NoDecl(
+  ) [NoDecl]
+  MethodDeclarationsList(
+    NoMethodDeclarations(
+    ) [NoMethodDeclarations]
+    MethodDeclaration(
+      MethodDeclarationsVoid(
+      ) [MethodDeclarationsVoid]
+      MethodName(
+       main
+      ) [MethodName]
+      MethodAfterTypeWithoutFormPars(
+      ) [MethodAfterTypeWithoutFormPars]
+      VarDeclarations(
+        VarDeclarations(
+          NoVarDecl(
+          ) [NoVarDecl]
+          VarDeclDecl(
+            Type(
+             char
+            ) [Type]
+            VarHaveBracket(
+             niz
+            ) [VarHaveBracket]
+            NoVarDeclList(
+            ) [NoVarDeclList]
+          ) [VarDeclDecl]
+        ) [VarDeclarations]
+        VarDeclDecl(
+          Type(
+           char
+          ) [Type]
+          VarNotHaveBracket(
+           c
+          ) [VarNotHaveBracket]
+          NoVarDeclList(
+          ) [NoVarDeclList]
+        ) [VarDeclDecl]
+      ) [VarDeclarations]
+      StatListDecl(
+        StatListDecl(
+          NoStatementList(
+          ) [NoStatementList]
+          SingleStatementNoLabel(
+            SingleStatementDesignator(
+              AssignopExpr(
+                CleanDesignator(
+                 niz
+                ) [CleanDesignator]
+                AssignopDecl(
+                ) [AssignopDecl]
+                AddOperationTerm(
+                  OneTerm(
+                    TermStmtOnly(
+                      FactorNewExpr(
+                        Type(
+                         int
+                        ) [Type]
+                        AddOperationTerm(
+                          OneTerm(
+                            TermStmtOnly(
+                              FactorNumConst(
+                               3
+                              ) [FactorNumConst]
+                            ) [TermStmtOnly]
+                          ) [OneTerm]
+                        ) [AddOperationTerm]
+                      ) [FactorNewExpr]
+                    ) [TermStmtOnly]
+                  ) [OneTerm]
+                ) [AddOperationTerm]
+              ) [AssignopExpr]
+            ) [SingleStatementDesignator]
+          ) [SingleStatementNoLabel]
+        ) [StatListDecl]
+        SingleStatementNoLabel(
+          SingleStatementDesignator(
+            AssignopExpr(
+              ArrayElementAccessDesignator(
+                CleanDesignator(
+                 niz
+                ) [CleanDesignator]
+                AddOperationTerm(
+                  OneTerm(
+                    TermStmtOnly(
+                      FactorNumConst(
+                       1
+                      ) [FactorNumConst]
+                    ) [TermStmtOnly]
+                  ) [OneTerm]
+                ) [AddOperationTerm]
+              ) [ArrayElementAccessDesignator]
+              AssignopDecl(
+              ) [AssignopDecl]
+              AddOperationTerm(
+                OneTerm(
+                  TermStmtOnly(
+                    FactorCharConst(
+                     a
+                    ) [FactorCharConst]
+                  ) [TermStmtOnly]
+                ) [OneTerm]
+              ) [AddOperationTerm]
+            ) [AssignopExpr]
+          ) [SingleStatementDesignator]
+        ) [SingleStatementNoLabel]
+      ) [StatListDecl]
+    ) [MethodDeclaration]
+  ) [MethodDeclarationsList]
+) [Program]
+INFO  00:11:15,888 - ===================================
+INFO  00:11:15,890 - Nisu istog tipa  na liniji 5
+INFO  00:11:15,890 - ===================================
+INFO  00:11:15,893 - Parsiranje uspesno zavrseno!

@@ -1,0 +1,81 @@
+INFO  10:57:17,016 - Compiling source file: C:\ppdomaci\workspace\MJCompiler\test\program2.mj
+INFO  10:57:17,081 - #2 program
+INFO  10:57:17,081 - #3 MJProgram
+INFO  10:57:17,082 - #6 const
+INFO  10:57:17,083 - #3 int
+INFO  10:57:17,083 - #3 broj3
+INFO  10:57:17,084 - #47 =
+INFO  10:57:17,085 - #32 0
+INFO  10:57:17,085 - #25 ;
+INFO  10:57:17,086 - #4 {
+INFO  10:57:17,087 - #16 void
+INFO  10:57:17,088 - #3 main
+INFO  10:57:17,089 - #12 (
+INFO  10:57:17,090 - #9 )
+INFO  10:57:17,091 - #4 {
+INFO  10:57:17,092 - #14 print
+INFO  10:57:17,093 - #12 (
+INFO  10:57:17,094 - #32 5
+INFO  10:57:17,094 - #9 )
+INFO  10:57:17,095 - #25 ;
+INFO  10:57:17,095 - #5 }
+INFO  10:57:17,096 - #5 }
+INFO  10:57:17,105 - Program(
+  ProgName(
+   MJProgram
+  ) [ProgName]
+  DeclarationsList(
+    NoDecl(
+    ) [NoDecl]
+    ConstDeclaration(
+      ConstDeclDecl(
+        Type(
+         int
+        ) [Type]
+       broj3
+        NumConstDecl(
+         0
+        ) [NumConstDecl]
+        NoConstDeclList(
+        ) [NoConstDeclList]
+      ) [ConstDeclDecl]
+    ) [ConstDeclaration]
+  ) [DeclarationsList]
+  MethodDeclarationsList(
+    NoMethodDeclarations(
+    ) [NoMethodDeclarations]
+    MethodDeclaration(
+      MethodDeclarationsVoid(
+      ) [MethodDeclarationsVoid]
+      MethodNameDecl(
+       main
+      ) [MethodNameDecl]
+      MethodAfterTypeWithoutFormPars(
+      ) [MethodAfterTypeWithoutFormPars]
+      NoVarDecl(
+      ) [NoVarDecl]
+      StatListDecl(
+        NoStatementList(
+        ) [NoStatementList]
+        SingleStatementNoLabel(
+          PrintStatement(
+            AddOperationTerm(
+              OneTerm(
+                TermStmtOnly(
+                  FactorNumConst(
+                   5
+                  ) [FactorNumConst]
+                ) [TermStmtOnly]
+              ) [OneTerm]
+            ) [AddOperationTerm]
+            NoExprForPrint(
+            ) [NoExprForPrint]
+          ) [PrintStatement]
+        ) [SingleStatementNoLabel]
+      ) [StatListDecl]
+    ) [MethodDeclaration]
+  ) [MethodDeclarationsList]
+) [Program]
+INFO  10:57:17,110 - ===================================
+INFO  10:57:17,113 - ===================================
+INFO  10:57:17,117 - Parsiranje uspesno zavrseno!
